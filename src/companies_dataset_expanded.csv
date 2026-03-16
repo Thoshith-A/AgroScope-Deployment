@@ -1,0 +1,1001 @@
+company_id,required_category,quantity_needed_kg,max_price_per_quintal,location_state,latitude,longitude,company_name,required_crop,required_quantity,price_range,location,urgency_level
+C001,Fiber,3575.0,2675.0,Madhya Pradesh,22.949,76.296,,,,,,
+C002,Vegetable,1795.0,5440.0,Tamil Nadu,17.233,69.371,,,,,,
+C003,Oilseed,3963.0,2499.0,Uttar Pradesh,32.394,96.681,,,,,,
+C004,Millet,9716.0,4551.0,Tamil Nadu,33.141,73.99,,,,,,
+C005,Vegetable,3930.0,5359.0,Uttar Pradesh,32.146,76.111,,,,,,
+C006,Commercial,5861.0,6151.0,West Bengal,11.671,78.711,,,,,,
+C007,Fiber,3407.0,5823.0,Karnataka,12.567,95.85,,,,,,
+C008,Millet,4281.0,4835.0,Madhya Pradesh,25.317,75.2,,,,,,
+C009,Cereal,3583.0,6546.0,Maharashtra,29.054,82.384,,,,,,
+C010,Cereal,5079.0,6364.0,Madhya Pradesh,12.98,75.416,,,,,,
+C011,Commercial,8838.0,5057.0,Karnataka,9.157,74.812,,,,,,
+C012,Vegetable,4573.0,4769.0,Karnataka,31.652,87.149,,,,,,
+C013,Oilseed,4085.0,4002.0,Uttar Pradesh,18.301,78.356,,,,,,
+C014,Commercial,4566.0,5816.0,Gujarat,10.91,68.206,,,,,,
+C015,Millet,2804.0,5056.0,Haryana,36.935,92.368,,,,,,
+C016,Commercial,3193.0,2692.0,Uttar Pradesh,12.975,91.834,,,,,,
+C017,Fruit,6070.0,2847.0,Punjab,34.287,83.293,,,,,,
+C018,Cereal,5427.0,5232.0,Punjab,29.79,87.923,,,,,,
+C019,Millet,4660.0,3333.0,Maharashtra,33.963,75.423,,,,,,
+C020,Fruit,1435.0,6890.0,Odisha,30.789,77.143,,,,,,
+C021,Fruit,1240.0,5005.0,Maharashtra,25.627,84.491,,,,,,
+C022,Pulse,4058.0,2222.0,West Bengal,34.355,90.67,,,,,,
+C023,Cereal,2068.0,5910.0,Tamil Nadu,11.928,71.017,,,,,,
+C024,Fruit,1017.0,3202.0,Gujarat,35.901,93.314,,,,,,
+C025,Oilseed,9920.0,2815.0,Punjab,32.733,96.809,,,,,,
+C026,Oilseed,5786.0,5450.0,Tamil Nadu,8.068,82.869,,,,,,
+C027,Millet,7157.0,5999.0,Karnataka,23.256,75.625,,,,,,
+C028,Fruit,6571.0,5466.0,West Bengal,16.648,79.885,,,,,,
+C029,Cereal,6768.0,6528.0,Punjab,34.8,71.099,,,,,,
+C030,Fiber,8315.0,4104.0,Madhya Pradesh,24.307,83.611,,,,,,
+C031,Oilseed,7749.0,3044.0,Uttar Pradesh,32.881,75.121,,,,,,
+C032,Oilseed,4739.0,5143.0,Karnataka,13.353,71.578,,,,,,
+C033,Oilseed,4424.0,2334.0,Karnataka,22.799,70.773,,,,,,
+C034,Fiber,4992.0,6448.0,Odisha,33.944,92.635,,,,,,
+C035,Fruit,8891.0,4466.0,Madhya Pradesh,34.92,69.932,,,,,,
+C036,Commercial,4115.0,6047.0,Karnataka,36.96,70.642,,,,,,
+C037,Vegetable,9594.0,6972.0,Gujarat,22.089,82.353,,,,,,
+C038,Fruit,8201.0,2618.0,Tamil Nadu,34.864,87.385,,,,,,
+C039,Commercial,8438.0,2138.0,Gujarat,34.856,82.845,,,,,,
+C040,Cereal,8110.0,2486.0,Madhya Pradesh,32.703,73.367,,,,,,
+C041,Commercial,4522.0,5178.0,Haryana,36.517,79.469,,,,,,
+C042,Vegetable,7491.0,3893.0,Tamil Nadu,35.023,91.718,,,,,,
+C043,Oilseed,3842.0,3766.0,Punjab,29.044,90.882,,,,,,
+C044,Cereal,9452.0,2904.0,West Bengal,24.687,78.901,,,,,,
+C045,Commercial,1044.0,6873.0,Punjab,10.223,78.725,,,,,,
+C046,Vegetable,5903.0,3798.0,Tamil Nadu,21.566,96.729,,,,,,
+C047,Fiber,3232.0,2047.0,Tamil Nadu,11.944,81.803,,,,,,
+C048,Fiber,4110.0,4970.0,Odisha,36.714,81.25,,,,,,
+C049,Fiber,9913.0,3321.0,Punjab,33.123,70.584,,,,,,
+C050,Vegetable,1938.0,2982.0,Uttar Pradesh,15.454,78.792,,,,,,
+C051,Millet,5170.0,6601.0,Karnataka,8.269,75.15,,,,,,
+C052,Fiber,1381.0,3968.0,Haryana,9.312,85.987,,,,,,
+C053,Fruit,9321.0,6668.0,Maharashtra,18.274,92.694,,,,,,
+C054,Cereal,3310.0,3638.0,Maharashtra,11.611,87.713,,,,,,
+C055,Millet,1393.0,3189.0,Karnataka,26.532,81.6,,,,,,
+C056,Commercial,6314.0,2495.0,Odisha,13.911,85.504,,,,,,
+C057,Pulse,7261.0,4942.0,West Bengal,16.733,86.577,,,,,,
+C058,Oilseed,3659.0,3334.0,Maharashtra,35.494,68.08,,,,,,
+C059,Pulse,1733.0,5378.0,Madhya Pradesh,28.462,83.13,,,,,,
+C060,Fiber,5503.0,5608.0,Punjab,17.683,94.49,,,,,,
+C061,Vegetable,9417.0,4892.0,Tamil Nadu,26.682,77.354,,,,,,
+C062,Fiber,9448.0,6884.0,Tamil Nadu,13.292,81.466,,,,,,
+C063,Commercial,4455.0,6625.0,Tamil Nadu,36.281,95.225,,,,,,
+C064,Cereal,8901.0,3097.0,Madhya Pradesh,12.523,96.141,,,,,,
+C065,Cereal,1068.0,6810.0,West Bengal,33.364,81.863,,,,,,
+C066,Fiber,9210.0,4927.0,Karnataka,24.707,91.118,,,,,,
+C067,Fruit,3350.0,6929.0,West Bengal,13.099,72.575,,,,,,
+C068,Vegetable,8375.0,5060.0,Punjab,27.309,90.514,,,,,,
+C069,Vegetable,9589.0,4179.0,Karnataka,15.484,78.775,,,,,,
+C070,Fruit,3690.0,6539.0,Madhya Pradesh,8.376,79.345,,,,,,
+C071,Oilseed,1739.0,2347.0,West Bengal,27.66,90.274,,,,,,
+C072,Commercial,8468.0,6498.0,West Bengal,19.399,81.339,,,,,,
+C073,Pulse,1116.0,6811.0,Odisha,25.921,80.332,,,,,,
+C074,Vegetable,5396.0,3141.0,Odisha,36.458,81.408,,,,,,
+C075,Fiber,6212.0,5010.0,Karnataka,10.389,80.359,,,,,,
+C076,Fiber,5754.0,4457.0,Madhya Pradesh,33.925,75.191,,,,,,
+C077,Pulse,7098.0,5593.0,Tamil Nadu,23.593,81.796,,,,,,
+C078,Cereal,6143.0,4938.0,Haryana,35.878,82.77,,,,,,
+C079,Pulse,1847.0,5815.0,Haryana,8.85,74.203,,,,,,
+C080,Fiber,7679.0,4319.0,Uttar Pradesh,10.404,86.263,,,,,,
+C081,Cereal,4383.0,3574.0,Punjab,16.92,87.495,,,,,,
+C082,Vegetable,7388.0,3212.0,Tamil Nadu,36.697,93.646,,,,,,
+C083,Fruit,4534.0,2853.0,Madhya Pradesh,17.845,90.784,,,,,,
+C084,Commercial,6058.0,4566.0,Maharashtra,23.608,86.98,,,,,,
+C085,Millet,8332.0,6104.0,Tamil Nadu,33.02,85.185,,,,,,
+C086,Oilseed,3851.0,3458.0,Uttar Pradesh,31.162,96.209,,,,,,
+C087,Fiber,9878.0,4057.0,West Bengal,21.509,75.891,,,,,,
+C088,Cereal,7237.0,4461.0,Odisha,34.739,78.806,,,,,,
+C089,Fiber,8402.0,3110.0,Gujarat,35.342,89.089,,,,,,
+C090,Commercial,4676.0,5793.0,Maharashtra,32.727,84.492,,,,,,
+C091,Cereal,5082.0,2646.0,West Bengal,28.453,92.083,,,,,,
+C092,Millet,3547.0,3718.0,Gujarat,29.145,73.805,,,,,,
+C093,Millet,9955.0,4629.0,West Bengal,18.249,76.431,,,,,,
+C094,Oilseed,9381.0,3793.0,Maharashtra,30.295,79.302,,,,,,
+C095,Millet,7522.0,4143.0,Madhya Pradesh,33.379,84.894,,,,,,
+C096,Millet,6869.0,2763.0,West Bengal,26.58,96.398,,,,,,
+C097,Fiber,1447.0,5703.0,Uttar Pradesh,25.662,93.293,,,,,,
+C098,Pulse,6273.0,4423.0,Uttar Pradesh,31.793,90.257,,,,,,
+C099,Vegetable,7040.0,4980.0,Punjab,20.565,83.964,,,,,,
+C100,Commercial,4683.0,6743.0,Gujarat,20.79,82.991,,,,,,
+C101,Fiber,4070.0,4394.0,Maharashtra,27.294,80.321,,,,,,
+C102,Commercial,1730.0,5199.0,Odisha,10.166,84.436,,,,,,
+C103,Cereal,9515.0,5623.0,Gujarat,11.468,92.38,,,,,,
+C104,Cereal,9872.0,6313.0,Haryana,28.585,92.791,,,,,,
+C105,Fiber,6314.0,3468.0,Madhya Pradesh,20.81,68.474,,,,,,
+C106,Millet,6767.0,5528.0,Uttar Pradesh,26.396,81.552,,,,,,
+C107,Oilseed,8559.0,6352.0,Gujarat,16.635,77.733,,,,,,
+C108,Fruit,1354.0,6423.0,Odisha,23.426,83.701,,,,,,
+C109,Pulse,4720.0,5532.0,Haryana,30.488,88.902,,,,,,
+C110,Millet,3580.0,2794.0,Tamil Nadu,16.418,91.954,,,,,,
+C111,Cereal,9310.0,2310.0,Haryana,8.254,88.691,,,,,,
+C112,Fruit,5608.0,2766.0,Punjab,18.128,95.044,,,,,,
+C113,Oilseed,5466.0,3066.0,Maharashtra,11.236,89.405,,,,,,
+C114,Pulse,8297.0,2625.0,Gujarat,28.158,92.391,,,,,,
+C115,Oilseed,8566.0,4150.0,Madhya Pradesh,25.068,76.34,,,,,,
+C116,Fiber,6301.0,6160.0,Maharashtra,9.816,72.175,,,,,,
+C117,Millet,4787.0,4724.0,Uttar Pradesh,34.432,89.621,,,,,,
+C118,Oilseed,8565.0,5739.0,West Bengal,30.27,73.728,,,,,,
+C119,Fiber,2810.0,6557.0,Gujarat,15.529,89.197,,,,,,
+C120,Commercial,1420.0,6547.0,Uttar Pradesh,18.031,96.704,,,,,,
+C121,Cereal,4841.0,6988.0,Uttar Pradesh,28.811,75.285,,,,,,
+C122,Fruit,6702.0,3520.0,Uttar Pradesh,28.309,90.882,,,,,,
+C123,Oilseed,3040.0,4637.0,Madhya Pradesh,27.447,83.928,,,,,,
+C124,Pulse,3920.0,3138.0,Maharashtra,10.654,95.458,,,,,,
+C125,Pulse,8907.0,3010.0,Karnataka,31.443,96.88,,,,,,
+C126,Oilseed,7166.0,3434.0,Haryana,31.788,89.469,,,,,,
+C127,Fiber,3723.0,3921.0,Karnataka,19.586,92.428,,,,,,
+C128,Fiber,8653.0,4063.0,Karnataka,21.797,73.533,,,,,,
+C129,Fiber,5597.0,4012.0,Haryana,28.265,68.183,,,,,,
+C130,Commercial,1894.0,3146.0,Maharashtra,36.987,75.422,,,,,,
+C131,Vegetable,3156.0,4045.0,Maharashtra,26.573,81.116,,,,,,
+C132,Fruit,4622.0,2135.0,Maharashtra,31.097,73.557,,,,,,
+C133,Pulse,6555.0,2779.0,Karnataka,24.398,88.162,,,,,,
+C134,Millet,2275.0,5800.0,Tamil Nadu,26.217,92.211,,,,,,
+C135,Fiber,7749.0,5237.0,Odisha,30.286,81.993,,,,,,
+C136,Oilseed,8624.0,6603.0,West Bengal,11.926,69.52,,,,,,
+C137,Oilseed,7940.0,2077.0,Gujarat,16.678,69.545,,,,,,
+C138,Vegetable,6076.0,2014.0,Punjab,26.197,89.602,,,,,,
+C139,Cereal,8562.0,6032.0,Karnataka,26.489,85.779,,,,,,
+C140,Cereal,4774.0,2821.0,Uttar Pradesh,20.038,95.901,,,,,,
+C141,Vegetable,8460.0,5658.0,Madhya Pradesh,8.58,69.475,,,,,,
+C142,Oilseed,4615.0,3044.0,Uttar Pradesh,29.655,95.212,,,,,,
+C143,Fiber,4967.0,3996.0,Gujarat,24.713,95.862,,,,,,
+C144,Pulse,2193.0,6936.0,West Bengal,28.363,71.315,,,,,,
+C145,Millet,9891.0,2450.0,Gujarat,28.691,71.243,,,,,,
+C146,Cereal,4562.0,2179.0,Madhya Pradesh,14.037,71.163,,,,,,
+C147,Pulse,8150.0,2100.0,Odisha,34.007,84.421,,,,,,
+C148,Commercial,4850.0,5312.0,Gujarat,25.328,85.949,,,,,,
+C149,Fiber,7650.0,6413.0,Odisha,12.849,85.705,,,,,,
+C150,Pulse,1990.0,3873.0,Tamil Nadu,20.334,84.816,,,,,,
+C151,Fiber,4077.0,6532.0,West Bengal,21.923,74.667,,,,,,
+C152,Commercial,5748.0,4515.0,Tamil Nadu,21.153,82.179,,,,,,
+C153,Commercial,8486.0,5580.0,Madhya Pradesh,18.148,80.069,,,,,,
+C154,Cereal,8596.0,2751.0,Madhya Pradesh,33.082,77.857,,,,,,
+C155,Fruit,5398.0,3515.0,Haryana,16.125,95.555,,,,,,
+C156,Fiber,8731.0,5419.0,Odisha,22.214,95.944,,,,,,
+C157,Oilseed,2968.0,3991.0,Madhya Pradesh,14.559,80.965,,,,,,
+C158,Fiber,1549.0,5045.0,Maharashtra,19.7,90.365,,,,,,
+C159,Pulse,7674.0,3180.0,Odisha,34.636,85.464,,,,,,
+C160,Fruit,7966.0,6696.0,Odisha,28.145,74.534,,,,,,
+C161,Fruit,5523.0,4506.0,Tamil Nadu,23.746,84.588,,,,,,
+C162,Millet,5704.0,2260.0,Haryana,14.995,75.456,,,,,,
+C163,Vegetable,2999.0,6799.0,Gujarat,29.444,91.135,,,,,,
+C164,Cereal,9862.0,3011.0,Punjab,13.085,91.279,,,,,,
+C165,Fruit,2363.0,5981.0,Haryana,23.245,69.65,,,,,,
+C166,Pulse,5442.0,2995.0,Madhya Pradesh,9.073,96.06,,,,,,
+C167,Vegetable,6153.0,3611.0,Tamil Nadu,36.661,84.105,,,,,,
+C168,Oilseed,8089.0,5290.0,Gujarat,22.145,80.54,,,,,,
+C169,Fruit,6141.0,5828.0,West Bengal,27.824,74.537,,,,,,
+C170,Vegetable,4427.0,6608.0,Haryana,35.884,88.309,,,,,,
+C171,Millet,2228.0,3751.0,Uttar Pradesh,20.168,73.766,,,,,,
+C172,Oilseed,9224.0,6186.0,Tamil Nadu,13.029,72.863,,,,,,
+C173,Commercial,5990.0,3587.0,Maharashtra,30.112,79.683,,,,,,
+C174,Commercial,8548.0,6143.0,Odisha,28.516,70.576,,,,,,
+C175,Fiber,8190.0,5985.0,Haryana,14.488,85.359,,,,,,
+C176,Vegetable,2530.0,4105.0,Uttar Pradesh,32.232,82.967,,,,,,
+C177,Fiber,8082.0,2901.0,Uttar Pradesh,14.146,70.961,,,,,,
+C178,Pulse,2884.0,5994.0,Haryana,36.682,84.053,,,,,,
+C179,Commercial,6475.0,2913.0,Uttar Pradesh,16.131,96.836,,,,,,
+C180,Vegetable,7987.0,5184.0,Uttar Pradesh,23.427,69.18,,,,,,
+C181,Fruit,1432.0,6573.0,West Bengal,34.547,90.385,,,,,,
+C182,Commercial,1447.0,2041.0,Punjab,33.184,95.641,,,,,,
+C183,Vegetable,1303.0,6291.0,Odisha,14.979,68.023,,,,,,
+C184,Millet,5573.0,5851.0,Punjab,35.047,69.028,,,,,,
+C185,Millet,8461.0,2913.0,Haryana,31.794,71.933,,,,,,
+C186,Millet,8496.0,5477.0,Haryana,32.511,81.175,,,,,,
+C187,Commercial,7657.0,2064.0,Odisha,18.499,71.843,,,,,,
+C188,Fiber,2954.0,6634.0,Uttar Pradesh,26.02,87.431,,,,,,
+C189,Commercial,3093.0,4138.0,Tamil Nadu,26.809,89.988,,,,,,
+C190,Fruit,7854.0,2549.0,Karnataka,21.544,75.518,,,,,,
+C191,Commercial,5530.0,5927.0,Maharashtra,29.735,73.28,,,,,,
+C192,Cereal,1117.0,5700.0,West Bengal,36.637,84.16,,,,,,
+C193,Fiber,4328.0,2101.0,Uttar Pradesh,35.29,79.263,,,,,,
+C194,Fruit,6829.0,6509.0,West Bengal,15.711,83.828,,,,,,
+C195,Fruit,6784.0,6925.0,Maharashtra,20.651,90.508,,,,,,
+C196,Vegetable,8418.0,5346.0,Madhya Pradesh,25.183,85.644,,,,,,
+C197,Pulse,2387.0,5576.0,Punjab,10.103,84.274,,,,,,
+C198,Cereal,6430.0,4285.0,Punjab,36.517,77.188,,,,,,
+C199,Fruit,6339.0,4130.0,Punjab,22.679,73.937,,,,,,
+C200,Pulse,3385.0,6355.0,Punjab,21.231,87.775,,,,,,
+COM0201,Fruit,,,,,,AgroBuyer_201,Rice,398.0,4635.0,Bihar,Low
+COM0202,Oilseed,,,,,,AgroBuyer_202,Barley,496.0,4457.0,Andhra Pradesh,Low
+COM0203,Vegetable,,,,,,AgroBuyer_203,Maize,86.0,8772.0,Karnataka,Low
+COM0204,Oilseed,,,,,,AgroBuyer_204,Mango,179.0,7526.0,Bihar,Medium
+COM0205,Fodder,,,,,,AgroBuyer_205,Soybean,430.0,8601.0,Karnataka,High
+COM0206,Fruit,,,,,,AgroBuyer_206,Soybean,222.0,5938.0,Tamil Nadu,High
+COM0207,Commercial,,,,,,AgroBuyer_207,Apple,216.0,2638.0,Maharashtra,Low
+COM0208,Vegetable,,,,,,AgroBuyer_208,Wheat,347.0,2913.0,West Bengal,High
+COM0209,Commercial,,,,,,AgroBuyer_209,Rice,416.0,5609.0,Maharashtra,Medium
+COM0210,Vegetable,,,,,,AgroBuyer_210,Apple,439.0,3948.0,West Bengal,Medium
+COM0211,Pulses,,,,,,AgroBuyer_211,Tomato,200.0,7437.0,Andhra Pradesh,Medium
+COM0212,Fruit,,,,,,AgroBuyer_212,Maize,442.0,2288.0,Karnataka,High
+COM0213,Fiber,,,,,,AgroBuyer_213,Mango,80.0,3603.0,Tamil Nadu,Medium
+COM0214,Fruit,,,,,,AgroBuyer_214,Wheat,250.0,2531.0,Tamil Nadu,Low
+COM0215,Vegetable,,,,,,AgroBuyer_215,Apple,44.0,4424.0,Uttar Pradesh,Medium
+COM0216,Commercial,,,,,,AgroBuyer_216,Maize,50.0,5278.0,Madhya Pradesh,High
+COM0217,Vegetable,,,,,,AgroBuyer_217,Jute,221.0,8183.0,Tamil Nadu,High
+COM0218,Oilseed,,,,,,AgroBuyer_218,Tomato,154.0,5016.0,Uttar Pradesh,Medium
+COM0219,Pulses,,,,,,AgroBuyer_219,Rice,152.0,3453.0,Tamil Nadu,Medium
+COM0220,Cereal,,,,,,AgroBuyer_220,Barley,436.0,4686.0,West Bengal,High
+COM0221,Commercial,,,,,,AgroBuyer_221,Mango,129.0,8448.0,Gujarat,Low
+COM0222,Fodder,,,,,,AgroBuyer_222,Banana,267.0,8926.0,Punjab,High
+COM0223,Fiber,,,,,,AgroBuyer_223,Tomato,445.0,3734.0,Bihar,High
+COM0224,Commercial,,,,,,AgroBuyer_224,Barley,294.0,7066.0,Maharashtra,Medium
+COM0225,Oilseed,,,,,,AgroBuyer_225,Rice,247.0,8267.0,West Bengal,High
+COM0226,Cereal,,,,,,AgroBuyer_226,Wheat,313.0,7827.0,Maharashtra,Low
+COM0227,Fruit,,,,,,AgroBuyer_227,Soybean,396.0,4765.0,Bihar,Low
+COM0228,Fruit,,,,,,AgroBuyer_228,Mango,55.0,4137.0,Gujarat,Low
+COM0229,Oilseed,,,,,,AgroBuyer_229,Maize,320.0,7747.0,Gujarat,High
+COM0230,Cereal,,,,,,AgroBuyer_230,Jute,285.0,4123.0,Andhra Pradesh,Medium
+COM0231,Cereal,,,,,,AgroBuyer_231,Potato,274.0,6225.0,Maharashtra,High
+COM0232,Pulses,,,,,,AgroBuyer_232,Sugarcane,356.0,4810.0,Tamil Nadu,Low
+COM0233,Oilseed,,,,,,AgroBuyer_233,Apple,142.0,2995.0,Bihar,High
+COM0234,Commercial,,,,,,AgroBuyer_234,Maize,337.0,6371.0,Bihar,Medium
+COM0235,Fiber,,,,,,AgroBuyer_235,Maize,416.0,4845.0,Madhya Pradesh,Medium
+COM0236,Cereal,,,,,,AgroBuyer_236,Apple,265.0,3979.0,Uttar Pradesh,Low
+COM0237,Oilseed,,,,,,AgroBuyer_237,Apple,359.0,6084.0,Bihar,Medium
+COM0238,Vegetable,,,,,,AgroBuyer_238,Jute,275.0,6573.0,Uttar Pradesh,Medium
+COM0239,Vegetable,,,,,,AgroBuyer_239,Tomato,248.0,6063.0,Madhya Pradesh,Low
+COM0240,Vegetable,,,,,,AgroBuyer_240,Jute,122.0,2180.0,Punjab,Medium
+COM0241,Vegetable,,,,,,AgroBuyer_241,Maize,194.0,6493.0,Bihar,Low
+COM0242,Vegetable,,,,,,AgroBuyer_242,Wheat,49.0,3422.0,Maharashtra,Low
+COM0243,Cereal,,,,,,AgroBuyer_243,Groundnut,222.0,6244.0,Tamil Nadu,Low
+COM0244,Fodder,,,,,,AgroBuyer_244,Mango,394.0,3011.0,Punjab,High
+COM0245,Fodder,,,,,,AgroBuyer_245,Rice,104.0,7544.0,Tamil Nadu,Medium
+COM0246,Vegetable,,,,,,AgroBuyer_246,Onion,178.0,8495.0,Punjab,Medium
+COM0247,Fruit,,,,,,AgroBuyer_247,Wheat,52.0,6371.0,Gujarat,Medium
+COM0248,Vegetable,,,,,,AgroBuyer_248,Banana,193.0,3452.0,Gujarat,Medium
+COM0249,Commercial,,,,,,AgroBuyer_249,Barley,177.0,4181.0,West Bengal,Low
+COM0250,Fiber,,,,,,AgroBuyer_250,Soybean,348.0,3917.0,West Bengal,High
+COM0251,Cereal,,,,,,AgroBuyer_251,Apple,125.0,4052.0,Bihar,Low
+COM0252,Oilseed,,,,,,AgroBuyer_252,Sugarcane,416.0,7388.0,Bihar,High
+COM0253,Commercial,,,,,,AgroBuyer_253,Potato,272.0,8082.0,Tamil Nadu,Medium
+COM0254,Commercial,,,,,,AgroBuyer_254,Cotton,37.0,3746.0,Maharashtra,Medium
+COM0255,Fruit,,,,,,AgroBuyer_255,Mustard,170.0,3196.0,Bihar,Medium
+COM0256,Fruit,,,,,,AgroBuyer_256,Groundnut,486.0,6734.0,West Bengal,High
+COM0257,Fiber,,,,,,AgroBuyer_257,Cotton,138.0,5224.0,Andhra Pradesh,High
+COM0258,Cereal,,,,,,AgroBuyer_258,Maize,15.0,5336.0,Bihar,Low
+COM0259,Fruit,,,,,,AgroBuyer_259,Mustard,482.0,2204.0,Gujarat,High
+COM0260,Vegetable,,,,,,AgroBuyer_260,Rice,238.0,3887.0,Andhra Pradesh,Low
+COM0261,Fruit,,,,,,AgroBuyer_261,Mustard,114.0,2571.0,Bihar,High
+COM0262,Vegetable,,,,,,AgroBuyer_262,Jute,390.0,7894.0,Karnataka,Low
+COM0263,Fodder,,,,,,AgroBuyer_263,Banana,357.0,2210.0,Maharashtra,Low
+COM0264,Cereal,,,,,,AgroBuyer_264,Sugarcane,88.0,3076.0,Andhra Pradesh,Medium
+COM0265,Cereal,,,,,,AgroBuyer_265,Banana,399.0,4206.0,Bihar,High
+COM0266,Cereal,,,,,,AgroBuyer_266,Rice,93.0,7200.0,Bihar,High
+COM0267,Commercial,,,,,,AgroBuyer_267,Groundnut,78.0,7040.0,Karnataka,Medium
+COM0268,Oilseed,,,,,,AgroBuyer_268,Rice,485.0,2258.0,Bihar,High
+COM0269,Vegetable,,,,,,AgroBuyer_269,Mustard,245.0,8206.0,Karnataka,Medium
+COM0270,Cereal,,,,,,AgroBuyer_270,Soybean,228.0,5040.0,West Bengal,High
+COM0271,Pulses,,,,,,AgroBuyer_271,Maize,353.0,5253.0,Gujarat,Medium
+COM0272,Pulses,,,,,,AgroBuyer_272,Barley,307.0,3699.0,Tamil Nadu,Low
+COM0273,Fiber,,,,,,AgroBuyer_273,Banana,225.0,2172.0,Tamil Nadu,Medium
+COM0274,Fruit,,,,,,AgroBuyer_274,Mango,235.0,2322.0,Uttar Pradesh,Medium
+COM0275,Fiber,,,,,,AgroBuyer_275,Tomato,118.0,6335.0,West Bengal,High
+COM0276,Fruit,,,,,,AgroBuyer_276,Apple,130.0,2795.0,Tamil Nadu,Low
+COM0277,Commercial,,,,,,AgroBuyer_277,Maize,245.0,3229.0,Gujarat,Medium
+COM0278,Vegetable,,,,,,AgroBuyer_278,Sugarcane,310.0,2916.0,Karnataka,Low
+COM0279,Vegetable,,,,,,AgroBuyer_279,Onion,326.0,6034.0,Bihar,Medium
+COM0280,Vegetable,,,,,,AgroBuyer_280,Wheat,122.0,6518.0,Andhra Pradesh,Medium
+COM0281,Fiber,,,,,,AgroBuyer_281,Soybean,385.0,5974.0,Karnataka,Low
+COM0282,Fiber,,,,,,AgroBuyer_282,Wheat,420.0,2124.0,Punjab,High
+COM0283,Commercial,,,,,,AgroBuyer_283,Groundnut,103.0,3266.0,Tamil Nadu,High
+COM0284,Fodder,,,,,,AgroBuyer_284,Onion,135.0,2172.0,Maharashtra,High
+COM0285,Oilseed,,,,,,AgroBuyer_285,Maize,374.0,2845.0,West Bengal,Low
+COM0286,Vegetable,,,,,,AgroBuyer_286,Tomato,424.0,5172.0,Andhra Pradesh,High
+COM0287,Pulses,,,,,,AgroBuyer_287,Tomato,214.0,3890.0,Tamil Nadu,Low
+COM0288,Fodder,,,,,,AgroBuyer_288,Barley,191.0,3025.0,West Bengal,Medium
+COM0289,Cereal,,,,,,AgroBuyer_289,Groundnut,217.0,2305.0,Gujarat,Low
+COM0290,Fodder,,,,,,AgroBuyer_290,Banana,372.0,5151.0,Gujarat,Low
+COM0291,Oilseed,,,,,,AgroBuyer_291,Mango,51.0,4002.0,Madhya Pradesh,High
+COM0292,Cereal,,,,,,AgroBuyer_292,Jute,297.0,6492.0,Andhra Pradesh,Low
+COM0293,Commercial,,,,,,AgroBuyer_293,Onion,144.0,6562.0,Madhya Pradesh,Medium
+COM0294,Oilseed,,,,,,AgroBuyer_294,Cotton,333.0,6344.0,Tamil Nadu,Low
+COM0295,Fiber,,,,,,AgroBuyer_295,Jute,129.0,4008.0,Bihar,Medium
+COM0296,Commercial,,,,,,AgroBuyer_296,Wheat,20.0,7526.0,Madhya Pradesh,High
+COM0297,Commercial,,,,,,AgroBuyer_297,Groundnut,187.0,5717.0,Gujarat,Medium
+COM0298,Fodder,,,,,,AgroBuyer_298,Jute,113.0,8769.0,Punjab,Low
+COM0299,Commercial,,,,,,AgroBuyer_299,Banana,402.0,3135.0,Madhya Pradesh,High
+COM0300,Fruit,,,,,,AgroBuyer_300,Jute,54.0,3996.0,Andhra Pradesh,Medium
+COM0301,Commercial,,,,,,AgroBuyer_301,Rice,368.0,4030.0,Uttar Pradesh,High
+COM0302,Oilseed,,,,,,AgroBuyer_302,Tomato,135.0,5457.0,Andhra Pradesh,High
+COM0303,Vegetable,,,,,,AgroBuyer_303,Banana,161.0,8507.0,West Bengal,High
+COM0304,Oilseed,,,,,,AgroBuyer_304,Maize,279.0,7998.0,Maharashtra,Medium
+COM0305,Cereal,,,,,,AgroBuyer_305,Cotton,447.0,2058.0,Uttar Pradesh,Low
+COM0306,Vegetable,,,,,,AgroBuyer_306,Groundnut,260.0,7564.0,Madhya Pradesh,High
+COM0307,Commercial,,,,,,AgroBuyer_307,Rice,170.0,7272.0,Tamil Nadu,Medium
+COM0308,Commercial,,,,,,AgroBuyer_308,Banana,305.0,7473.0,Maharashtra,High
+COM0309,Fruit,,,,,,AgroBuyer_309,Potato,466.0,2618.0,Madhya Pradesh,High
+COM0310,Fodder,,,,,,AgroBuyer_310,Maize,72.0,4118.0,Punjab,High
+COM0311,Fruit,,,,,,AgroBuyer_311,Mango,169.0,4466.0,Uttar Pradesh,Low
+COM0312,Fodder,,,,,,AgroBuyer_312,Sugarcane,404.0,4229.0,Karnataka,High
+COM0313,Cereal,,,,,,AgroBuyer_313,Rice,299.0,6678.0,Andhra Pradesh,High
+COM0314,Cereal,,,,,,AgroBuyer_314,Tomato,482.0,4090.0,Bihar,Low
+COM0315,Vegetable,,,,,,AgroBuyer_315,Groundnut,62.0,2506.0,Bihar,Medium
+COM0316,Fruit,,,,,,AgroBuyer_316,Potato,137.0,7106.0,Bihar,High
+COM0317,Cereal,,,,,,AgroBuyer_317,Groundnut,75.0,4816.0,Punjab,High
+COM0318,Fruit,,,,,,AgroBuyer_318,Barley,404.0,2262.0,Maharashtra,Medium
+COM0319,Pulses,,,,,,AgroBuyer_319,Banana,460.0,6991.0,Madhya Pradesh,Medium
+COM0320,Fruit,,,,,,AgroBuyer_320,Rice,409.0,6132.0,Gujarat,High
+COM0321,Oilseed,,,,,,AgroBuyer_321,Potato,133.0,2347.0,Andhra Pradesh,High
+COM0322,Fodder,,,,,,AgroBuyer_322,Apple,166.0,7796.0,Andhra Pradesh,Low
+COM0323,Fodder,,,,,,AgroBuyer_323,Banana,264.0,3729.0,Maharashtra,Low
+COM0324,Commercial,,,,,,AgroBuyer_324,Maize,277.0,7681.0,Bihar,Low
+COM0325,Cereal,,,,,,AgroBuyer_325,Potato,50.0,4977.0,Bihar,High
+COM0326,Oilseed,,,,,,AgroBuyer_326,Cotton,16.0,7347.0,Uttar Pradesh,Medium
+COM0327,Cereal,,,,,,AgroBuyer_327,Maize,327.0,5759.0,Gujarat,High
+COM0328,Oilseed,,,,,,AgroBuyer_328,Banana,197.0,3377.0,Madhya Pradesh,High
+COM0329,Fiber,,,,,,AgroBuyer_329,Apple,348.0,7679.0,Tamil Nadu,Medium
+COM0330,Vegetable,,,,,,AgroBuyer_330,Maize,222.0,3301.0,Tamil Nadu,Low
+COM0331,Fruit,,,,,,AgroBuyer_331,Cotton,437.0,7979.0,Maharashtra,Low
+COM0332,Fodder,,,,,,AgroBuyer_332,Jute,30.0,5630.0,Tamil Nadu,Low
+COM0333,Fruit,,,,,,AgroBuyer_333,Maize,321.0,5610.0,Uttar Pradesh,Medium
+COM0334,Oilseed,,,,,,AgroBuyer_334,Potato,381.0,4622.0,Karnataka,Medium
+COM0335,Cereal,,,,,,AgroBuyer_335,Soybean,449.0,5150.0,Madhya Pradesh,High
+COM0336,Oilseed,,,,,,AgroBuyer_336,Jute,384.0,6510.0,Madhya Pradesh,Low
+COM0337,Fodder,,,,,,AgroBuyer_337,Mango,93.0,2862.0,Madhya Pradesh,High
+COM0338,Pulses,,,,,,AgroBuyer_338,Groundnut,495.0,6290.0,Maharashtra,High
+COM0339,Pulses,,,,,,AgroBuyer_339,Tomato,92.0,7746.0,Punjab,High
+COM0340,Commercial,,,,,,AgroBuyer_340,Jute,421.0,8940.0,Madhya Pradesh,High
+COM0341,Fruit,,,,,,AgroBuyer_341,Groundnut,339.0,7368.0,Tamil Nadu,High
+COM0342,Fodder,,,,,,AgroBuyer_342,Rice,356.0,3996.0,Uttar Pradesh,Low
+COM0343,Cereal,,,,,,AgroBuyer_343,Apple,465.0,3534.0,West Bengal,Medium
+COM0344,Fodder,,,,,,AgroBuyer_344,Sugarcane,333.0,5922.0,Gujarat,Medium
+COM0345,Cereal,,,,,,AgroBuyer_345,Tomato,264.0,5491.0,Andhra Pradesh,Medium
+COM0346,Fruit,,,,,,AgroBuyer_346,Onion,378.0,7228.0,Punjab,Medium
+COM0347,Fruit,,,,,,AgroBuyer_347,Onion,171.0,3695.0,Andhra Pradesh,Medium
+COM0348,Fodder,,,,,,AgroBuyer_348,Potato,117.0,5884.0,Uttar Pradesh,Medium
+COM0349,Commercial,,,,,,AgroBuyer_349,Cotton,407.0,4295.0,Karnataka,High
+COM0350,Oilseed,,,,,,AgroBuyer_350,Barley,444.0,3108.0,Madhya Pradesh,High
+COM0351,Oilseed,,,,,,AgroBuyer_351,Banana,139.0,6417.0,Punjab,Low
+COM0352,Vegetable,,,,,,AgroBuyer_352,Barley,300.0,7302.0,Uttar Pradesh,Medium
+COM0353,Fiber,,,,,,AgroBuyer_353,Barley,160.0,3949.0,Maharashtra,High
+COM0354,Commercial,,,,,,AgroBuyer_354,Cotton,319.0,4128.0,Gujarat,Medium
+COM0355,Pulses,,,,,,AgroBuyer_355,Mango,473.0,7992.0,Gujarat,Low
+COM0356,Commercial,,,,,,AgroBuyer_356,Mustard,157.0,5790.0,West Bengal,Medium
+COM0357,Fiber,,,,,,AgroBuyer_357,Banana,401.0,5035.0,Tamil Nadu,Medium
+COM0358,Pulses,,,,,,AgroBuyer_358,Apple,463.0,5000.0,Gujarat,Medium
+COM0359,Commercial,,,,,,AgroBuyer_359,Potato,181.0,7637.0,Gujarat,High
+COM0360,Cereal,,,,,,AgroBuyer_360,Onion,426.0,8617.0,Bihar,Low
+COM0361,Fiber,,,,,,AgroBuyer_361,Jute,239.0,3285.0,West Bengal,Low
+COM0362,Fodder,,,,,,AgroBuyer_362,Mango,489.0,8379.0,West Bengal,Medium
+COM0363,Pulses,,,,,,AgroBuyer_363,Mango,105.0,6161.0,Andhra Pradesh,Medium
+COM0364,Commercial,,,,,,AgroBuyer_364,Tomato,335.0,4165.0,Karnataka,High
+COM0365,Vegetable,,,,,,AgroBuyer_365,Sugarcane,230.0,7872.0,Punjab,Medium
+COM0366,Vegetable,,,,,,AgroBuyer_366,Apple,89.0,8926.0,West Bengal,Low
+COM0367,Fiber,,,,,,AgroBuyer_367,Apple,174.0,3140.0,Maharashtra,High
+COM0368,Vegetable,,,,,,AgroBuyer_368,Apple,20.0,6645.0,Gujarat,Medium
+COM0369,Vegetable,,,,,,AgroBuyer_369,Mango,468.0,6815.0,Karnataka,Medium
+COM0370,Fiber,,,,,,AgroBuyer_370,Mango,97.0,7357.0,Punjab,Low
+COM0371,Fiber,,,,,,AgroBuyer_371,Onion,24.0,3341.0,Tamil Nadu,Medium
+COM0372,Vegetable,,,,,,AgroBuyer_372,Sugarcane,471.0,3076.0,Madhya Pradesh,Medium
+COM0373,Fiber,,,,,,AgroBuyer_373,Mango,278.0,3127.0,Tamil Nadu,Low
+COM0374,Commercial,,,,,,AgroBuyer_374,Soybean,94.0,2804.0,Gujarat,High
+COM0375,Oilseed,,,,,,AgroBuyer_375,Banana,316.0,2421.0,Punjab,Low
+COM0376,Vegetable,,,,,,AgroBuyer_376,Jute,322.0,7054.0,Bihar,High
+COM0377,Vegetable,,,,,,AgroBuyer_377,Maize,249.0,2226.0,Karnataka,Low
+COM0378,Fodder,,,,,,AgroBuyer_378,Wheat,170.0,2100.0,Maharashtra,Low
+COM0379,Pulses,,,,,,AgroBuyer_379,Wheat,90.0,4404.0,Gujarat,High
+COM0380,Pulses,,,,,,AgroBuyer_380,Cotton,231.0,5153.0,Gujarat,Low
+COM0381,Commercial,,,,,,AgroBuyer_381,Soybean,265.0,5357.0,Maharashtra,High
+COM0382,Commercial,,,,,,AgroBuyer_382,Barley,75.0,4336.0,Madhya Pradesh,Low
+COM0383,Commercial,,,,,,AgroBuyer_383,Potato,317.0,7447.0,Maharashtra,Low
+COM0384,Fruit,,,,,,AgroBuyer_384,Barley,351.0,2941.0,Bihar,Low
+COM0385,Oilseed,,,,,,AgroBuyer_385,Rice,479.0,7700.0,Uttar Pradesh,High
+COM0386,Pulses,,,,,,AgroBuyer_386,Tomato,442.0,2921.0,Uttar Pradesh,Medium
+COM0387,Fruit,,,,,,AgroBuyer_387,Wheat,393.0,8326.0,Karnataka,Medium
+COM0388,Fodder,,,,,,AgroBuyer_388,Jute,36.0,2674.0,Gujarat,High
+COM0389,Pulses,,,,,,AgroBuyer_389,Jute,128.0,2475.0,Punjab,Medium
+COM0390,Fiber,,,,,,AgroBuyer_390,Soybean,226.0,3659.0,Punjab,Low
+COM0391,Pulses,,,,,,AgroBuyer_391,Onion,489.0,7699.0,Madhya Pradesh,Medium
+COM0392,Fodder,,,,,,AgroBuyer_392,Cotton,146.0,7662.0,Karnataka,Low
+COM0393,Vegetable,,,,,,AgroBuyer_393,Maize,321.0,3258.0,West Bengal,High
+COM0394,Oilseed,,,,,,AgroBuyer_394,Barley,258.0,8841.0,Tamil Nadu,High
+COM0395,Oilseed,,,,,,AgroBuyer_395,Mustard,189.0,3063.0,Bihar,High
+COM0396,Fruit,,,,,,AgroBuyer_396,Onion,145.0,3920.0,Uttar Pradesh,High
+COM0397,Fiber,,,,,,AgroBuyer_397,Jute,266.0,4535.0,Karnataka,Low
+COM0398,Oilseed,,,,,,AgroBuyer_398,Soybean,78.0,4847.0,Karnataka,High
+COM0399,Cereal,,,,,,AgroBuyer_399,Onion,20.0,2291.0,West Bengal,Medium
+COM0400,Fiber,,,,,,AgroBuyer_400,Onion,403.0,5186.0,Tamil Nadu,Low
+COM0401,Pulses,,,,,,AgroBuyer_401,Barley,218.0,4688.0,Maharashtra,High
+COM0402,Pulses,,,,,,AgroBuyer_402,Wheat,147.0,6113.0,Madhya Pradesh,Medium
+COM0403,Fiber,,,,,,AgroBuyer_403,Mustard,397.0,5907.0,Gujarat,Medium
+COM0404,Commercial,,,,,,AgroBuyer_404,Wheat,400.0,3248.0,Bihar,Medium
+COM0405,Fiber,,,,,,AgroBuyer_405,Groundnut,440.0,5563.0,West Bengal,High
+COM0406,Vegetable,,,,,,AgroBuyer_406,Soybean,397.0,5518.0,Punjab,Low
+COM0407,Vegetable,,,,,,AgroBuyer_407,Wheat,65.0,4526.0,Andhra Pradesh,Medium
+COM0408,Pulses,,,,,,AgroBuyer_408,Mustard,146.0,6022.0,Bihar,Low
+COM0409,Fodder,,,,,,AgroBuyer_409,Onion,139.0,2633.0,Madhya Pradesh,Medium
+COM0410,Commercial,,,,,,AgroBuyer_410,Groundnut,359.0,4130.0,Uttar Pradesh,High
+COM0411,Fodder,,,,,,AgroBuyer_411,Tomato,401.0,7146.0,Karnataka,Medium
+COM0412,Fiber,,,,,,AgroBuyer_412,Rice,231.0,4883.0,West Bengal,High
+COM0413,Fodder,,,,,,AgroBuyer_413,Banana,335.0,3017.0,Madhya Pradesh,High
+COM0414,Vegetable,,,,,,AgroBuyer_414,Banana,461.0,3884.0,Uttar Pradesh,Low
+COM0415,Fruit,,,,,,AgroBuyer_415,Sugarcane,204.0,6101.0,Madhya Pradesh,Medium
+COM0416,Oilseed,,,,,,AgroBuyer_416,Groundnut,51.0,7733.0,Gujarat,Low
+COM0417,Commercial,,,,,,AgroBuyer_417,Sugarcane,167.0,2867.0,Andhra Pradesh,Low
+COM0418,Fiber,,,,,,AgroBuyer_418,Barley,148.0,8799.0,Tamil Nadu,Low
+COM0419,Commercial,,,,,,AgroBuyer_419,Rice,242.0,8899.0,Maharashtra,High
+COM0420,Oilseed,,,,,,AgroBuyer_420,Jute,169.0,6744.0,Maharashtra,Medium
+COM0421,Fruit,,,,,,AgroBuyer_421,Rice,355.0,2028.0,Punjab,Medium
+COM0422,Commercial,,,,,,AgroBuyer_422,Maize,239.0,4895.0,Tamil Nadu,High
+COM0423,Fiber,,,,,,AgroBuyer_423,Tomato,170.0,8076.0,West Bengal,High
+COM0424,Commercial,,,,,,AgroBuyer_424,Barley,277.0,2817.0,Tamil Nadu,High
+COM0425,Fruit,,,,,,AgroBuyer_425,Mango,360.0,2237.0,Gujarat,Medium
+COM0426,Fiber,,,,,,AgroBuyer_426,Apple,95.0,7242.0,Punjab,High
+COM0427,Fiber,,,,,,AgroBuyer_427,Wheat,256.0,2826.0,Andhra Pradesh,Low
+COM0428,Commercial,,,,,,AgroBuyer_428,Jute,45.0,5496.0,Punjab,High
+COM0429,Fruit,,,,,,AgroBuyer_429,Rice,267.0,7403.0,Andhra Pradesh,Low
+COM0430,Pulses,,,,,,AgroBuyer_430,Maize,118.0,8536.0,Gujarat,Low
+COM0431,Cereal,,,,,,AgroBuyer_431,Rice,39.0,5581.0,Madhya Pradesh,High
+COM0432,Fodder,,,,,,AgroBuyer_432,Jute,71.0,8534.0,Uttar Pradesh,Medium
+COM0433,Fruit,,,,,,AgroBuyer_433,Sugarcane,453.0,5924.0,Punjab,Low
+COM0434,Fodder,,,,,,AgroBuyer_434,Rice,183.0,5380.0,West Bengal,Medium
+COM0435,Cereal,,,,,,AgroBuyer_435,Groundnut,81.0,7747.0,Punjab,Medium
+COM0436,Commercial,,,,,,AgroBuyer_436,Wheat,389.0,4472.0,Gujarat,Low
+COM0437,Vegetable,,,,,,AgroBuyer_437,Jute,60.0,5268.0,West Bengal,Low
+COM0438,Fiber,,,,,,AgroBuyer_438,Sugarcane,92.0,5542.0,Karnataka,Low
+COM0439,Fiber,,,,,,AgroBuyer_439,Tomato,397.0,4173.0,Maharashtra,Medium
+COM0440,Cereal,,,,,,AgroBuyer_440,Mango,284.0,8702.0,Maharashtra,Low
+COM0441,Fruit,,,,,,AgroBuyer_441,Banana,310.0,2591.0,Andhra Pradesh,Low
+COM0442,Fruit,,,,,,AgroBuyer_442,Banana,17.0,8018.0,Bihar,Medium
+COM0443,Fiber,,,,,,AgroBuyer_443,Soybean,58.0,7718.0,Maharashtra,High
+COM0444,Commercial,,,,,,AgroBuyer_444,Onion,345.0,5326.0,Tamil Nadu,Medium
+COM0445,Pulses,,,,,,AgroBuyer_445,Sugarcane,379.0,8142.0,Maharashtra,Medium
+COM0446,Commercial,,,,,,AgroBuyer_446,Barley,229.0,2165.0,Punjab,Medium
+COM0447,Cereal,,,,,,AgroBuyer_447,Rice,243.0,7530.0,Andhra Pradesh,Medium
+COM0448,Fodder,,,,,,AgroBuyer_448,Cotton,423.0,7425.0,West Bengal,Medium
+COM0449,Commercial,,,,,,AgroBuyer_449,Maize,133.0,3337.0,Andhra Pradesh,High
+COM0450,Fodder,,,,,,AgroBuyer_450,Rice,180.0,4730.0,Uttar Pradesh,High
+COM0451,Fodder,,,,,,AgroBuyer_451,Groundnut,24.0,3616.0,Andhra Pradesh,High
+COM0452,Fruit,,,,,,AgroBuyer_452,Mango,429.0,3573.0,Karnataka,Low
+COM0453,Pulses,,,,,,AgroBuyer_453,Jute,374.0,8003.0,Uttar Pradesh,Low
+COM0454,Fiber,,,,,,AgroBuyer_454,Jute,415.0,2531.0,Punjab,High
+COM0455,Cereal,,,,,,AgroBuyer_455,Rice,313.0,8569.0,Tamil Nadu,High
+COM0456,Fodder,,,,,,AgroBuyer_456,Groundnut,196.0,8396.0,Andhra Pradesh,Medium
+COM0457,Fodder,,,,,,AgroBuyer_457,Mango,190.0,4280.0,Madhya Pradesh,Medium
+COM0458,Cereal,,,,,,AgroBuyer_458,Wheat,166.0,4318.0,Bihar,High
+COM0459,Fiber,,,,,,AgroBuyer_459,Rice,310.0,8067.0,Maharashtra,Medium
+COM0460,Oilseed,,,,,,AgroBuyer_460,Mustard,169.0,7752.0,Gujarat,Medium
+COM0461,Pulses,,,,,,AgroBuyer_461,Onion,156.0,3744.0,Maharashtra,High
+COM0462,Oilseed,,,,,,AgroBuyer_462,Maize,425.0,5501.0,Punjab,High
+COM0463,Oilseed,,,,,,AgroBuyer_463,Maize,487.0,2561.0,Uttar Pradesh,Low
+COM0464,Commercial,,,,,,AgroBuyer_464,Cotton,399.0,2840.0,Andhra Pradesh,Medium
+COM0465,Fiber,,,,,,AgroBuyer_465,Maize,388.0,3755.0,Maharashtra,High
+COM0466,Pulses,,,,,,AgroBuyer_466,Rice,52.0,8012.0,Maharashtra,Medium
+COM0467,Vegetable,,,,,,AgroBuyer_467,Jute,229.0,4587.0,Madhya Pradesh,Low
+COM0468,Oilseed,,,,,,AgroBuyer_468,Groundnut,165.0,8832.0,Andhra Pradesh,Low
+COM0469,Cereal,,,,,,AgroBuyer_469,Mustard,42.0,8349.0,Karnataka,Medium
+COM0470,Commercial,,,,,,AgroBuyer_470,Apple,252.0,8691.0,Karnataka,Low
+COM0471,Pulses,,,,,,AgroBuyer_471,Jute,73.0,5706.0,Uttar Pradesh,High
+COM0472,Fruit,,,,,,AgroBuyer_472,Sugarcane,211.0,4461.0,Tamil Nadu,Medium
+COM0473,Fodder,,,,,,AgroBuyer_473,Soybean,418.0,3939.0,Andhra Pradesh,Low
+COM0474,Commercial,,,,,,AgroBuyer_474,Banana,295.0,7599.0,Maharashtra,High
+COM0475,Fiber,,,,,,AgroBuyer_475,Barley,252.0,6120.0,Uttar Pradesh,Medium
+COM0476,Pulses,,,,,,AgroBuyer_476,Rice,171.0,6132.0,Tamil Nadu,High
+COM0477,Fiber,,,,,,AgroBuyer_477,Mango,434.0,2076.0,Karnataka,Medium
+COM0478,Vegetable,,,,,,AgroBuyer_478,Rice,22.0,6988.0,Bihar,Medium
+COM0479,Pulses,,,,,,AgroBuyer_479,Rice,189.0,2700.0,West Bengal,Low
+COM0480,Commercial,,,,,,AgroBuyer_480,Rice,264.0,3318.0,Andhra Pradesh,Low
+COM0481,Pulses,,,,,,AgroBuyer_481,Banana,186.0,2033.0,West Bengal,Low
+COM0482,Oilseed,,,,,,AgroBuyer_482,Cotton,91.0,8824.0,Maharashtra,Low
+COM0483,Cereal,,,,,,AgroBuyer_483,Apple,362.0,5041.0,Maharashtra,Medium
+COM0484,Oilseed,,,,,,AgroBuyer_484,Barley,281.0,5728.0,Karnataka,High
+COM0485,Fodder,,,,,,AgroBuyer_485,Sugarcane,444.0,2118.0,Gujarat,High
+COM0486,Fodder,,,,,,AgroBuyer_486,Rice,187.0,8338.0,Bihar,Low
+COM0487,Commercial,,,,,,AgroBuyer_487,Banana,237.0,8369.0,Gujarat,Medium
+COM0488,Fruit,,,,,,AgroBuyer_488,Apple,71.0,7544.0,Maharashtra,Low
+COM0489,Fruit,,,,,,AgroBuyer_489,Mango,78.0,5649.0,Karnataka,High
+COM0490,Fodder,,,,,,AgroBuyer_490,Mustard,407.0,5590.0,Punjab,Low
+COM0491,Commercial,,,,,,AgroBuyer_491,Cotton,122.0,3459.0,Karnataka,High
+COM0492,Fruit,,,,,,AgroBuyer_492,Sugarcane,32.0,7482.0,Gujarat,Medium
+COM0493,Fruit,,,,,,AgroBuyer_493,Tomato,410.0,2895.0,Bihar,High
+COM0494,Oilseed,,,,,,AgroBuyer_494,Sugarcane,281.0,7530.0,Madhya Pradesh,Medium
+COM0495,Fiber,,,,,,AgroBuyer_495,Potato,189.0,3779.0,Punjab,Low
+COM0496,Commercial,,,,,,AgroBuyer_496,Apple,188.0,8093.0,Andhra Pradesh,Medium
+COM0497,Commercial,,,,,,AgroBuyer_497,Maize,88.0,4193.0,Tamil Nadu,Low
+COM0498,Fiber,,,,,,AgroBuyer_498,Soybean,438.0,8774.0,Maharashtra,High
+COM0499,Fiber,,,,,,AgroBuyer_499,Cotton,362.0,2703.0,Madhya Pradesh,High
+COM0500,Fiber,,,,,,AgroBuyer_500,Barley,160.0,4067.0,West Bengal,Low
+COM0501,Fiber,,,,,,AgroBuyer_501,Cotton,174.0,2138.0,Maharashtra,Low
+COM0502,Oilseed,,,,,,AgroBuyer_502,Groundnut,280.0,5980.0,Madhya Pradesh,Low
+COM0503,Commercial,,,,,,AgroBuyer_503,Mustard,481.0,6946.0,Bihar,High
+COM0504,Oilseed,,,,,,AgroBuyer_504,Mustard,221.0,6427.0,Maharashtra,High
+COM0505,Cereal,,,,,,AgroBuyer_505,Mango,381.0,2813.0,Maharashtra,Low
+COM0506,Commercial,,,,,,AgroBuyer_506,Mustard,146.0,3644.0,Uttar Pradesh,Medium
+COM0507,Fodder,,,,,,AgroBuyer_507,Maize,285.0,2674.0,Gujarat,Low
+COM0508,Fruit,,,,,,AgroBuyer_508,Rice,464.0,3978.0,Andhra Pradesh,Medium
+COM0509,Fiber,,,,,,AgroBuyer_509,Soybean,251.0,7617.0,Bihar,Medium
+COM0510,Cereal,,,,,,AgroBuyer_510,Mango,461.0,5773.0,Punjab,High
+COM0511,Fodder,,,,,,AgroBuyer_511,Groundnut,94.0,8597.0,Gujarat,High
+COM0512,Cereal,,,,,,AgroBuyer_512,Wheat,356.0,6594.0,Madhya Pradesh,Medium
+COM0513,Vegetable,,,,,,AgroBuyer_513,Mango,20.0,4545.0,West Bengal,High
+COM0514,Cereal,,,,,,AgroBuyer_514,Cotton,246.0,3203.0,Bihar,Medium
+COM0515,Pulses,,,,,,AgroBuyer_515,Potato,203.0,8789.0,Karnataka,Medium
+COM0516,Oilseed,,,,,,AgroBuyer_516,Mango,216.0,6967.0,Andhra Pradesh,Low
+COM0517,Fruit,,,,,,AgroBuyer_517,Maize,473.0,3962.0,Maharashtra,Low
+COM0518,Vegetable,,,,,,AgroBuyer_518,Barley,446.0,7598.0,Bihar,High
+COM0519,Fodder,,,,,,AgroBuyer_519,Maize,345.0,8903.0,Maharashtra,Medium
+COM0520,Fruit,,,,,,AgroBuyer_520,Tomato,223.0,3553.0,Uttar Pradesh,Low
+COM0521,Oilseed,,,,,,AgroBuyer_521,Maize,169.0,2616.0,Tamil Nadu,Low
+COM0522,Oilseed,,,,,,AgroBuyer_522,Wheat,58.0,8774.0,Tamil Nadu,Low
+COM0523,Cereal,,,,,,AgroBuyer_523,Wheat,57.0,8492.0,Madhya Pradesh,High
+COM0524,Pulses,,,,,,AgroBuyer_524,Onion,323.0,2722.0,Gujarat,Low
+COM0525,Fiber,,,,,,AgroBuyer_525,Soybean,470.0,7824.0,Gujarat,Low
+COM0526,Fiber,,,,,,AgroBuyer_526,Soybean,381.0,4756.0,Madhya Pradesh,High
+COM0527,Pulses,,,,,,AgroBuyer_527,Tomato,236.0,4526.0,Andhra Pradesh,High
+COM0528,Fodder,,,,,,AgroBuyer_528,Tomato,290.0,6961.0,Andhra Pradesh,Low
+COM0529,Commercial,,,,,,AgroBuyer_529,Wheat,197.0,5077.0,Gujarat,Medium
+COM0530,Commercial,,,,,,AgroBuyer_530,Mango,378.0,5377.0,Gujarat,Medium
+COM0531,Fodder,,,,,,AgroBuyer_531,Soybean,478.0,8860.0,West Bengal,Low
+COM0532,Fodder,,,,,,AgroBuyer_532,Maize,136.0,8174.0,Punjab,Low
+COM0533,Pulses,,,,,,AgroBuyer_533,Wheat,482.0,7973.0,Maharashtra,Low
+COM0534,Cereal,,,,,,AgroBuyer_534,Mango,254.0,7602.0,Bihar,Medium
+COM0535,Fiber,,,,,,AgroBuyer_535,Wheat,213.0,2403.0,Bihar,Medium
+COM0536,Fiber,,,,,,AgroBuyer_536,Cotton,282.0,2091.0,Bihar,Medium
+COM0537,Cereal,,,,,,AgroBuyer_537,Barley,295.0,2888.0,Punjab,Medium
+COM0538,Fiber,,,,,,AgroBuyer_538,Cotton,111.0,6222.0,Punjab,High
+COM0539,Oilseed,,,,,,AgroBuyer_539,Sugarcane,208.0,6793.0,Gujarat,Low
+COM0540,Vegetable,,,,,,AgroBuyer_540,Barley,297.0,4140.0,Maharashtra,Low
+COM0541,Fodder,,,,,,AgroBuyer_541,Wheat,197.0,6557.0,Tamil Nadu,Medium
+COM0542,Fruit,,,,,,AgroBuyer_542,Rice,302.0,5494.0,Madhya Pradesh,Medium
+COM0543,Fodder,,,,,,AgroBuyer_543,Banana,83.0,7511.0,Gujarat,Medium
+COM0544,Fodder,,,,,,AgroBuyer_544,Tomato,402.0,8105.0,Uttar Pradesh,Medium
+COM0545,Oilseed,,,,,,AgroBuyer_545,Cotton,420.0,6791.0,Karnataka,Low
+COM0546,Fodder,,,,,,AgroBuyer_546,Groundnut,351.0,8503.0,Maharashtra,High
+COM0547,Vegetable,,,,,,AgroBuyer_547,Banana,93.0,6546.0,Karnataka,High
+COM0548,Oilseed,,,,,,AgroBuyer_548,Barley,346.0,3911.0,Karnataka,High
+COM0549,Fodder,,,,,,AgroBuyer_549,Jute,488.0,4774.0,Maharashtra,Medium
+COM0550,Fruit,,,,,,AgroBuyer_550,Mango,288.0,5118.0,Andhra Pradesh,High
+COM0551,Fiber,,,,,,AgroBuyer_551,Jute,259.0,6772.0,Maharashtra,Medium
+COM0552,Fruit,,,,,,AgroBuyer_552,Tomato,278.0,5460.0,Madhya Pradesh,Low
+COM0553,Fiber,,,,,,AgroBuyer_553,Mustard,149.0,7285.0,Punjab,High
+COM0554,Commercial,,,,,,AgroBuyer_554,Wheat,314.0,5885.0,Punjab,High
+COM0555,Cereal,,,,,,AgroBuyer_555,Mustard,36.0,7330.0,Maharashtra,Low
+COM0556,Pulses,,,,,,AgroBuyer_556,Sugarcane,427.0,3542.0,Bihar,Medium
+COM0557,Fruit,,,,,,AgroBuyer_557,Potato,236.0,6028.0,Maharashtra,Low
+COM0558,Fruit,,,,,,AgroBuyer_558,Groundnut,358.0,5394.0,Punjab,Medium
+COM0559,Pulses,,,,,,AgroBuyer_559,Onion,206.0,3249.0,Maharashtra,Low
+COM0560,Oilseed,,,,,,AgroBuyer_560,Barley,406.0,8373.0,West Bengal,High
+COM0561,Fruit,,,,,,AgroBuyer_561,Mango,339.0,7662.0,Andhra Pradesh,Low
+COM0562,Vegetable,,,,,,AgroBuyer_562,Mustard,346.0,3601.0,Madhya Pradesh,Medium
+COM0563,Fiber,,,,,,AgroBuyer_563,Wheat,146.0,8651.0,West Bengal,High
+COM0564,Pulses,,,,,,AgroBuyer_564,Cotton,163.0,8944.0,Gujarat,Medium
+COM0565,Fruit,,,,,,AgroBuyer_565,Maize,404.0,2430.0,Andhra Pradesh,Low
+COM0566,Fruit,,,,,,AgroBuyer_566,Sugarcane,160.0,5896.0,Punjab,Medium
+COM0567,Fruit,,,,,,AgroBuyer_567,Maize,266.0,3140.0,Bihar,Low
+COM0568,Commercial,,,,,,AgroBuyer_568,Wheat,169.0,8058.0,West Bengal,Low
+COM0569,Fruit,,,,,,AgroBuyer_569,Apple,316.0,2768.0,Gujarat,High
+COM0570,Fiber,,,,,,AgroBuyer_570,Jute,448.0,2920.0,Tamil Nadu,High
+COM0571,Fodder,,,,,,AgroBuyer_571,Rice,414.0,7062.0,Gujarat,Low
+COM0572,Fiber,,,,,,AgroBuyer_572,Onion,270.0,5003.0,Karnataka,High
+COM0573,Cereal,,,,,,AgroBuyer_573,Potato,367.0,8471.0,Madhya Pradesh,Medium
+COM0574,Oilseed,,,,,,AgroBuyer_574,Potato,403.0,4489.0,Tamil Nadu,High
+COM0575,Pulses,,,,,,AgroBuyer_575,Rice,376.0,7216.0,Tamil Nadu,Medium
+COM0576,Oilseed,,,,,,AgroBuyer_576,Maize,118.0,3331.0,Bihar,Medium
+COM0577,Cereal,,,,,,AgroBuyer_577,Banana,306.0,7769.0,Andhra Pradesh,Low
+COM0578,Vegetable,,,,,,AgroBuyer_578,Barley,202.0,7130.0,Uttar Pradesh,Medium
+COM0579,Pulses,,,,,,AgroBuyer_579,Maize,425.0,7005.0,Maharashtra,Medium
+COM0580,Fiber,,,,,,AgroBuyer_580,Groundnut,483.0,2729.0,Tamil Nadu,Low
+COM0581,Fruit,,,,,,AgroBuyer_581,Cotton,122.0,6978.0,Bihar,High
+COM0582,Pulses,,,,,,AgroBuyer_582,Groundnut,280.0,5485.0,Uttar Pradesh,Medium
+COM0583,Pulses,,,,,,AgroBuyer_583,Soybean,95.0,5469.0,Madhya Pradesh,Medium
+COM0584,Fodder,,,,,,AgroBuyer_584,Cotton,271.0,7676.0,Gujarat,Medium
+COM0585,Vegetable,,,,,,AgroBuyer_585,Soybean,51.0,3854.0,West Bengal,High
+COM0586,Pulses,,,,,,AgroBuyer_586,Onion,105.0,4864.0,Maharashtra,Low
+COM0587,Fruit,,,,,,AgroBuyer_587,Mustard,58.0,2219.0,West Bengal,Low
+COM0588,Cereal,,,,,,AgroBuyer_588,Banana,170.0,8725.0,Andhra Pradesh,Medium
+COM0589,Fruit,,,,,,AgroBuyer_589,Cotton,437.0,5047.0,Madhya Pradesh,Medium
+COM0590,Oilseed,,,,,,AgroBuyer_590,Sugarcane,293.0,7953.0,Bihar,High
+COM0591,Pulses,,,,,,AgroBuyer_591,Sugarcane,344.0,8902.0,Madhya Pradesh,Low
+COM0592,Fiber,,,,,,AgroBuyer_592,Soybean,239.0,4117.0,Tamil Nadu,High
+COM0593,Fruit,,,,,,AgroBuyer_593,Jute,346.0,8582.0,West Bengal,High
+COM0594,Vegetable,,,,,,AgroBuyer_594,Soybean,428.0,8291.0,Gujarat,High
+COM0595,Fiber,,,,,,AgroBuyer_595,Potato,111.0,6618.0,Maharashtra,Low
+COM0596,Commercial,,,,,,AgroBuyer_596,Potato,204.0,6878.0,Gujarat,Medium
+COM0597,Vegetable,,,,,,AgroBuyer_597,Tomato,387.0,8786.0,Gujarat,Medium
+COM0598,Commercial,,,,,,AgroBuyer_598,Wheat,435.0,5466.0,Punjab,High
+COM0599,Vegetable,,,,,,AgroBuyer_599,Tomato,233.0,6299.0,West Bengal,High
+COM0600,Oilseed,,,,,,AgroBuyer_600,Apple,239.0,8607.0,Bihar,Low
+COM0601,Fruit,,,,,,AgroBuyer_601,Wheat,78.0,8857.0,Madhya Pradesh,Medium
+COM0602,Oilseed,,,,,,AgroBuyer_602,Mango,65.0,8448.0,Karnataka,High
+COM0603,Vegetable,,,,,,AgroBuyer_603,Soybean,31.0,5464.0,Andhra Pradesh,High
+COM0604,Oilseed,,,,,,AgroBuyer_604,Sugarcane,331.0,4398.0,Tamil Nadu,High
+COM0605,Fodder,,,,,,AgroBuyer_605,Potato,95.0,3264.0,Madhya Pradesh,Medium
+COM0606,Fruit,,,,,,AgroBuyer_606,Barley,432.0,3743.0,Maharashtra,Low
+COM0607,Pulses,,,,,,AgroBuyer_607,Mustard,172.0,4142.0,Maharashtra,Low
+COM0608,Fodder,,,,,,AgroBuyer_608,Wheat,22.0,2383.0,Madhya Pradesh,High
+COM0609,Fiber,,,,,,AgroBuyer_609,Groundnut,391.0,5151.0,Gujarat,High
+COM0610,Cereal,,,,,,AgroBuyer_610,Sugarcane,300.0,2563.0,Punjab,Low
+COM0611,Fodder,,,,,,AgroBuyer_611,Maize,35.0,8908.0,Madhya Pradesh,Medium
+COM0612,Vegetable,,,,,,AgroBuyer_612,Apple,403.0,6690.0,Punjab,Low
+COM0613,Fruit,,,,,,AgroBuyer_613,Banana,29.0,2462.0,Punjab,High
+COM0614,Fiber,,,,,,AgroBuyer_614,Groundnut,235.0,7929.0,Bihar,High
+COM0615,Cereal,,,,,,AgroBuyer_615,Soybean,58.0,6534.0,Madhya Pradesh,Medium
+COM0616,Vegetable,,,,,,AgroBuyer_616,Cotton,492.0,8485.0,Maharashtra,Low
+COM0617,Cereal,,,,,,AgroBuyer_617,Sugarcane,57.0,8217.0,Punjab,High
+COM0618,Pulses,,,,,,AgroBuyer_618,Soybean,37.0,4188.0,West Bengal,High
+COM0619,Commercial,,,,,,AgroBuyer_619,Sugarcane,168.0,7730.0,Madhya Pradesh,High
+COM0620,Cereal,,,,,,AgroBuyer_620,Mango,34.0,8903.0,Maharashtra,Low
+COM0621,Commercial,,,,,,AgroBuyer_621,Groundnut,426.0,5418.0,Uttar Pradesh,High
+COM0622,Fruit,,,,,,AgroBuyer_622,Groundnut,290.0,3193.0,Tamil Nadu,High
+COM0623,Vegetable,,,,,,AgroBuyer_623,Mustard,450.0,6289.0,Tamil Nadu,Low
+COM0624,Cereal,,,,,,AgroBuyer_624,Maize,249.0,7808.0,Maharashtra,Low
+COM0625,Cereal,,,,,,AgroBuyer_625,Onion,347.0,4113.0,Bihar,High
+COM0626,Fodder,,,,,,AgroBuyer_626,Rice,428.0,4541.0,Karnataka,High
+COM0627,Oilseed,,,,,,AgroBuyer_627,Soybean,32.0,6454.0,Madhya Pradesh,Medium
+COM0628,Fruit,,,,,,AgroBuyer_628,Potato,403.0,5450.0,Gujarat,High
+COM0629,Commercial,,,,,,AgroBuyer_629,Mustard,396.0,7414.0,Gujarat,Low
+COM0630,Oilseed,,,,,,AgroBuyer_630,Banana,381.0,4202.0,Madhya Pradesh,High
+COM0631,Commercial,,,,,,AgroBuyer_631,Barley,175.0,2796.0,Madhya Pradesh,Low
+COM0632,Oilseed,,,,,,AgroBuyer_632,Barley,75.0,4081.0,West Bengal,Low
+COM0633,Fiber,,,,,,AgroBuyer_633,Wheat,177.0,2683.0,Karnataka,Medium
+COM0634,Vegetable,,,,,,AgroBuyer_634,Wheat,123.0,4930.0,Punjab,High
+COM0635,Commercial,,,,,,AgroBuyer_635,Mustard,285.0,5849.0,West Bengal,Low
+COM0636,Oilseed,,,,,,AgroBuyer_636,Onion,330.0,7520.0,Uttar Pradesh,High
+COM0637,Fiber,,,,,,AgroBuyer_637,Tomato,297.0,2489.0,West Bengal,Medium
+COM0638,Fruit,,,,,,AgroBuyer_638,Banana,42.0,4990.0,West Bengal,Low
+COM0639,Fodder,,,,,,AgroBuyer_639,Apple,314.0,4127.0,West Bengal,Low
+COM0640,Pulses,,,,,,AgroBuyer_640,Apple,411.0,6151.0,Bihar,High
+COM0641,Vegetable,,,,,,AgroBuyer_641,Rice,226.0,8799.0,Bihar,Low
+COM0642,Commercial,,,,,,AgroBuyer_642,Maize,376.0,7156.0,Uttar Pradesh,Medium
+COM0643,Pulses,,,,,,AgroBuyer_643,Soybean,451.0,5811.0,Andhra Pradesh,High
+COM0644,Oilseed,,,,,,AgroBuyer_644,Sugarcane,309.0,8086.0,West Bengal,Medium
+COM0645,Cereal,,,,,,AgroBuyer_645,Tomato,359.0,6612.0,Uttar Pradesh,High
+COM0646,Fiber,,,,,,AgroBuyer_646,Soybean,496.0,6878.0,Madhya Pradesh,Low
+COM0647,Oilseed,,,,,,AgroBuyer_647,Wheat,403.0,3714.0,Karnataka,Medium
+COM0648,Pulses,,,,,,AgroBuyer_648,Maize,73.0,3089.0,Madhya Pradesh,High
+COM0649,Vegetable,,,,,,AgroBuyer_649,Banana,17.0,2132.0,Punjab,Medium
+COM0650,Oilseed,,,,,,AgroBuyer_650,Sugarcane,157.0,7086.0,Maharashtra,Medium
+COM0651,Cereal,,,,,,AgroBuyer_651,Mustard,239.0,6724.0,Punjab,Low
+COM0652,Pulses,,,,,,AgroBuyer_652,Wheat,180.0,8914.0,Andhra Pradesh,High
+COM0653,Fiber,,,,,,AgroBuyer_653,Maize,43.0,2366.0,Karnataka,Low
+COM0654,Vegetable,,,,,,AgroBuyer_654,Barley,107.0,8487.0,West Bengal,High
+COM0655,Pulses,,,,,,AgroBuyer_655,Soybean,266.0,5331.0,Karnataka,Low
+COM0656,Commercial,,,,,,AgroBuyer_656,Wheat,445.0,3538.0,Tamil Nadu,High
+COM0657,Vegetable,,,,,,AgroBuyer_657,Apple,253.0,7337.0,Uttar Pradesh,Low
+COM0658,Fiber,,,,,,AgroBuyer_658,Mustard,222.0,8566.0,Uttar Pradesh,Medium
+COM0659,Fodder,,,,,,AgroBuyer_659,Wheat,118.0,3817.0,Uttar Pradesh,High
+COM0660,Oilseed,,,,,,AgroBuyer_660,Cotton,176.0,2447.0,Tamil Nadu,Medium
+COM0661,Commercial,,,,,,AgroBuyer_661,Rice,90.0,8773.0,Karnataka,High
+COM0662,Fruit,,,,,,AgroBuyer_662,Jute,285.0,8236.0,Karnataka,Low
+COM0663,Pulses,,,,,,AgroBuyer_663,Cotton,207.0,4374.0,Uttar Pradesh,High
+COM0664,Fruit,,,,,,AgroBuyer_664,Mango,398.0,5004.0,West Bengal,High
+COM0665,Fodder,,,,,,AgroBuyer_665,Wheat,25.0,7895.0,Gujarat,Medium
+COM0666,Fiber,,,,,,AgroBuyer_666,Onion,302.0,6410.0,Gujarat,High
+COM0667,Fruit,,,,,,AgroBuyer_667,Tomato,494.0,7507.0,Tamil Nadu,Low
+COM0668,Vegetable,,,,,,AgroBuyer_668,Barley,128.0,7042.0,Bihar,Medium
+COM0669,Pulses,,,,,,AgroBuyer_669,Apple,198.0,5365.0,Andhra Pradesh,High
+COM0670,Fruit,,,,,,AgroBuyer_670,Jute,414.0,2298.0,Karnataka,Medium
+COM0671,Commercial,,,,,,AgroBuyer_671,Sugarcane,431.0,4334.0,Karnataka,Low
+COM0672,Commercial,,,,,,AgroBuyer_672,Wheat,441.0,4757.0,Andhra Pradesh,High
+COM0673,Fruit,,,,,,AgroBuyer_673,Potato,350.0,3674.0,Andhra Pradesh,High
+COM0674,Vegetable,,,,,,AgroBuyer_674,Barley,287.0,4631.0,Punjab,Medium
+COM0675,Oilseed,,,,,,AgroBuyer_675,Rice,367.0,7121.0,Tamil Nadu,Low
+COM0676,Fodder,,,,,,AgroBuyer_676,Soybean,92.0,6162.0,Uttar Pradesh,Medium
+COM0677,Commercial,,,,,,AgroBuyer_677,Mustard,340.0,2858.0,Bihar,High
+COM0678,Cereal,,,,,,AgroBuyer_678,Cotton,213.0,6701.0,Karnataka,High
+COM0679,Commercial,,,,,,AgroBuyer_679,Jute,108.0,4481.0,Maharashtra,Low
+COM0680,Cereal,,,,,,AgroBuyer_680,Mustard,431.0,6023.0,Karnataka,High
+COM0681,Vegetable,,,,,,AgroBuyer_681,Soybean,122.0,3770.0,Madhya Pradesh,Medium
+COM0682,Cereal,,,,,,AgroBuyer_682,Cotton,265.0,8775.0,Tamil Nadu,High
+COM0683,Commercial,,,,,,AgroBuyer_683,Groundnut,275.0,6104.0,Tamil Nadu,High
+COM0684,Oilseed,,,,,,AgroBuyer_684,Jute,311.0,2909.0,Bihar,High
+COM0685,Oilseed,,,,,,AgroBuyer_685,Jute,425.0,6501.0,Punjab,Medium
+COM0686,Fodder,,,,,,AgroBuyer_686,Barley,322.0,7847.0,Madhya Pradesh,Low
+COM0687,Fodder,,,,,,AgroBuyer_687,Mango,306.0,5168.0,Karnataka,High
+COM0688,Fruit,,,,,,AgroBuyer_688,Soybean,38.0,3754.0,Uttar Pradesh,High
+COM0689,Fiber,,,,,,AgroBuyer_689,Apple,238.0,2961.0,Uttar Pradesh,High
+COM0690,Oilseed,,,,,,AgroBuyer_690,Mango,336.0,4311.0,West Bengal,Low
+COM0691,Cereal,,,,,,AgroBuyer_691,Tomato,172.0,8411.0,Karnataka,Medium
+COM0692,Fruit,,,,,,AgroBuyer_692,Mustard,431.0,4160.0,Maharashtra,Medium
+COM0693,Cereal,,,,,,AgroBuyer_693,Tomato,393.0,7836.0,Maharashtra,Low
+COM0694,Fiber,,,,,,AgroBuyer_694,Barley,350.0,8143.0,Punjab,Low
+COM0695,Vegetable,,,,,,AgroBuyer_695,Maize,454.0,4800.0,Punjab,Medium
+COM0696,Oilseed,,,,,,AgroBuyer_696,Soybean,336.0,5214.0,West Bengal,Medium
+COM0697,Pulses,,,,,,AgroBuyer_697,Mustard,200.0,5131.0,Bihar,Low
+COM0698,Vegetable,,,,,,AgroBuyer_698,Banana,374.0,6243.0,Karnataka,High
+COM0699,Fruit,,,,,,AgroBuyer_699,Rice,16.0,7512.0,Maharashtra,Medium
+COM0700,Pulses,,,,,,AgroBuyer_700,Onion,170.0,4087.0,Tamil Nadu,Low
+COM0701,Fiber,,,,,,AgroBuyer_701,Rice,53.0,3717.0,Tamil Nadu,High
+COM0702,Commercial,,,,,,AgroBuyer_702,Tomato,350.0,6138.0,Gujarat,Low
+COM0703,Oilseed,,,,,,AgroBuyer_703,Sugarcane,294.0,4274.0,Tamil Nadu,Medium
+COM0704,Commercial,,,,,,AgroBuyer_704,Soybean,234.0,4541.0,Maharashtra,High
+COM0705,Vegetable,,,,,,AgroBuyer_705,Apple,416.0,4307.0,Karnataka,High
+COM0706,Fruit,,,,,,AgroBuyer_706,Soybean,174.0,2545.0,Tamil Nadu,Low
+COM0707,Pulses,,,,,,AgroBuyer_707,Apple,187.0,7684.0,Tamil Nadu,Medium
+COM0708,Fiber,,,,,,AgroBuyer_708,Sugarcane,129.0,6530.0,Punjab,Low
+COM0709,Fiber,,,,,,AgroBuyer_709,Jute,358.0,3836.0,Tamil Nadu,High
+COM0710,Cereal,,,,,,AgroBuyer_710,Banana,285.0,6060.0,Uttar Pradesh,Low
+COM0711,Cereal,,,,,,AgroBuyer_711,Soybean,368.0,7709.0,West Bengal,High
+COM0712,Cereal,,,,,,AgroBuyer_712,Wheat,348.0,4953.0,Maharashtra,Low
+COM0713,Fruit,,,,,,AgroBuyer_713,Rice,438.0,4409.0,Tamil Nadu,High
+COM0714,Vegetable,,,,,,AgroBuyer_714,Wheat,413.0,5351.0,Karnataka,Medium
+COM0715,Vegetable,,,,,,AgroBuyer_715,Apple,126.0,7690.0,Madhya Pradesh,Medium
+COM0716,Commercial,,,,,,AgroBuyer_716,Jute,157.0,5379.0,Uttar Pradesh,High
+COM0717,Fodder,,,,,,AgroBuyer_717,Tomato,213.0,2153.0,Maharashtra,High
+COM0718,Fodder,,,,,,AgroBuyer_718,Apple,414.0,8080.0,Gujarat,Medium
+COM0719,Commercial,,,,,,AgroBuyer_719,Cotton,500.0,5739.0,Punjab,Low
+COM0720,Vegetable,,,,,,AgroBuyer_720,Rice,137.0,3140.0,Bihar,Low
+COM0721,Fodder,,,,,,AgroBuyer_721,Barley,421.0,5952.0,Andhra Pradesh,Medium
+COM0722,Vegetable,,,,,,AgroBuyer_722,Apple,112.0,6172.0,Gujarat,Low
+COM0723,Fruit,,,,,,AgroBuyer_723,Barley,406.0,8015.0,West Bengal,Medium
+COM0724,Fodder,,,,,,AgroBuyer_724,Apple,422.0,4812.0,Tamil Nadu,High
+COM0725,Fruit,,,,,,AgroBuyer_725,Soybean,204.0,6604.0,Madhya Pradesh,Low
+COM0726,Oilseed,,,,,,AgroBuyer_726,Maize,164.0,8419.0,Maharashtra,High
+COM0727,Oilseed,,,,,,AgroBuyer_727,Barley,88.0,2673.0,Bihar,Low
+COM0728,Fiber,,,,,,AgroBuyer_728,Barley,136.0,2959.0,Gujarat,High
+COM0729,Fodder,,,,,,AgroBuyer_729,Sugarcane,57.0,8761.0,Andhra Pradesh,Low
+COM0730,Commercial,,,,,,AgroBuyer_730,Onion,474.0,6869.0,Andhra Pradesh,High
+COM0731,Fruit,,,,,,AgroBuyer_731,Rice,161.0,4394.0,Bihar,Medium
+COM0732,Cereal,,,,,,AgroBuyer_732,Banana,172.0,4958.0,Tamil Nadu,Medium
+COM0733,Cereal,,,,,,AgroBuyer_733,Wheat,347.0,7822.0,Madhya Pradesh,High
+COM0734,Commercial,,,,,,AgroBuyer_734,Jute,337.0,7159.0,Tamil Nadu,Low
+COM0735,Pulses,,,,,,AgroBuyer_735,Potato,194.0,8309.0,Maharashtra,High
+COM0736,Oilseed,,,,,,AgroBuyer_736,Tomato,51.0,8800.0,Andhra Pradesh,Low
+COM0737,Pulses,,,,,,AgroBuyer_737,Wheat,339.0,2191.0,West Bengal,High
+COM0738,Fruit,,,,,,AgroBuyer_738,Banana,351.0,4362.0,Uttar Pradesh,Low
+COM0739,Fodder,,,,,,AgroBuyer_739,Soybean,364.0,3563.0,West Bengal,Medium
+COM0740,Cereal,,,,,,AgroBuyer_740,Tomato,220.0,2379.0,Tamil Nadu,Medium
+COM0741,Oilseed,,,,,,AgroBuyer_741,Wheat,205.0,7529.0,Bihar,Low
+COM0742,Fiber,,,,,,AgroBuyer_742,Mustard,491.0,3434.0,Punjab,Low
+COM0743,Oilseed,,,,,,AgroBuyer_743,Maize,481.0,2564.0,Andhra Pradesh,Medium
+COM0744,Cereal,,,,,,AgroBuyer_744,Cotton,122.0,8676.0,Andhra Pradesh,Medium
+COM0745,Fruit,,,,,,AgroBuyer_745,Onion,22.0,6697.0,Maharashtra,Low
+COM0746,Pulses,,,,,,AgroBuyer_746,Cotton,83.0,2464.0,Gujarat,High
+COM0747,Commercial,,,,,,AgroBuyer_747,Jute,157.0,7864.0,Tamil Nadu,Medium
+COM0748,Vegetable,,,,,,AgroBuyer_748,Banana,51.0,6816.0,Bihar,Low
+COM0749,Pulses,,,,,,AgroBuyer_749,Banana,331.0,5086.0,Maharashtra,Low
+COM0750,Fruit,,,,,,AgroBuyer_750,Potato,19.0,3477.0,Punjab,Low
+COM0751,Cereal,,,,,,AgroBuyer_751,Onion,16.0,2293.0,Maharashtra,Medium
+COM0752,Fiber,,,,,,AgroBuyer_752,Rice,482.0,5563.0,Madhya Pradesh,Medium
+COM0753,Commercial,,,,,,AgroBuyer_753,Wheat,151.0,5383.0,Tamil Nadu,Medium
+COM0754,Cereal,,,,,,AgroBuyer_754,Groundnut,122.0,7729.0,Bihar,Medium
+COM0755,Vegetable,,,,,,AgroBuyer_755,Rice,159.0,3117.0,Punjab,Low
+COM0756,Vegetable,,,,,,AgroBuyer_756,Tomato,317.0,3826.0,Maharashtra,High
+COM0757,Commercial,,,,,,AgroBuyer_757,Maize,86.0,2463.0,Bihar,Low
+COM0758,Fiber,,,,,,AgroBuyer_758,Mustard,255.0,5384.0,Gujarat,High
+COM0759,Cereal,,,,,,AgroBuyer_759,Mango,295.0,8829.0,Bihar,Medium
+COM0760,Cereal,,,,,,AgroBuyer_760,Potato,383.0,7764.0,Uttar Pradesh,Medium
+COM0761,Fruit,,,,,,AgroBuyer_761,Jute,481.0,6872.0,Andhra Pradesh,Low
+COM0762,Commercial,,,,,,AgroBuyer_762,Cotton,195.0,3822.0,Punjab,Low
+COM0763,Fodder,,,,,,AgroBuyer_763,Mustard,338.0,3376.0,Gujarat,Medium
+COM0764,Pulses,,,,,,AgroBuyer_764,Maize,357.0,3653.0,Punjab,Low
+COM0765,Fruit,,,,,,AgroBuyer_765,Banana,138.0,5748.0,Punjab,Medium
+COM0766,Cereal,,,,,,AgroBuyer_766,Apple,382.0,6532.0,Gujarat,Medium
+COM0767,Oilseed,,,,,,AgroBuyer_767,Groundnut,64.0,6851.0,Punjab,Low
+COM0768,Oilseed,,,,,,AgroBuyer_768,Groundnut,85.0,7494.0,West Bengal,High
+COM0769,Fiber,,,,,,AgroBuyer_769,Jute,264.0,3560.0,Maharashtra,Low
+COM0770,Vegetable,,,,,,AgroBuyer_770,Onion,389.0,4471.0,Uttar Pradesh,Low
+COM0771,Cereal,,,,,,AgroBuyer_771,Sugarcane,289.0,2362.0,Gujarat,Low
+COM0772,Oilseed,,,,,,AgroBuyer_772,Sugarcane,137.0,6862.0,Uttar Pradesh,High
+COM0773,Cereal,,,,,,AgroBuyer_773,Banana,22.0,2520.0,West Bengal,High
+COM0774,Fruit,,,,,,AgroBuyer_774,Mustard,89.0,3287.0,Bihar,High
+COM0775,Pulses,,,,,,AgroBuyer_775,Wheat,452.0,8911.0,Andhra Pradesh,High
+COM0776,Pulses,,,,,,AgroBuyer_776,Banana,55.0,7016.0,Bihar,High
+COM0777,Oilseed,,,,,,AgroBuyer_777,Cotton,98.0,2386.0,Madhya Pradesh,Medium
+COM0778,Oilseed,,,,,,AgroBuyer_778,Onion,486.0,6530.0,Madhya Pradesh,Low
+COM0779,Oilseed,,,,,,AgroBuyer_779,Banana,369.0,2360.0,Karnataka,High
+COM0780,Fruit,,,,,,AgroBuyer_780,Groundnut,293.0,2993.0,West Bengal,High
+COM0781,Commercial,,,,,,AgroBuyer_781,Cotton,245.0,7480.0,Madhya Pradesh,High
+COM0782,Oilseed,,,,,,AgroBuyer_782,Sugarcane,269.0,7009.0,Gujarat,Low
+COM0783,Vegetable,,,,,,AgroBuyer_783,Groundnut,123.0,6938.0,Bihar,Low
+COM0784,Oilseed,,,,,,AgroBuyer_784,Apple,14.0,2114.0,Punjab,Medium
+COM0785,Fiber,,,,,,AgroBuyer_785,Tomato,437.0,4741.0,Tamil Nadu,Medium
+COM0786,Pulses,,,,,,AgroBuyer_786,Groundnut,187.0,2654.0,Bihar,High
+COM0787,Commercial,,,,,,AgroBuyer_787,Potato,87.0,7865.0,Karnataka,High
+COM0788,Commercial,,,,,,AgroBuyer_788,Cotton,324.0,5943.0,Maharashtra,Low
+COM0789,Fruit,,,,,,AgroBuyer_789,Mango,472.0,5232.0,Bihar,High
+COM0790,Cereal,,,,,,AgroBuyer_790,Wheat,30.0,6553.0,Punjab,High
+COM0791,Fruit,,,,,,AgroBuyer_791,Potato,53.0,3887.0,Gujarat,High
+COM0792,Pulses,,,,,,AgroBuyer_792,Cotton,271.0,7923.0,Andhra Pradesh,Low
+COM0793,Oilseed,,,,,,AgroBuyer_793,Maize,463.0,2270.0,Tamil Nadu,High
+COM0794,Oilseed,,,,,,AgroBuyer_794,Cotton,201.0,5807.0,Tamil Nadu,Low
+COM0795,Commercial,,,,,,AgroBuyer_795,Rice,444.0,3877.0,Punjab,Medium
+COM0796,Fruit,,,,,,AgroBuyer_796,Potato,369.0,6306.0,Karnataka,Low
+COM0797,Oilseed,,,,,,AgroBuyer_797,Maize,243.0,2524.0,Maharashtra,Low
+COM0798,Fruit,,,,,,AgroBuyer_798,Mustard,131.0,4336.0,Gujarat,High
+COM0799,Fodder,,,,,,AgroBuyer_799,Mustard,197.0,3927.0,West Bengal,Low
+COM0800,Fiber,,,,,,AgroBuyer_800,Wheat,138.0,3369.0,Bihar,Medium
+COM0801,Commercial,,,,,,AgroBuyer_801,Groundnut,314.0,4299.0,Tamil Nadu,High
+COM0802,Fodder,,,,,,AgroBuyer_802,Soybean,322.0,3743.0,West Bengal,Medium
+COM0803,Vegetable,,,,,,AgroBuyer_803,Potato,180.0,4964.0,West Bengal,Medium
+COM0804,Fodder,,,,,,AgroBuyer_804,Groundnut,73.0,2384.0,Gujarat,Medium
+COM0805,Pulses,,,,,,AgroBuyer_805,Potato,305.0,2688.0,Punjab,Medium
+COM0806,Pulses,,,,,,AgroBuyer_806,Mango,466.0,6107.0,Gujarat,Medium
+COM0807,Commercial,,,,,,AgroBuyer_807,Maize,341.0,6420.0,Uttar Pradesh,Low
+COM0808,Fodder,,,,,,AgroBuyer_808,Maize,32.0,8098.0,Uttar Pradesh,Low
+COM0809,Pulses,,,,,,AgroBuyer_809,Rice,230.0,7373.0,Bihar,High
+COM0810,Fiber,,,,,,AgroBuyer_810,Banana,391.0,5504.0,Karnataka,Medium
+COM0811,Fodder,,,,,,AgroBuyer_811,Soybean,448.0,7368.0,Bihar,Low
+COM0812,Pulses,,,,,,AgroBuyer_812,Jute,338.0,7357.0,Tamil Nadu,Medium
+COM0813,Pulses,,,,,,AgroBuyer_813,Rice,161.0,2297.0,Bihar,High
+COM0814,Commercial,,,,,,AgroBuyer_814,Barley,467.0,7786.0,West Bengal,Medium
+COM0815,Cereal,,,,,,AgroBuyer_815,Rice,199.0,4554.0,Gujarat,Low
+COM0816,Pulses,,,,,,AgroBuyer_816,Maize,206.0,7030.0,Tamil Nadu,Medium
+COM0817,Pulses,,,,,,AgroBuyer_817,Soybean,392.0,4247.0,Punjab,High
+COM0818,Pulses,,,,,,AgroBuyer_818,Potato,404.0,3605.0,Madhya Pradesh,Low
+COM0819,Oilseed,,,,,,AgroBuyer_819,Banana,437.0,4310.0,Madhya Pradesh,Medium
+COM0820,Oilseed,,,,,,AgroBuyer_820,Apple,237.0,5658.0,Maharashtra,High
+COM0821,Vegetable,,,,,,AgroBuyer_821,Wheat,21.0,4762.0,Punjab,High
+COM0822,Commercial,,,,,,AgroBuyer_822,Jute,478.0,8001.0,Tamil Nadu,Low
+COM0823,Fodder,,,,,,AgroBuyer_823,Apple,157.0,5445.0,Andhra Pradesh,Low
+COM0824,Vegetable,,,,,,AgroBuyer_824,Apple,79.0,6515.0,Tamil Nadu,Medium
+COM0825,Fiber,,,,,,AgroBuyer_825,Onion,143.0,6791.0,Gujarat,Low
+COM0826,Vegetable,,,,,,AgroBuyer_826,Cotton,48.0,2767.0,West Bengal,High
+COM0827,Fodder,,,,,,AgroBuyer_827,Barley,229.0,3122.0,Andhra Pradesh,Medium
+COM0828,Oilseed,,,,,,AgroBuyer_828,Banana,298.0,6004.0,Madhya Pradesh,Medium
+COM0829,Commercial,,,,,,AgroBuyer_829,Mustard,463.0,3777.0,Karnataka,Medium
+COM0830,Vegetable,,,,,,AgroBuyer_830,Groundnut,385.0,6133.0,Maharashtra,Medium
+COM0831,Pulses,,,,,,AgroBuyer_831,Tomato,101.0,5195.0,Tamil Nadu,Medium
+COM0832,Pulses,,,,,,AgroBuyer_832,Apple,313.0,8602.0,Tamil Nadu,Medium
+COM0833,Vegetable,,,,,,AgroBuyer_833,Onion,88.0,3522.0,Maharashtra,Medium
+COM0834,Fruit,,,,,,AgroBuyer_834,Barley,352.0,6540.0,Bihar,Low
+COM0835,Cereal,,,,,,AgroBuyer_835,Mango,421.0,7058.0,West Bengal,High
+COM0836,Oilseed,,,,,,AgroBuyer_836,Banana,159.0,7135.0,Uttar Pradesh,High
+COM0837,Commercial,,,,,,AgroBuyer_837,Mango,138.0,5537.0,Punjab,Medium
+COM0838,Fodder,,,,,,AgroBuyer_838,Tomato,91.0,7670.0,Punjab,Medium
+COM0839,Vegetable,,,,,,AgroBuyer_839,Soybean,259.0,4098.0,Uttar Pradesh,Low
+COM0840,Vegetable,,,,,,AgroBuyer_840,Rice,22.0,5005.0,Gujarat,High
+COM0841,Fiber,,,,,,AgroBuyer_841,Rice,57.0,8426.0,West Bengal,Low
+COM0842,Vegetable,,,,,,AgroBuyer_842,Mango,240.0,2655.0,Punjab,High
+COM0843,Pulses,,,,,,AgroBuyer_843,Apple,323.0,7725.0,Uttar Pradesh,High
+COM0844,Oilseed,,,,,,AgroBuyer_844,Cotton,43.0,8229.0,Bihar,Low
+COM0845,Commercial,,,,,,AgroBuyer_845,Wheat,109.0,6478.0,Tamil Nadu,Low
+COM0846,Fiber,,,,,,AgroBuyer_846,Wheat,91.0,6566.0,Gujarat,Low
+COM0847,Fruit,,,,,,AgroBuyer_847,Mustard,486.0,7811.0,Gujarat,Medium
+COM0848,Fruit,,,,,,AgroBuyer_848,Soybean,150.0,4187.0,Punjab,High
+COM0849,Fruit,,,,,,AgroBuyer_849,Barley,283.0,2493.0,Uttar Pradesh,Low
+COM0850,Fodder,,,,,,AgroBuyer_850,Maize,495.0,6355.0,Punjab,Medium
+COM0851,Pulses,,,,,,AgroBuyer_851,Apple,245.0,8535.0,Punjab,Medium
+COM0852,Vegetable,,,,,,AgroBuyer_852,Soybean,14.0,8271.0,Tamil Nadu,Medium
+COM0853,Vegetable,,,,,,AgroBuyer_853,Soybean,28.0,2062.0,Punjab,Low
+COM0854,Pulses,,,,,,AgroBuyer_854,Rice,146.0,2315.0,Punjab,Medium
+COM0855,Fodder,,,,,,AgroBuyer_855,Barley,115.0,8190.0,Karnataka,Medium
+COM0856,Fodder,,,,,,AgroBuyer_856,Banana,482.0,6245.0,Punjab,Medium
+COM0857,Cereal,,,,,,AgroBuyer_857,Mustard,72.0,8194.0,Tamil Nadu,Low
+COM0858,Cereal,,,,,,AgroBuyer_858,Mustard,94.0,2825.0,Madhya Pradesh,High
+COM0859,Vegetable,,,,,,AgroBuyer_859,Wheat,173.0,3994.0,Gujarat,Medium
+COM0860,Fruit,,,,,,AgroBuyer_860,Jute,429.0,3472.0,Tamil Nadu,Medium
+COM0861,Fiber,,,,,,AgroBuyer_861,Banana,74.0,8267.0,Punjab,High
+COM0862,Oilseed,,,,,,AgroBuyer_862,Rice,348.0,4090.0,West Bengal,Low
+COM0863,Pulses,,,,,,AgroBuyer_863,Tomato,228.0,6880.0,Bihar,Low
+COM0864,Fruit,,,,,,AgroBuyer_864,Banana,54.0,2657.0,Uttar Pradesh,High
+COM0865,Cereal,,,,,,AgroBuyer_865,Cotton,468.0,3332.0,Madhya Pradesh,High
+COM0866,Pulses,,,,,,AgroBuyer_866,Jute,235.0,8696.0,Uttar Pradesh,Medium
+COM0867,Fruit,,,,,,AgroBuyer_867,Mustard,456.0,4768.0,Bihar,Medium
+COM0868,Oilseed,,,,,,AgroBuyer_868,Potato,212.0,7018.0,Uttar Pradesh,High
+COM0869,Vegetable,,,,,,AgroBuyer_869,Mango,201.0,7071.0,Karnataka,Medium
+COM0870,Commercial,,,,,,AgroBuyer_870,Jute,96.0,6559.0,Uttar Pradesh,Medium
+COM0871,Fiber,,,,,,AgroBuyer_871,Jute,81.0,6386.0,Punjab,High
+COM0872,Fiber,,,,,,AgroBuyer_872,Jute,30.0,3316.0,Karnataka,High
+COM0873,Commercial,,,,,,AgroBuyer_873,Rice,28.0,3626.0,Uttar Pradesh,Medium
+COM0874,Fruit,,,,,,AgroBuyer_874,Maize,276.0,5034.0,Andhra Pradesh,Low
+COM0875,Pulses,,,,,,AgroBuyer_875,Potato,219.0,6480.0,Tamil Nadu,Medium
+COM0876,Commercial,,,,,,AgroBuyer_876,Tomato,19.0,7981.0,West Bengal,High
+COM0877,Commercial,,,,,,AgroBuyer_877,Wheat,444.0,5346.0,Punjab,High
+COM0878,Commercial,,,,,,AgroBuyer_878,Tomato,369.0,2295.0,Andhra Pradesh,High
+COM0879,Vegetable,,,,,,AgroBuyer_879,Potato,365.0,2257.0,Uttar Pradesh,High
+COM0880,Fruit,,,,,,AgroBuyer_880,Apple,13.0,3090.0,Punjab,High
+COM0881,Fiber,,,,,,AgroBuyer_881,Potato,410.0,4765.0,Madhya Pradesh,Medium
+COM0882,Vegetable,,,,,,AgroBuyer_882,Banana,387.0,2093.0,West Bengal,High
+COM0883,Cereal,,,,,,AgroBuyer_883,Maize,145.0,5874.0,Tamil Nadu,High
+COM0884,Cereal,,,,,,AgroBuyer_884,Sugarcane,266.0,6759.0,West Bengal,Low
+COM0885,Vegetable,,,,,,AgroBuyer_885,Groundnut,55.0,8230.0,Gujarat,Low
+COM0886,Vegetable,,,,,,AgroBuyer_886,Cotton,95.0,3248.0,Maharashtra,Medium
+COM0887,Fodder,,,,,,AgroBuyer_887,Groundnut,171.0,2930.0,Andhra Pradesh,Low
+COM0888,Commercial,,,,,,AgroBuyer_888,Onion,275.0,7959.0,Madhya Pradesh,Medium
+COM0889,Pulses,,,,,,AgroBuyer_889,Banana,261.0,7063.0,Maharashtra,Medium
+COM0890,Fodder,,,,,,AgroBuyer_890,Cotton,438.0,8660.0,Andhra Pradesh,Medium
+COM0891,Fodder,,,,,,AgroBuyer_891,Jute,36.0,4201.0,Uttar Pradesh,High
+COM0892,Fruit,,,,,,AgroBuyer_892,Cotton,212.0,5696.0,Madhya Pradesh,Low
+COM0893,Cereal,,,,,,AgroBuyer_893,Tomato,370.0,8534.0,Uttar Pradesh,Low
+COM0894,Fodder,,,,,,AgroBuyer_894,Potato,233.0,4143.0,West Bengal,High
+COM0895,Cereal,,,,,,AgroBuyer_895,Mango,410.0,4641.0,Bihar,Medium
+COM0896,Vegetable,,,,,,AgroBuyer_896,Banana,461.0,7715.0,Uttar Pradesh,Medium
+COM0897,Oilseed,,,,,,AgroBuyer_897,Soybean,256.0,3968.0,Bihar,High
+COM0898,Oilseed,,,,,,AgroBuyer_898,Rice,179.0,4173.0,West Bengal,Low
+COM0899,Oilseed,,,,,,AgroBuyer_899,Mango,156.0,3564.0,Punjab,High
+COM0900,Cereal,,,,,,AgroBuyer_900,Onion,352.0,3999.0,Gujarat,Medium
+COM0901,Cereal,,,,,,AgroBuyer_901,Wheat,349.0,8086.0,Karnataka,Low
+COM0902,Fodder,,,,,,AgroBuyer_902,Onion,79.0,6289.0,Punjab,Medium
+COM0903,Fodder,,,,,,AgroBuyer_903,Rice,59.0,7933.0,Gujarat,Medium
+COM0904,Fodder,,,,,,AgroBuyer_904,Tomato,175.0,4495.0,West Bengal,Medium
+COM0905,Fruit,,,,,,AgroBuyer_905,Mango,465.0,8193.0,Gujarat,Medium
+COM0906,Vegetable,,,,,,AgroBuyer_906,Maize,285.0,6711.0,Madhya Pradesh,High
+COM0907,Vegetable,,,,,,AgroBuyer_907,Groundnut,194.0,6219.0,Tamil Nadu,High
+COM0908,Commercial,,,,,,AgroBuyer_908,Potato,222.0,7177.0,Bihar,Low
+COM0909,Oilseed,,,,,,AgroBuyer_909,Soybean,221.0,6349.0,Karnataka,Low
+COM0910,Oilseed,,,,,,AgroBuyer_910,Wheat,202.0,7349.0,Maharashtra,Medium
+COM0911,Cereal,,,,,,AgroBuyer_911,Potato,267.0,2910.0,Uttar Pradesh,Medium
+COM0912,Cereal,,,,,,AgroBuyer_912,Banana,480.0,6501.0,Karnataka,Low
+COM0913,Oilseed,,,,,,AgroBuyer_913,Tomato,436.0,8967.0,Karnataka,Medium
+COM0914,Commercial,,,,,,AgroBuyer_914,Mango,264.0,2607.0,West Bengal,Low
+COM0915,Fiber,,,,,,AgroBuyer_915,Jute,12.0,4068.0,West Bengal,High
+COM0916,Commercial,,,,,,AgroBuyer_916,Tomato,288.0,5683.0,Andhra Pradesh,High
+COM0917,Vegetable,,,,,,AgroBuyer_917,Rice,48.0,5198.0,Uttar Pradesh,High
+COM0918,Fruit,,,,,,AgroBuyer_918,Potato,109.0,4778.0,Bihar,Medium
+COM0919,Cereal,,,,,,AgroBuyer_919,Cotton,458.0,8883.0,Gujarat,Low
+COM0920,Fodder,,,,,,AgroBuyer_920,Jute,141.0,6552.0,Tamil Nadu,Low
+COM0921,Fruit,,,,,,AgroBuyer_921,Rice,312.0,5661.0,Uttar Pradesh,Medium
+COM0922,Commercial,,,,,,AgroBuyer_922,Cotton,300.0,3571.0,Bihar,High
+COM0923,Commercial,,,,,,AgroBuyer_923,Mustard,468.0,7917.0,Punjab,Medium
+COM0924,Fruit,,,,,,AgroBuyer_924,Groundnut,125.0,5307.0,Karnataka,High
+COM0925,Fodder,,,,,,AgroBuyer_925,Apple,497.0,2426.0,Andhra Pradesh,Medium
+COM0926,Fiber,,,,,,AgroBuyer_926,Soybean,322.0,8875.0,Andhra Pradesh,Medium
+COM0927,Commercial,,,,,,AgroBuyer_927,Jute,318.0,8920.0,Karnataka,Medium
+COM0928,Fiber,,,,,,AgroBuyer_928,Apple,90.0,2782.0,Bihar,Medium
+COM0929,Fodder,,,,,,AgroBuyer_929,Tomato,157.0,3362.0,Tamil Nadu,Medium
+COM0930,Pulses,,,,,,AgroBuyer_930,Mustard,445.0,3326.0,Andhra Pradesh,Medium
+COM0931,Pulses,,,,,,AgroBuyer_931,Rice,314.0,2606.0,Uttar Pradesh,High
+COM0932,Vegetable,,,,,,AgroBuyer_932,Jute,134.0,4896.0,Tamil Nadu,Low
+COM0933,Cereal,,,,,,AgroBuyer_933,Banana,371.0,8387.0,Punjab,High
+COM0934,Pulses,,,,,,AgroBuyer_934,Apple,360.0,2154.0,Andhra Pradesh,Low
+COM0935,Fruit,,,,,,AgroBuyer_935,Jute,362.0,6215.0,Madhya Pradesh,High
+COM0936,Fruit,,,,,,AgroBuyer_936,Maize,134.0,3116.0,Punjab,Low
+COM0937,Fruit,,,,,,AgroBuyer_937,Rice,388.0,8022.0,West Bengal,Low
+COM0938,Oilseed,,,,,,AgroBuyer_938,Wheat,228.0,8938.0,Tamil Nadu,High
+COM0939,Vegetable,,,,,,AgroBuyer_939,Wheat,385.0,8795.0,Karnataka,Low
+COM0940,Commercial,,,,,,AgroBuyer_940,Mustard,309.0,6121.0,Uttar Pradesh,Low
+COM0941,Oilseed,,,,,,AgroBuyer_941,Maize,308.0,8237.0,Maharashtra,High
+COM0942,Fruit,,,,,,AgroBuyer_942,Wheat,170.0,5243.0,Tamil Nadu,Low
+COM0943,Commercial,,,,,,AgroBuyer_943,Rice,66.0,7273.0,Bihar,Low
+COM0944,Fodder,,,,,,AgroBuyer_944,Onion,330.0,7847.0,Uttar Pradesh,High
+COM0945,Oilseed,,,,,,AgroBuyer_945,Soybean,308.0,8581.0,Uttar Pradesh,Medium
+COM0946,Oilseed,,,,,,AgroBuyer_946,Jute,96.0,7586.0,Karnataka,Low
+COM0947,Commercial,,,,,,AgroBuyer_947,Tomato,25.0,8660.0,Punjab,Medium
+COM0948,Pulses,,,,,,AgroBuyer_948,Mango,472.0,2028.0,Uttar Pradesh,Low
+COM0949,Vegetable,,,,,,AgroBuyer_949,Mustard,427.0,4913.0,Karnataka,Low
+COM0950,Cereal,,,,,,AgroBuyer_950,Sugarcane,42.0,2707.0,Gujarat,Low
+COM0951,Cereal,,,,,,AgroBuyer_951,Potato,440.0,6532.0,Madhya Pradesh,Low
+COM0952,Fodder,,,,,,AgroBuyer_952,Cotton,242.0,5183.0,West Bengal,High
+COM0953,Pulses,,,,,,AgroBuyer_953,Banana,490.0,6547.0,Karnataka,High
+COM0954,Fruit,,,,,,AgroBuyer_954,Soybean,202.0,6681.0,Tamil Nadu,Medium
+COM0955,Fruit,,,,,,AgroBuyer_955,Apple,428.0,5845.0,West Bengal,Low
+COM0956,Fiber,,,,,,AgroBuyer_956,Banana,299.0,3916.0,Maharashtra,High
+COM0957,Fruit,,,,,,AgroBuyer_957,Apple,457.0,6955.0,Bihar,Medium
+COM0958,Cereal,,,,,,AgroBuyer_958,Mango,121.0,3667.0,Tamil Nadu,High
+COM0959,Vegetable,,,,,,AgroBuyer_959,Banana,58.0,8580.0,Tamil Nadu,High
+COM0960,Oilseed,,,,,,AgroBuyer_960,Wheat,50.0,5613.0,Uttar Pradesh,Low
+COM0961,Pulses,,,,,,AgroBuyer_961,Jute,80.0,2898.0,Maharashtra,Low
+COM0962,Fiber,,,,,,AgroBuyer_962,Onion,262.0,6789.0,Gujarat,High
+COM0963,Fruit,,,,,,AgroBuyer_963,Rice,292.0,8237.0,Uttar Pradesh,Medium
+COM0964,Fiber,,,,,,AgroBuyer_964,Apple,348.0,7363.0,West Bengal,Low
+COM0965,Fiber,,,,,,AgroBuyer_965,Sugarcane,101.0,6627.0,West Bengal,Low
+COM0966,Commercial,,,,,,AgroBuyer_966,Apple,143.0,2454.0,Maharashtra,Low
+COM0967,Vegetable,,,,,,AgroBuyer_967,Apple,396.0,4049.0,West Bengal,Medium
+COM0968,Fruit,,,,,,AgroBuyer_968,Maize,196.0,3851.0,Gujarat,Medium
+COM0969,Fruit,,,,,,AgroBuyer_969,Rice,308.0,3202.0,Maharashtra,High
+COM0970,Cereal,,,,,,AgroBuyer_970,Barley,67.0,3297.0,Tamil Nadu,High
+COM0971,Cereal,,,,,,AgroBuyer_971,Jute,282.0,2063.0,Bihar,Medium
+COM0972,Fodder,,,,,,AgroBuyer_972,Wheat,107.0,2898.0,Uttar Pradesh,High
+COM0973,Fruit,,,,,,AgroBuyer_973,Onion,86.0,7831.0,Gujarat,High
+COM0974,Vegetable,,,,,,AgroBuyer_974,Jute,449.0,5636.0,West Bengal,High
+COM0975,Fodder,,,,,,AgroBuyer_975,Groundnut,440.0,8977.0,Uttar Pradesh,High
+COM0976,Fruit,,,,,,AgroBuyer_976,Rice,462.0,6229.0,Gujarat,High
+COM0977,Commercial,,,,,,AgroBuyer_977,Cotton,110.0,3109.0,Bihar,High
+COM0978,Fodder,,,,,,AgroBuyer_978,Groundnut,272.0,3564.0,Karnataka,Medium
+COM0979,Fiber,,,,,,AgroBuyer_979,Sugarcane,44.0,4452.0,Tamil Nadu,Medium
+COM0980,Fodder,,,,,,AgroBuyer_980,Rice,431.0,6509.0,Bihar,Low
+COM0981,Vegetable,,,,,,AgroBuyer_981,Barley,478.0,3172.0,Punjab,Medium
+COM0982,Vegetable,,,,,,AgroBuyer_982,Wheat,200.0,5758.0,Gujarat,Medium
+COM0983,Commercial,,,,,,AgroBuyer_983,Barley,190.0,8333.0,West Bengal,Low
+COM0984,Cereal,,,,,,AgroBuyer_984,Banana,466.0,7601.0,Karnataka,Low
+COM0985,Oilseed,,,,,,AgroBuyer_985,Maize,447.0,3844.0,West Bengal,High
+COM0986,Oilseed,,,,,,AgroBuyer_986,Soybean,441.0,8561.0,Punjab,Low
+COM0987,Oilseed,,,,,,AgroBuyer_987,Onion,386.0,8492.0,Gujarat,Low
+COM0988,Fruit,,,,,,AgroBuyer_988,Mango,227.0,6809.0,Uttar Pradesh,High
+COM0989,Cereal,,,,,,AgroBuyer_989,Sugarcane,302.0,4488.0,Tamil Nadu,High
+COM0990,Oilseed,,,,,,AgroBuyer_990,Sugarcane,294.0,4567.0,Maharashtra,Medium
+COM0991,Fruit,,,,,,AgroBuyer_991,Rice,138.0,7344.0,Gujarat,High
+COM0992,Fodder,,,,,,AgroBuyer_992,Tomato,308.0,3849.0,Maharashtra,High
+COM0993,Cereal,,,,,,AgroBuyer_993,Apple,202.0,6583.0,West Bengal,Low
+COM0994,Fiber,,,,,,AgroBuyer_994,Barley,224.0,5555.0,Gujarat,High
+COM0995,Cereal,,,,,,AgroBuyer_995,Maize,414.0,3386.0,Punjab,Low
+COM0996,Fodder,,,,,,AgroBuyer_996,Jute,301.0,2044.0,Punjab,High
+COM0997,Cereal,,,,,,AgroBuyer_997,Jute,75.0,5931.0,Gujarat,Medium
+COM0998,Fruit,,,,,,AgroBuyer_998,Apple,94.0,2684.0,Bihar,Low
+COM0999,Pulses,,,,,,AgroBuyer_999,Soybean,234.0,5935.0,Andhra Pradesh,Low
+COM1000,Pulses,,,,,,AgroBuyer_1000,Banana,36.0,3145.0,Andhra Pradesh,High

@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "file_1773678476476_h7434mr7z",
+    "userId": "east@argo",
+    "imagePath": "crop-waste-verification/east_argo/1773678476448-MTEwZWUwZTJm.jpg",
+    "image_hash": "110ee0e2f13a15b9c16bc8926d567f795b7575940dc272ed71355743155a2c71",
+    "latitude": 13.027909693886437,
+    "longitude": 80.25754927920102,
+    "captured_at": 1773678476448,
+    "device_id": "web_1773572789056_hn8g5t6cuu",
+    "createdAt": "2026-03-16T16:27:56.476Z",
+    "updatedAt": "2026-03-16T16:27:56.477Z"
+  },
+  {
+    "_id": "file_1773696669739_tichfikia",
+    "userId": "f1@gmail.com",
+    "imagePath": "crop-waste-verification/f1_gmail_com/1773696669703-MmUxZjg1YTBk.jpg",
+    "image_hash": "2e1f85a0da579b3150bed3708b8be03402d7764bf54548cfb050343f1e36196c",
+    "latitude": 13.027890621207977,
+    "longitude": 80.25753877392313,
+    "captured_at": 1773696669703,
+    "device_id": "web_1773572789056_hn8g5t6cuu",
+    "createdAt": "2026-03-16T21:31:09.739Z",
+    "updatedAt": "2026-03-16T21:31:09.739Z"
+  }
+]

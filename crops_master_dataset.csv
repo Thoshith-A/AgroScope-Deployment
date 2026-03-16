@@ -1,0 +1,16 @@
+crop_id,crop_name,category,ideal_regions,season,possible_substitutes,avg_price_per_quintal
+CR001,Rice,Cereal,"Punjab, Tamil Nadu, West Bengal, Odisha, UP",Kharif,"Wheat, Maize",2000
+CR002,Wheat,Cereal,"Punjab, Haryana, UP, MP",Rabi,"Rice, Maize",1900
+CR003,Maize,Cereal,"MP, Bihar, Odisha",Kharif,"Rice, Wheat",1800
+CR004,Barley,Cereal,"Haryana, UP, Rajasthan",Rabi,Wheat,1850
+CR005,Groundnut,Oilseed,"Gujarat, Tamil Nadu, Odisha",Kharif,"Soybean, Sunflower",5200
+CR006,Cotton,Fiber,"Gujarat, Maharashtra, Telangana",Kharif,Jute,6000
+CR007,Sugarcane,Commercial,"UP, Maharashtra, Karnataka",Annual,Maize,3200
+CR008,Soybean,Oilseed,"MP, Maharashtra",Kharif,Groundnut,5400
+CR009,Ragi,Millet,"Karnataka, Tamil Nadu",Kharif,Bajra,2500
+CR010,Tur,Pulse,"Karnataka, Maharashtra",Kharif,"Gram, Moong",5000
+CR011,Paddy,Cereal,"Tamil Nadu, WB, Odisha",Kharif,Rice,1950
+CR012,Banana,Fruit,"Tamil Nadu, Maharashtra, Kerala",Annual,Papaya,2000
+CR013,Jute,Fiber,"West Bengal, Assam",Kharif,Cotton,5800
+CR014,Potato,Vegetable,"WB, Bihar, UP",Rabi,"Sweet Potato, Tapioca",1600
+CR015,Bajra,Millet,"Gujarat, Rajasthan",Kharif,Ragi,2400

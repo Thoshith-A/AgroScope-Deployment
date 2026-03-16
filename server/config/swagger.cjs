@@ -1,0 +1,17 @@
+const path = require('path');
+const swaggerJsdoc = require('swagger-jsdoc');
+
+const options = {
+  definition: {
+    openapi: '3.0.0',
+    info: {
+      title: 'AgroScope Waste-to-Value API',
+      version: '1.0.0',
+      description: 'Backend API for AgroScope: Fair Price, Ratings, Forecast, Carbon, Recommendations',
+    },
+    servers: [{ url: '/', description: 'Relative to host' }],
+  },
+  apis: [path.join(__dirname, '../routes/*.js')],
+};
+
+module.exports = { swaggerSpec: swaggerJsdoc(options) };

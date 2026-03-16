@@ -1,0 +1,42 @@
+[
+  {
+    "id": "PAY_6E722E7DE08C",
+    "provisionId": "1773606813001",
+    "wasteType": "Paddy Husk",
+    "quantityTons": 5,
+    "pricePerKg": 16.900000000000002,
+    "farmerName": "f1@gmail.com",
+    "farmerUpiId": "77998026466@ybl",
+    "buyerName": "east@argo",
+    "buyerId": "east@argo",
+    "totalAmount": 84500,
+    "upiRef": "",
+    "note": "",
+    "screenshotFilename": "screenshot_faf27287-4ad4-4b5b-88e4-df963163aa95.png",
+    "screenshotUrl": "/uploads/screenshot_faf27287-4ad4-4b5b-88e4-df963163aa95.png",
+    "status": "pending_verification",
+    "submittedAt": "2026-03-16T16:33:15.383Z",
+    "verifiedAt": null,
+    "verifiedBy": null
+  },
+  {
+    "id": "PAY_494522279567",
+    "provisionId": "1773606813001",
+    "wasteType": "Paddy Husk",
+    "quantityTons": 5,
+    "pricePerKg": 16.900000000000002,
+    "farmerName": "f1@gmail.com",
+    "farmerUpiId": "77998026466@ybl",
+    "buyerName": "east@argo",
+    "buyerId": "east@argo",
+    "totalAmount": 84500,
+    "upiRef": "",
+    "note": "",
+    "screenshotFilename": "screenshot_85ab6edb-4e13-4dec-b2d6-07877d4fe9cf.png",
+    "screenshotUrl": "/uploads/screenshot_85ab6edb-4e13-4dec-b2d6-07877d4fe9cf.png",
+    "status": "verified",
+    "submittedAt": "2026-03-15T20:34:15.347Z",
+    "verifiedAt": "2026-03-16T16:34:07.894Z",
+    "verifiedBy": "admin@gmail.com"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": "wd_1773607023038_kom7cx25q",
+    "walletId": "wallet_1773606174078_tnyhzjp",
+    "farmerId": "f1@gmail.com",
+    "amount": 50000,
+    "accountNumber": "12334567890",
+    "ifscCode": "12345678901",
+    "upiId": "aa875204@gmail.com",
+    "mobileNumber": "7799802646",
+    "email": "aa875204@gmail.com",
+    "status": "completed",
+    "adminNote": "",
+    "receiptUrl": "",
+    "requestedAt": "2026-03-15T20:37:03.038Z",
+    "processedAt": "2026-03-15T20:38:47.509Z",
+    "createdAt": "2026-03-15T20:37:03.038Z",
+    "updatedAt": "2026-03-15T20:38:47.509Z"
+  }
+]

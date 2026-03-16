@@ -1,0 +1,35 @@
+[
+  {
+    "_id": "wallet_1773606174078_tnyhzjp",
+    "userId": "f1@gmail.com",
+    "role": "farmer",
+    "balance": 50010,
+    "totalEarned": 100010,
+    "totalWithdrawn": 50000,
+    "totalSpent": 0,
+    "createdAt": "2026-03-15T20:22:54.078Z",
+    "updatedAt": "2026-03-16T16:34:07.883Z"
+  },
+  {
+    "_id": "wallet_1773609349957_w8yyb35",
+    "userId": "admin@gmail.com",
+    "role": "farmer",
+    "balance": 0,
+    "totalEarned": 0,
+    "totalWithdrawn": 0,
+    "totalSpent": 0,
+    "createdAt": "2026-03-15T21:15:49.957Z",
+    "updatedAt": "2026-03-15T21:15:49.957Z"
+  },
+  {
+    "_id": "wallet_1773695260783_m6botuo",
+    "userId": "east@argo",
+    "role": "startup",
+    "balance": 0,
+    "totalEarned": 0,
+    "totalWithdrawn": 0,
+    "totalSpent": 0,
+    "createdAt": "2026-03-16T21:07:40.783Z",
+    "updatedAt": "2026-03-16T21:07:40.784Z"
+  }
+]

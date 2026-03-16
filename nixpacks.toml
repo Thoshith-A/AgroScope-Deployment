@@ -1,0 +1,18 @@
+# Node 20 from .nvmrc + NIXPACKS_NODE_VERSION (fixes undici "File is not defined" on Node 18)
+[phases.setup]
+
+# Single install at root: server deps are in root package.json so node server/server.js finds them
+[phases.install]
+cmds = ["npm install"]
+
+[phases.build]
+cmds = ["npm run build"]
+
+[start]
+cmd = "npm start"
+
+# Force npm; disable Caddy; Node 20; ensure production so server binds and serves frontend
+[variables]
+NIXPACKS_SPA_CADDY = "false"
+NIXPACKS_NODE_VERSION = "20"
+NODE_ENV = "production"

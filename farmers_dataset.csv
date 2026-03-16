@@ -1,0 +1,1001 @@
+farmer_id,state,crop,category,quantity_kg,price_per_quintal,quality_grade,season,latitude,longitude
+F0001,Punjab,Maize,Cereal,2642,1652,B,Zaid,11.505,69.663
+F0002,Punjab,Rice,Cereal,2097,1769,B,Zaid,28.385,80.759
+F0003,Uttar Pradesh,Rice,Cereal,2941,2283,A,Rabi,22.595,90.175
+F0004,Haryana,Rice,Cereal,1815,2042,A,Kharif,32.908,70.467
+F0005,Uttar Pradesh,Sugarcane,Commercial,4633,3217,B,Rabi,30.71,75.23
+F0006,Madhya Pradesh,Wheat,Cereal,931,2055,A,Rabi,29.434,86.203
+F0007,Gujarat,Cotton,Fiber,3496,7088,A,Rabi,31.446,73.45
+F0008,Madhya Pradesh,Wheat,Cereal,3523,1484,C,Zaid,34.435,93.023
+F0009,Gujarat,Groundnut,Oilseed,789,4097,C,Kharif,28.555,80.646
+F0010,Maharashtra,Soybean,Oilseed,4626,4334,C,Kharif,20.509,94.155
+F0011,Haryana,Rice,Cereal,4699,1398,C,Kharif,31.113,68.615
+F0012,Maharashtra,Soybean,Oilseed,3991,4655,C,Kharif,10.321,92.28
+F0013,Haryana,Rice,Cereal,1394,1979,B,Rabi,26.843,72.573
+F0014,Madhya Pradesh,Soybean,Oilseed,1865,5265,B,Kharif,9.545,77.176
+F0015,Tamil Nadu,Paddy,Cereal,2417,1938,B,Zaid,20.604,68.225
+F0016,Punjab,Maize,Cereal,1086,1908,B,Rabi,16.771,96.318
+F0017,Madhya Pradesh,Soybean,Oilseed,2567,5875,B,Zaid,25.287,71.765
+F0018,Gujarat,Groundnut,Oilseed,2415,5517,B,Zaid,9.58,84.239
+F0019,Haryana,Rice,Cereal,2407,1461,C,Rabi,23.099,96.29
+F0020,Haryana,Barley,Cereal,4964,1495,C,Kharif,11.917,83.263
+F0021,Karnataka,Ragi,Millet,1863,2738,B,Zaid,20.961,85.146
+F0022,West Bengal,Potato,Vegetable,1339,1134,C,Kharif,36.522,82.454
+F0023,Maharashtra,Soybean,Oilseed,1827,5718,B,Kharif,34.64,92.87
+F0024,West Bengal,Potato,Vegetable,3576,1099,C,Rabi,19.33,92.735
+F0025,Odisha,Groundnut,Oilseed,3307,5223,B,Kharif,35.739,89.719
+F0026,West Bengal,Jute,Fiber,1558,7312,A,Rabi,34.722,83.148
+F0027,Haryana,Barley,Cereal,2338,1369,C,Rabi,34.011,88.743
+F0028,West Bengal,Potato,Vegetable,1681,1726,A,Kharif,26.197,88.709
+F0029,Tamil Nadu,Paddy,Cereal,775,2282,A,Kharif,34.374,82.827
+F0030,Maharashtra,Sugarcane,Commercial,537,2678,C,Rabi,20.903,96.523
+F0031,Punjab,Maize,Cereal,555,1400,C,Rabi,9.192,70.757
+F0032,Tamil Nadu,Groundnut,Oilseed,3159,4813,C,Zaid,12.087,87.71
+F0033,Karnataka,Sugarcane,Commercial,2906,4100,A,Rabi,26.32,80.856
+F0034,Madhya Pradesh,Wheat,Cereal,527,2302,A,Zaid,22.363,71.092
+F0035,Karnataka,Sugarcane,Commercial,3353,4061,A,Rabi,21.871,74.441
+F0036,Odisha,Maize,Cereal,1202,2007,A,Rabi,33.798,74.407
+F0037,Maharashtra,Sugarcane,Commercial,941,3262,B,Zaid,23.934,85.116
+F0038,Tamil Nadu,Paddy,Cereal,1601,2148,A,Rabi,17.966,77.688
+F0039,Uttar Pradesh,Wheat,Cereal,3808,2335,A,Rabi,31.527,73.888
+F0040,Karnataka,Ragi,Millet,4155,2875,A,Kharif,18.965,96.261
+F0041,Punjab,Rice,Cereal,3746,2360,A,Zaid,21.262,93.645
+F0042,Odisha,Maize,Cereal,2547,1643,B,Zaid,14.326,94.284
+F0043,Tamil Nadu,Paddy,Cereal,4664,2291,A,Zaid,23.159,86.982
+F0044,Tamil Nadu,Groundnut,Oilseed,4720,5735,B,Zaid,13.08,92.369
+F0045,Gujarat,Groundnut,Oilseed,1055,5287,B,Rabi,32.454,73.239
+F0046,Uttar Pradesh,Rice,Cereal,2916,2042,A,Kharif,22.704,96.231
+F0047,Odisha,Rice,Cereal,3744,1793,B,Zaid,32.345,86.054
+F0048,Punjab,Maize,Cereal,2052,1456,C,Zaid,17.8,92.324
+F0049,Tamil Nadu,Paddy,Cereal,2259,1905,B,Kharif,22.051,76.513
+F0050,Karnataka,Tur,Pulse,3217,5847,A,Kharif,31.75,94.675
+F0051,Maharashtra,Sugarcane,Commercial,4330,4183,A,Rabi,8.169,90.221
+F0052,Madhya Pradesh,Soybean,Oilseed,4469,4545,C,Kharif,9.241,81.525
+F0053,Tamil Nadu,Paddy,Cereal,4799,1486,C,Kharif,32.73,78.12
+F0054,Gujarat,Cotton,Fiber,4936,4856,C,Zaid,33.898,76.022
+F0055,Odisha,Groundnut,Oilseed,2613,6229,A,Zaid,33.372,71.202
+F0056,Haryana,Wheat,Cereal,3229,1724,B,Zaid,16.736,84.254
+F0057,Odisha,Rice,Cereal,3954,1748,B,Rabi,20.284,95.769
+F0058,Madhya Pradesh,Maize,Cereal,4861,1765,B,Kharif,26.274,69.375
+F0059,West Bengal,Rice,Cereal,1959,1737,B,Zaid,17.149,73.424
+F0060,Tamil Nadu,Paddy,Cereal,4445,2006,A,Rabi,32.205,78.454
+F0061,Punjab,Maize,Cereal,671,2037,A,Kharif,31.578,75.742
+F0062,West Bengal,Rice,Cereal,3568,1570,C,Kharif,21.013,76.316
+F0063,Odisha,Groundnut,Oilseed,3163,5830,B,Kharif,31.971,86.078
+F0064,Odisha,Maize,Cereal,3347,2168,A,Zaid,16.688,80.764
+F0065,Odisha,Rice,Cereal,2167,2209,A,Kharif,26.184,95.999
+F0066,Odisha,Rice,Cereal,4206,1367,C,Rabi,17.423,71.841
+F0067,Madhya Pradesh,Soybean,Oilseed,1244,4223,C,Kharif,18.845,91.49
+F0068,Haryana,Barley,Cereal,1228,1458,C,Zaid,15.817,72.062
+F0069,Odisha,Groundnut,Oilseed,2445,4048,C,Zaid,28.686,73.894
+F0070,Karnataka,Tur,Pulse,4625,4281,C,Rabi,18.345,84.199
+F0071,Karnataka,Sugarcane,Commercial,4172,3509,A,Kharif,26.272,78.951
+F0072,Tamil Nadu,Banana,Fruit,3881,2439,A,Rabi,17.998,95.833
+F0073,Uttar Pradesh,Rice,Cereal,3554,1948,B,Zaid,22.831,78.482
+F0074,West Bengal,Jute,Fiber,4105,7896,A,Zaid,22.3,92.767
+F0075,West Bengal,Rice,Cereal,2341,2006,A,Zaid,9.293,72.596
+F0076,Odisha,Rice,Cereal,1482,2153,A,Kharif,22.532,87.187
+F0077,West Bengal,Rice,Cereal,2326,2216,A,Rabi,24.751,92.085
+F0078,Karnataka,Sugarcane,Commercial,2199,2800,C,Rabi,34.175,78.153
+F0079,Haryana,Wheat,Cereal,4194,1399,C,Kharif,22.071,90.414
+F0080,Odisha,Rice,Cereal,1042,1355,C,Zaid,34.566,88.495
+F0081,Maharashtra,Cotton,Fiber,1899,5175,C,Kharif,18.901,96.622
+F0082,Haryana,Rice,Cereal,3466,1314,C,Kharif,14.459,86.857
+F0083,Uttar Pradesh,Rice,Cereal,3471,2169,A,Rabi,29.566,71.348
+F0084,Gujarat,Groundnut,Oilseed,3864,5969,A,Zaid,11.039,73.02
+F0085,Madhya Pradesh,Wheat,Cereal,3486,1772,B,Kharif,29.005,75.597
+F0086,Madhya Pradesh,Soybean,Oilseed,3131,4678,C,Kharif,26.718,91.739
+F0087,Gujarat,Cotton,Fiber,4185,4580,C,Rabi,10.113,70.16
+F0088,Odisha,Groundnut,Oilseed,3758,6722,A,Zaid,36.161,89.809
+F0089,Karnataka,Ragi,Millet,1046,2721,A,Kharif,15.817,92.515
+F0090,Maharashtra,Soybean,Oilseed,1831,5173,B,Kharif,13.77,75.511
+F0091,Maharashtra,Sugarcane,Commercial,1089,3500,B,Zaid,29.081,74.989
+F0092,Karnataka,Tur,Pulse,2479,6320,A,Rabi,24.706,69.425
+F0093,Madhya Pradesh,Maize,Cereal,3895,1663,B,Rabi,25.69,80.5
+F0094,Maharashtra,Cotton,Fiber,708,5562,B,Rabi,34.914,71.571
+F0095,West Bengal,Potato,Vegetable,1066,1481,B,Zaid,36.066,79.147
+F0096,Gujarat,Groundnut,Oilseed,1475,4797,C,Zaid,18.39,72.444
+F0097,Karnataka,Sugarcane,Commercial,3303,2528,C,Zaid,12.04,83.458
+F0098,Madhya Pradesh,Maize,Cereal,2783,1376,C,Zaid,10.895,71.65
+F0099,Maharashtra,Cotton,Fiber,4222,7452,A,Rabi,25.505,75.227
+F0100,Odisha,Rice,Cereal,1341,1760,B,Zaid,16.138,75.408
+F0101,Gujarat,Groundnut,Oilseed,2844,6012,A,Zaid,9.836,70.593
+F0102,Karnataka,Tur,Pulse,2337,4235,C,Kharif,27.506,94.679
+F0103,Maharashtra,Sugarcane,Commercial,3986,2697,C,Rabi,11.537,77.444
+F0104,Haryana,Wheat,Cereal,3658,1352,C,Rabi,15.868,70.935
+F0105,Haryana,Wheat,Cereal,1352,1497,C,Kharif,32.931,84.103
+F0106,Karnataka,Tur,Pulse,1241,5645,A,Kharif,35.239,76.57
+F0107,Haryana,Wheat,Cereal,4944,2239,A,Kharif,29.318,71.398
+F0108,Haryana,Wheat,Cereal,4177,1994,A,Zaid,17.744,90.118
+F0109,Haryana,Rice,Cereal,687,1484,C,Kharif,9.934,93.591
+F0110,Uttar Pradesh,Sugarcane,Commercial,2017,3518,B,Kharif,29.956,85.908
+F0111,Punjab,Rice,Cereal,4572,1759,B,Zaid,12.934,83.3
+F0112,Madhya Pradesh,Maize,Cereal,4231,1984,A,Rabi,33.164,90.857
+F0113,West Bengal,Jute,Fiber,1755,4753,C,Kharif,33.518,84.181
+F0114,Gujarat,Bajra,Millet,4988,2301,B,Rabi,26.852,81.963
+F0115,Odisha,Rice,Cereal,2938,1495,C,Kharif,13.856,94.421
+F0116,West Bengal,Potato,Vegetable,4339,1791,A,Rabi,10.63,82.968
+F0117,Tamil Nadu,Paddy,Cereal,1777,1910,B,Zaid,19.235,90.095
+F0118,Haryana,Wheat,Cereal,2132,1568,C,Zaid,21.896,89.338
+F0119,Uttar Pradesh,Wheat,Cereal,1669,2140,A,Rabi,8.717,81.014
+F0120,Tamil Nadu,Groundnut,Oilseed,2640,4577,C,Rabi,32.004,77.961
+F0121,West Bengal,Potato,Vegetable,3221,1215,C,Rabi,10.236,96.633
+F0122,Gujarat,Cotton,Fiber,2310,7089,A,Zaid,35.601,95.371
+F0123,Maharashtra,Soybean,Oilseed,854,5050,B,Kharif,35.322,69.981
+F0124,Tamil Nadu,Groundnut,Oilseed,4502,5868,B,Zaid,23.846,79.771
+F0125,Odisha,Maize,Cereal,1092,1353,C,Zaid,24.844,76.696
+F0126,Tamil Nadu,Banana,Fruit,689,1913,B,Kharif,14.878,89.906
+F0127,Uttar Pradesh,Wheat,Cereal,1602,1492,C,Kharif,13.084,84.239
+F0128,Uttar Pradesh,Rice,Cereal,4112,1964,B,Kharif,25.996,94.62
+F0129,Tamil Nadu,Banana,Fruit,1907,1620,C,Kharif,19.888,71.624
+F0130,Haryana,Rice,Cereal,4313,1340,C,Zaid,25.32,73.833
+F0131,Tamil Nadu,Paddy,Cereal,3869,1840,B,Rabi,13.599,78.308
+F0132,Karnataka,Ragi,Millet,1446,2251,B,Kharif,24.483,88.608
+F0133,Odisha,Maize,Cereal,2749,1873,B,Kharif,20.359,69.381
+F0134,Tamil Nadu,Groundnut,Oilseed,1223,6195,A,Rabi,29.449,72.907
+F0135,Karnataka,Sugarcane,Commercial,3447,2625,C,Kharif,26.867,89.329
+F0136,Gujarat,Bajra,Millet,4267,2313,B,Rabi,34.136,88.949
+F0137,Madhya Pradesh,Maize,Cereal,814,1364,C,Kharif,18.193,90.658
+F0138,Haryana,Wheat,Cereal,4178,1728,B,Kharif,29.504,88.8
+F0139,Tamil Nadu,Banana,Fruit,4879,2581,A,Zaid,31.991,71.529
+F0140,Tamil Nadu,Paddy,Cereal,3169,1959,A,Kharif,19.437,73.515
+F0141,Madhya Pradesh,Wheat,Cereal,4541,2137,A,Rabi,29.469,90.85
+F0142,Punjab,Rice,Cereal,2046,1346,C,Rabi,20.059,76.118
+F0143,Maharashtra,Sugarcane,Commercial,4223,2367,C,Rabi,10.211,70.086
+F0144,Madhya Pradesh,Maize,Cereal,3922,2174,A,Rabi,12.267,76.676
+F0145,Madhya Pradesh,Soybean,Oilseed,4270,4999,B,Kharif,28.829,83.74
+F0146,Maharashtra,Soybean,Oilseed,3342,4791,C,Kharif,8.739,73.86
+F0147,Gujarat,Bajra,Millet,612,3013,A,Rabi,13.526,82.034
+F0148,Gujarat,Bajra,Millet,2237,1954,C,Rabi,31.927,88.905
+F0149,Maharashtra,Cotton,Fiber,2642,7257,A,Zaid,15.987,70.752
+F0150,Karnataka,Tur,Pulse,1136,3966,C,Zaid,27.344,85.436
+F0151,Odisha,Maize,Cereal,2882,1398,C,Zaid,35.534,70.294
+F0152,Madhya Pradesh,Maize,Cereal,3268,1857,B,Rabi,11.43,76.613
+F0153,Haryana,Barley,Cereal,1794,1472,C,Rabi,20.753,92.115
+F0154,Karnataka,Sugarcane,Commercial,3568,2542,C,Zaid,9.772,75.887
+F0155,Haryana,Rice,Cereal,2099,1739,B,Rabi,10.602,70.387
+F0156,Uttar Pradesh,Wheat,Cereal,2118,2340,A,Kharif,31.733,86.336
+F0157,Haryana,Wheat,Cereal,4124,2141,A,Rabi,36.809,74.778
+F0158,Uttar Pradesh,Rice,Cereal,4479,1894,B,Zaid,24.204,78.944
+F0159,Gujarat,Groundnut,Oilseed,2782,4396,C,Kharif,24.065,88.437
+F0160,Uttar Pradesh,Wheat,Cereal,4283,1753,B,Rabi,9.819,90.221
+F0161,Madhya Pradesh,Soybean,Oilseed,4728,3964,C,Kharif,16.559,75.037
+F0162,Odisha,Rice,Cereal,1719,1482,C,Zaid,8.586,87.365
+F0163,Gujarat,Groundnut,Oilseed,4914,4218,C,Rabi,31.7,89.589
+F0164,Uttar Pradesh,Wheat,Cereal,2672,1944,B,Rabi,21.284,88.259
+F0165,Punjab,Wheat,Cereal,2026,2095,A,Kharif,27.374,92.2
+F0166,West Bengal,Jute,Fiber,2182,4696,C,Kharif,18.817,83.881
+F0167,Gujarat,Cotton,Fiber,1411,6286,B,Zaid,23.266,82.014
+F0168,Karnataka,Sugarcane,Commercial,4907,4175,A,Rabi,35.727,80.365
+F0169,Gujarat,Groundnut,Oilseed,742,4962,B,Kharif,15.935,88.802
+F0170,Uttar Pradesh,Wheat,Cereal,1939,2288,A,Kharif,11.926,88.341
+F0171,Maharashtra,Cotton,Fiber,2424,5928,B,Rabi,33.251,83.04
+F0172,Haryana,Rice,Cereal,2903,2145,A,Zaid,34.169,85.932
+F0173,Madhya Pradesh,Wheat,Cereal,4106,1671,B,Kharif,34.855,92.171
+F0174,Madhya Pradesh,Wheat,Cereal,1141,1941,B,Rabi,20.445,83.334
+F0175,Punjab,Rice,Cereal,3114,1764,B,Zaid,8.027,80.187
+F0176,Punjab,Wheat,Cereal,2209,1696,B,Kharif,8.252,94.171
+F0177,Uttar Pradesh,Sugarcane,Commercial,1215,4114,A,Rabi,9.661,91.174
+F0178,Tamil Nadu,Paddy,Cereal,3292,2321,A,Rabi,22.882,82.299
+F0179,Maharashtra,Cotton,Fiber,800,4739,C,Rabi,28.75,95.048
+F0180,West Bengal,Potato,Vegetable,2044,1317,C,Rabi,33.915,79.003
+F0181,Maharashtra,Soybean,Oilseed,593,6854,A,Kharif,10.352,82.719
+F0182,Uttar Pradesh,Rice,Cereal,1609,2356,A,Rabi,32.802,86.928
+F0183,West Bengal,Rice,Cereal,4240,1568,C,Kharif,9.534,70.106
+F0184,Odisha,Maize,Cereal,1184,1621,B,Zaid,21.774,92.139
+F0185,West Bengal,Potato,Vegetable,2184,1522,B,Zaid,34.463,86.155
+F0186,Gujarat,Cotton,Fiber,4242,4429,C,Zaid,22.114,80.765
+F0187,Haryana,Rice,Cereal,3624,1637,B,Zaid,8.301,84.187
+F0188,Punjab,Wheat,Cereal,1298,1625,B,Zaid,15.347,92.565
+F0189,Punjab,Maize,Cereal,4604,1442,C,Rabi,15.86,90.721
+F0190,Uttar Pradesh,Wheat,Cereal,4027,1903,B,Rabi,22.599,91.124
+F0191,West Bengal,Potato,Vegetable,3844,1476,B,Zaid,22.735,79.94
+F0192,Maharashtra,Sugarcane,Commercial,3500,3977,A,Zaid,27.662,82.238
+F0193,Uttar Pradesh,Wheat,Cereal,3725,1796,B,Kharif,36.757,88.861
+F0194,Uttar Pradesh,Wheat,Cereal,1149,1829,B,Kharif,19.741,90.152
+F0195,Maharashtra,Soybean,Oilseed,2021,5677,B,Kharif,9.038,73.439
+F0196,Uttar Pradesh,Wheat,Cereal,4795,1986,A,Zaid,35.067,80.367
+F0197,Punjab,Rice,Cereal,1298,1969,A,Zaid,30.728,94.661
+F0198,Tamil Nadu,Paddy,Cereal,4914,1928,B,Zaid,27.189,93.322
+F0199,Tamil Nadu,Banana,Fruit,1309,2288,A,Rabi,13.657,90.489
+F0200,Punjab,Rice,Cereal,3729,1504,C,Kharif,12.286,75.44
+F0201,Uttar Pradesh,Wheat,Cereal,4314,2253,A,Rabi,26.874,90.65
+F0202,Gujarat,Bajra,Millet,4631,2418,B,Rabi,28.004,94.442
+F0203,Karnataka,Tur,Pulse,2875,6527,A,Zaid,15.516,78.063
+F0204,Maharashtra,Soybean,Oilseed,2300,5943,A,Zaid,12.607,90.61
+F0205,Tamil Nadu,Banana,Fruit,4482,2169,B,Kharif,10.747,74.32
+F0206,West Bengal,Rice,Cereal,1993,2036,A,Zaid,13.58,89.699
+F0207,Punjab,Wheat,Cereal,3146,2076,A,Kharif,35.78,92.148
+F0208,Tamil Nadu,Groundnut,Oilseed,512,6672,A,Kharif,26.257,83.947
+F0209,Madhya Pradesh,Soybean,Oilseed,4897,4999,B,Zaid,10.068,71.593
+F0210,Karnataka,Tur,Pulse,4920,5598,A,Zaid,16.612,88.725
+F0211,Karnataka,Tur,Pulse,966,4072,C,Zaid,13.158,88.577
+F0212,Haryana,Wheat,Cereal,2729,1521,C,Kharif,35.229,83.842
+F0213,Gujarat,Groundnut,Oilseed,2161,6069,A,Zaid,35.154,72.751
+F0214,Karnataka,Ragi,Millet,4730,2881,A,Rabi,36.274,75.566
+F0215,Karnataka,Ragi,Millet,2614,2667,B,Rabi,11.952,76.228
+F0216,West Bengal,Potato,Vegetable,2145,1412,B,Zaid,25.821,68.678
+F0217,Madhya Pradesh,Wheat,Cereal,3410,2168,A,Kharif,27.047,72.828
+F0218,Maharashtra,Cotton,Fiber,2602,4566,C,Rabi,31.384,73.878
+F0219,Karnataka,Ragi,Millet,1380,2503,B,Rabi,19.417,90.645
+F0220,Odisha,Maize,Cereal,722,1670,B,Zaid,24.124,87.588
+F0221,Odisha,Maize,Cereal,1636,1685,B,Kharif,11.794,85.749
+F0222,Karnataka,Ragi,Millet,840,2122,C,Zaid,24.452,80.866
+F0223,Tamil Nadu,Groundnut,Oilseed,3720,4537,C,Rabi,13.447,69.657
+F0224,Haryana,Barley,Cereal,727,1567,C,Zaid,13.481,93.412
+F0225,Karnataka,Tur,Pulse,842,4846,B,Zaid,31.668,68.838
+F0226,Odisha,Rice,Cereal,4468,1684,B,Kharif,20.673,87.538
+F0227,Uttar Pradesh,Sugarcane,Commercial,3080,3878,A,Kharif,19.744,69.644
+F0228,Punjab,Maize,Cereal,3835,2010,A,Kharif,30.565,89.775
+F0229,Tamil Nadu,Groundnut,Oilseed,1296,6190,A,Rabi,13.693,79.788
+F0230,Haryana,Barley,Cereal,3304,2297,A,Rabi,25.358,76.653
+F0231,Odisha,Groundnut,Oilseed,4867,4105,C,Rabi,21.36,75.933
+F0232,West Bengal,Rice,Cereal,3920,1623,B,Kharif,19.611,73.682
+F0233,Karnataka,Sugarcane,Commercial,1240,2498,C,Rabi,27.658,73.361
+F0234,Punjab,Maize,Cereal,2614,2124,A,Zaid,25.046,86.137
+F0235,Uttar Pradesh,Wheat,Cereal,1485,2286,A,Rabi,31.129,73.838
+F0236,Karnataka,Sugarcane,Commercial,4612,4189,A,Rabi,29.172,71.977
+F0237,Karnataka,Ragi,Millet,1935,3085,A,Rabi,33.561,72.243
+F0238,West Bengal,Potato,Vegetable,4958,1284,C,Rabi,32.164,73.049
+F0239,Madhya Pradesh,Maize,Cereal,4653,1943,B,Rabi,30.645,89.735
+F0240,Tamil Nadu,Banana,Fruit,2403,2353,A,Rabi,32.415,91.617
+F0241,Maharashtra,Soybean,Oilseed,1224,7035,A,Rabi,34.656,81.859
+F0242,Karnataka,Ragi,Millet,3717,3090,A,Rabi,21.956,76.067
+F0243,Haryana,Wheat,Cereal,3382,1795,B,Zaid,17.543,87.999
+F0244,West Bengal,Potato,Vegetable,3359,1432,B,Rabi,30.503,90.053
+F0245,Uttar Pradesh,Wheat,Cereal,3367,2208,A,Zaid,17.548,94.248
+F0246,West Bengal,Jute,Fiber,2068,7688,A,Rabi,19.224,85.573
+F0247,Madhya Pradesh,Soybean,Oilseed,4619,5066,B,Rabi,35.066,75.564
+F0248,Gujarat,Cotton,Fiber,4353,7288,A,Kharif,27.846,95.408
+F0249,Karnataka,Ragi,Millet,3009,2624,B,Zaid,12.424,69.383
+F0250,Maharashtra,Cotton,Fiber,799,6592,A,Kharif,18.784,91.354
+F0251,Tamil Nadu,Banana,Fruit,1420,2625,A,Rabi,31.011,90.275
+F0252,Gujarat,Cotton,Fiber,2169,5788,B,Zaid,8.073,88.396
+F0253,Haryana,Barley,Cereal,4900,1424,C,Zaid,17.144,76.19
+F0254,Odisha,Maize,Cereal,4931,1418,C,Kharif,31.604,76.486
+F0255,Haryana,Rice,Cereal,1288,1525,C,Rabi,8.008,72.307
+F0256,Haryana,Wheat,Cereal,4850,2241,A,Rabi,23.295,88.599
+F0257,Haryana,Rice,Cereal,4707,1815,B,Rabi,22.912,94.146
+F0258,Odisha,Groundnut,Oilseed,4944,4066,C,Rabi,15.455,86.747
+F0259,Gujarat,Groundnut,Oilseed,2598,5703,B,Rabi,13.204,68.492
+F0260,Karnataka,Tur,Pulse,2584,5180,B,Rabi,19.163,74.346
+F0261,Gujarat,Cotton,Fiber,1986,5279,C,Rabi,35.868,73.384
+F0262,Odisha,Maize,Cereal,988,1705,B,Kharif,12.21,80.349
+F0263,Madhya Pradesh,Wheat,Cereal,4302,1833,B,Zaid,8.719,90.059
+F0264,Haryana,Rice,Cereal,3571,1372,C,Rabi,25.106,88.787
+F0265,Uttar Pradesh,Rice,Cereal,4225,1762,B,Kharif,20.142,81.169
+F0266,Gujarat,Groundnut,Oilseed,1163,5013,B,Rabi,14.017,91.671
+F0267,Tamil Nadu,Groundnut,Oilseed,2209,5268,B,Rabi,28.604,75.192
+F0268,Uttar Pradesh,Sugarcane,Commercial,3828,2731,C,Zaid,30.796,76.618
+F0269,Maharashtra,Sugarcane,Commercial,4569,4082,A,Kharif,34.194,75.795
+F0270,Uttar Pradesh,Wheat,Cereal,4000,1562,C,Kharif,12.393,78.268
+F0271,Madhya Pradesh,Soybean,Oilseed,1199,5562,B,Zaid,24.769,78.762
+F0272,West Bengal,Rice,Cereal,1043,1789,B,Kharif,14.905,87.709
+F0273,Odisha,Maize,Cereal,883,1912,B,Zaid,28.004,88.976
+F0274,Haryana,Wheat,Cereal,2734,2162,A,Zaid,14.247,75.507
+F0275,Punjab,Wheat,Cereal,1821,2107,A,Zaid,16.292,79.442
+F0276,Haryana,Barley,Cereal,1600,1974,A,Kharif,32.611,90.259
+F0277,West Bengal,Jute,Fiber,1201,6166,B,Zaid,26.556,73.584
+F0278,Gujarat,Groundnut,Oilseed,3586,5876,B,Kharif,22.162,81.198
+F0279,Madhya Pradesh,Maize,Cereal,638,2239,A,Rabi,22.512,75.151
+F0280,Odisha,Groundnut,Oilseed,831,4954,B,Rabi,16.723,85.621
+F0281,Gujarat,Cotton,Fiber,3746,4882,C,Kharif,32.563,84.227
+F0282,Punjab,Maize,Cereal,882,2131,A,Zaid,27.534,94.927
+F0283,Tamil Nadu,Banana,Fruit,2672,1817,B,Zaid,32.869,85.821
+F0284,West Bengal,Rice,Cereal,1040,2306,A,Kharif,9.13,91.364
+F0285,Karnataka,Tur,Pulse,2857,5304,B,Zaid,31.78,68.157
+F0286,Haryana,Rice,Cereal,3965,2006,A,Rabi,35.95,94.826
+F0287,Maharashtra,Cotton,Fiber,3320,6659,A,Kharif,8.427,91.949
+F0288,Karnataka,Sugarcane,Commercial,4296,3812,A,Rabi,22.621,78.888
+F0289,Maharashtra,Soybean,Oilseed,2752,5052,B,Kharif,16.829,69.774
+F0290,Punjab,Rice,Cereal,2141,2179,A,Rabi,21.337,71.483
+F0291,Karnataka,Sugarcane,Commercial,990,2799,C,Zaid,29.804,94.843
+F0292,West Bengal,Jute,Fiber,1399,4583,C,Zaid,19.791,69.718
+F0293,West Bengal,Jute,Fiber,3421,4378,C,Zaid,18.842,94.339
+F0294,West Bengal,Rice,Cereal,3507,1512,C,Rabi,30.531,73.976
+F0295,Maharashtra,Sugarcane,Commercial,4008,2883,B,Rabi,19.388,73.497
+F0296,West Bengal,Potato,Vegetable,619,1847,A,Zaid,10.632,78.714
+F0297,Odisha,Groundnut,Oilseed,2977,5407,B,Kharif,34.937,95.136
+F0298,Uttar Pradesh,Sugarcane,Commercial,4151,3112,B,Kharif,19.055,92.064
+F0299,West Bengal,Potato,Vegetable,2663,1814,A,Zaid,24.944,95.198
+F0300,Uttar Pradesh,Sugarcane,Commercial,4529,2568,C,Zaid,19.326,72.643
+F0301,Punjab,Maize,Cereal,2696,1937,B,Zaid,29.834,70.04
+F0302,Madhya Pradesh,Soybean,Oilseed,1349,4145,C,Zaid,24.114,69.619
+F0303,Gujarat,Cotton,Fiber,1608,6916,A,Kharif,23.815,94.654
+F0304,Madhya Pradesh,Maize,Cereal,1563,2009,A,Zaid,17.14,83.468
+F0305,Haryana,Rice,Cereal,3763,1334,C,Rabi,28.542,90.865
+F0306,Gujarat,Groundnut,Oilseed,2626,6468,A,Rabi,11.618,72.776
+F0307,Karnataka,Ragi,Millet,3280,1882,C,Rabi,34.694,72.954
+F0308,Haryana,Barley,Cereal,1603,1373,C,Zaid,31.216,68.579
+F0309,Tamil Nadu,Paddy,Cereal,4600,1960,A,Kharif,8.496,95.587
+F0310,Haryana,Rice,Cereal,1722,1631,B,Zaid,16.82,95.456
+F0311,Odisha,Rice,Cereal,1050,2286,A,Rabi,10.818,77.106
+F0312,West Bengal,Potato,Vegetable,2323,1455,B,Rabi,31.916,87.883
+F0313,Maharashtra,Cotton,Fiber,2676,5798,B,Zaid,26.958,83.811
+F0314,Madhya Pradesh,Wheat,Cereal,4785,1351,C,Kharif,29.923,86.622
+F0315,Karnataka,Ragi,Millet,2332,2163,C,Kharif,36.682,69.551
+F0316,Odisha,Rice,Cereal,711,1363,C,Zaid,34.222,80.028
+F0317,Gujarat,Bajra,Millet,1741,2826,A,Kharif,24.479,68.005
+F0318,Uttar Pradesh,Rice,Cereal,1485,1385,C,Kharif,13.424,84.896
+F0319,Uttar Pradesh,Sugarcane,Commercial,3898,3779,A,Rabi,17.633,87.444
+F0320,Uttar Pradesh,Sugarcane,Commercial,658,2435,C,Zaid,20.37,77.655
+F0321,Karnataka,Tur,Pulse,2506,3830,C,Rabi,24.975,69.765
+F0322,West Bengal,Potato,Vegetable,1703,1374,B,Zaid,10.399,70.157
+F0323,Haryana,Barley,Cereal,4362,1383,C,Zaid,30.554,82.997
+F0324,Haryana,Rice,Cereal,3355,1578,C,Zaid,11.964,82.653
+F0325,Odisha,Rice,Cereal,4338,1937,B,Kharif,18.488,72.181
+F0326,Tamil Nadu,Banana,Fruit,4078,1669,C,Zaid,21.901,93.344
+F0327,Tamil Nadu,Banana,Fruit,2995,2166,A,Rabi,21.236,91.83
+F0328,Karnataka,Sugarcane,Commercial,4064,2971,B,Rabi,10.508,91.535
+F0329,Karnataka,Tur,Pulse,858,4015,C,Zaid,25.298,85.992
+F0330,Odisha,Rice,Cereal,4426,1716,B,Kharif,32.563,76.209
+F0331,Gujarat,Bajra,Millet,1061,2034,C,Kharif,14.608,88.184
+F0332,West Bengal,Potato,Vegetable,1656,1494,B,Rabi,36.982,91.546
+F0333,West Bengal,Rice,Cereal,4846,1326,C,Rabi,22.996,88.143
+F0334,Gujarat,Bajra,Millet,783,2993,A,Rabi,18.055,94.805
+F0335,Punjab,Maize,Cereal,3878,2191,A,Kharif,25.09,70.866
+F0336,Tamil Nadu,Paddy,Cereal,701,1668,B,Kharif,19.33,92.681
+F0337,Gujarat,Bajra,Millet,4761,1934,C,Kharif,29.143,94.229
+F0338,Tamil Nadu,Groundnut,Oilseed,3695,5489,B,Kharif,31.606,94.842
+F0339,Uttar Pradesh,Sugarcane,Commercial,2484,3573,A,Kharif,22.653,90.759
+F0340,Maharashtra,Cotton,Fiber,4978,4392,C,Rabi,18.187,69.983
+F0341,Odisha,Rice,Cereal,2584,1505,C,Rabi,30.631,75.731
+F0342,Haryana,Wheat,Cereal,1964,1666,B,Kharif,33.608,94.306
+F0343,Odisha,Maize,Cereal,2169,1471,C,Rabi,16.345,82.836
+F0344,Uttar Pradesh,Sugarcane,Commercial,3465,3910,A,Rabi,10.032,96.152
+F0345,Gujarat,Bajra,Millet,3253,3186,A,Kharif,17.669,80.68
+F0346,Punjab,Maize,Cereal,800,2270,A,Zaid,8.453,69.326
+F0347,Karnataka,Tur,Pulse,768,4770,B,Zaid,12.362,92.998
+F0348,Punjab,Rice,Cereal,3293,1640,B,Zaid,13.141,72.804
+F0349,Uttar Pradesh,Wheat,Cereal,1412,2091,A,Kharif,11.585,87.648
+F0350,Madhya Pradesh,Soybean,Oilseed,4419,5397,B,Kharif,20.69,93.931
+F0351,Haryana,Rice,Cereal,2527,2000,A,Zaid,33.072,90.612
+F0352,Haryana,Rice,Cereal,2555,2197,A,Zaid,18.766,94.875
+F0353,Punjab,Rice,Cereal,3402,1648,B,Zaid,22.775,74.25
+F0354,Gujarat,Bajra,Millet,1139,2355,B,Rabi,30.33,94.076
+F0355,Karnataka,Ragi,Millet,4245,2597,B,Rabi,33.576,70.314
+F0356,Karnataka,Sugarcane,Commercial,4992,2630,C,Kharif,15.774,95.854
+F0357,Karnataka,Tur,Pulse,706,5835,A,Zaid,21.188,78.291
+F0358,Odisha,Maize,Cereal,1455,1746,B,Zaid,22.355,86.435
+F0359,Madhya Pradesh,Soybean,Oilseed,684,5516,B,Kharif,10.539,69.096
+F0360,West Bengal,Potato,Vegetable,2020,1769,A,Zaid,27.543,76.93
+F0361,Haryana,Rice,Cereal,3966,2306,A,Kharif,13.6,86.061
+F0362,Tamil Nadu,Groundnut,Oilseed,3469,4636,C,Rabi,16.807,87.157
+F0363,Haryana,Barley,Cereal,3252,1549,C,Zaid,15.451,72.188
+F0364,Uttar Pradesh,Wheat,Cereal,4377,2058,A,Zaid,17.648,76.849
+F0365,Haryana,Barley,Cereal,1156,1559,C,Zaid,24.644,84.106
+F0366,Uttar Pradesh,Rice,Cereal,3941,2192,A,Kharif,29.497,76.033
+F0367,Maharashtra,Soybean,Oilseed,1075,5476,B,Kharif,17.357,87.286
+F0368,Tamil Nadu,Banana,Fruit,4594,2076,B,Zaid,32.517,81.644
+F0369,Tamil Nadu,Groundnut,Oilseed,4009,4806,C,Kharif,27.369,74.013
+F0370,Tamil Nadu,Banana,Fruit,632,2356,A,Rabi,15.599,69.141
+F0371,Uttar Pradesh,Sugarcane,Commercial,1824,4156,A,Zaid,33.556,69.34
+F0372,Haryana,Barley,Cereal,1483,1634,B,Rabi,8.792,94.261
+F0373,Odisha,Rice,Cereal,2685,1545,C,Rabi,10.571,82.448
+F0374,Odisha,Groundnut,Oilseed,2281,5567,B,Zaid,16.114,84.619
+F0375,Punjab,Wheat,Cereal,4272,1861,B,Rabi,24.359,68.027
+F0376,Gujarat,Bajra,Millet,4030,2734,B,Zaid,18.142,73.261
+F0377,Karnataka,Tur,Pulse,3353,5311,B,Kharif,27.061,70.814
+F0378,Gujarat,Groundnut,Oilseed,1890,5067,B,Rabi,11.887,73.628
+F0379,Haryana,Rice,Cereal,4129,2182,A,Rabi,10.273,75.636
+F0380,Tamil Nadu,Banana,Fruit,3940,1641,C,Kharif,26.815,87.821
+F0381,Punjab,Wheat,Cereal,4201,1511,C,Rabi,13.309,77.499
+F0382,Karnataka,Tur,Pulse,1423,5066,B,Kharif,28.757,94.645
+F0383,Gujarat,Bajra,Millet,1140,1801,C,Kharif,36.876,83.83
+F0384,Karnataka,Ragi,Millet,3879,2553,B,Zaid,24.56,77.099
+F0385,Gujarat,Groundnut,Oilseed,1445,7190,A,Rabi,23.584,78.53
+F0386,Karnataka,Sugarcane,Commercial,3026,3158,B,Rabi,11.654,92.218
+F0387,Tamil Nadu,Banana,Fruit,2833,2212,A,Rabi,12.552,71.67
+F0388,Maharashtra,Cotton,Fiber,2950,6086,B,Zaid,32.235,69.746
+F0389,Tamil Nadu,Groundnut,Oilseed,4551,6043,A,Rabi,26.862,83.493
+F0390,Haryana,Rice,Cereal,4517,2174,A,Kharif,9.734,95.982
+F0391,Karnataka,Sugarcane,Commercial,920,3458,B,Kharif,30.13,77.917
+F0392,Karnataka,Ragi,Millet,3879,3157,A,Kharif,13.904,91.686
+F0393,Tamil Nadu,Paddy,Cereal,1756,1557,C,Kharif,35.566,96.984
+F0394,Uttar Pradesh,Wheat,Cereal,2576,2077,A,Zaid,35.894,82.424
+F0395,Odisha,Groundnut,Oilseed,1864,5353,B,Kharif,9.149,69.116
+F0396,West Bengal,Rice,Cereal,656,1469,C,Kharif,9.022,94.925
+F0397,Madhya Pradesh,Soybean,Oilseed,1622,7079,A,Zaid,23.237,89.251
+F0398,Haryana,Rice,Cereal,4255,1907,B,Rabi,24.484,69.747
+F0399,Odisha,Groundnut,Oilseed,1519,4060,C,Rabi,18.499,85.075
+F0400,Karnataka,Tur,Pulse,2458,3831,C,Rabi,31.092,86.723
+F0401,Odisha,Groundnut,Oilseed,1120,4648,C,Zaid,30.172,83.677
+F0402,Tamil Nadu,Paddy,Cereal,929,1717,B,Rabi,21.117,95.377
+F0403,Odisha,Rice,Cereal,4213,1416,C,Rabi,25.736,90.193
+F0404,West Bengal,Jute,Fiber,4991,4999,C,Zaid,28.423,76.723
+F0405,Maharashtra,Cotton,Fiber,4381,4795,C,Zaid,14.872,95.716
+F0406,Karnataka,Tur,Pulse,1538,5534,A,Kharif,27.972,73.543
+F0407,Madhya Pradesh,Wheat,Cereal,1528,1360,C,Zaid,36.982,93.12
+F0408,Haryana,Rice,Cereal,1276,1958,B,Kharif,23.853,73.634
+F0409,Haryana,Wheat,Cereal,3778,1306,C,Zaid,18.01,73.984
+F0410,Gujarat,Groundnut,Oilseed,650,6941,A,Kharif,23.245,92.355
+F0411,Maharashtra,Soybean,Oilseed,3910,5302,B,Zaid,30.702,89.223
+F0412,Punjab,Rice,Cereal,3078,2325,A,Rabi,31.501,82.354
+F0413,Uttar Pradesh,Sugarcane,Commercial,3856,2474,C,Kharif,15.668,79.114
+F0414,Gujarat,Bajra,Millet,3093,2646,B,Kharif,23.191,93.819
+F0415,West Bengal,Jute,Fiber,1859,5592,B,Kharif,34.123,95.943
+F0416,Uttar Pradesh,Rice,Cereal,1077,2200,A,Rabi,11.768,70.111
+F0417,Madhya Pradesh,Maize,Cereal,1114,1857,B,Rabi,27.598,82.711
+F0418,Punjab,Maize,Cereal,986,1772,B,Rabi,11.373,95.776
+F0419,Odisha,Rice,Cereal,3844,1453,C,Kharif,10.227,68.675
+F0420,West Bengal,Jute,Fiber,3732,6836,A,Kharif,24.448,83.791
+F0421,Karnataka,Ragi,Millet,4335,3018,A,Kharif,10.196,89.499
+F0422,Tamil Nadu,Banana,Fruit,2525,2443,A,Rabi,25.314,73.249
+F0423,Maharashtra,Cotton,Fiber,1656,4669,C,Zaid,20.181,90.936
+F0424,Uttar Pradesh,Rice,Cereal,4415,1469,C,Zaid,23.201,82.103
+F0425,Haryana,Barley,Cereal,3341,1718,B,Zaid,14.503,71.419
+F0426,Madhya Pradesh,Maize,Cereal,509,1682,B,Zaid,34.006,93.985
+F0427,West Bengal,Potato,Vegetable,4400,1545,B,Kharif,13.874,83.525
+F0428,Gujarat,Cotton,Fiber,1120,7018,A,Kharif,35.933,85.123
+F0429,Uttar Pradesh,Sugarcane,Commercial,3187,3132,B,Rabi,32.949,70.401
+F0430,Haryana,Barley,Cereal,1487,1776,B,Kharif,11.906,71.805
+F0431,Haryana,Wheat,Cereal,3397,2086,A,Kharif,8.798,85.633
+F0432,Uttar Pradesh,Rice,Cereal,3207,1880,B,Zaid,15.46,77.063
+F0433,Karnataka,Sugarcane,Commercial,2005,3073,B,Zaid,23.268,85.857
+F0434,Maharashtra,Sugarcane,Commercial,3415,2386,C,Rabi,14.379,89.362
+F0435,Punjab,Maize,Cereal,3616,1460,C,Zaid,21.035,86.703
+F0436,Punjab,Wheat,Cereal,1020,2015,A,Kharif,29.747,85.566
+F0437,Maharashtra,Soybean,Oilseed,3014,4182,C,Rabi,35.856,88.783
+F0438,Maharashtra,Sugarcane,Commercial,1222,3328,B,Kharif,14.905,81.769
+F0439,West Bengal,Jute,Fiber,1007,6241,B,Zaid,35.695,79.508
+F0440,Uttar Pradesh,Wheat,Cereal,1407,1975,A,Rabi,20.449,84.963
+F0441,West Bengal,Potato,Vegetable,835,1454,B,Kharif,25.025,88.494
+F0442,Haryana,Wheat,Cereal,852,1408,C,Rabi,29.044,89.957
+F0443,Gujarat,Cotton,Fiber,3473,5123,C,Kharif,24.675,85.79
+F0444,Tamil Nadu,Banana,Fruit,4350,2055,B,Kharif,13.573,90.313
+F0445,Haryana,Wheat,Cereal,4019,1827,B,Kharif,31.851,75.004
+F0446,Madhya Pradesh,Wheat,Cereal,618,1393,C,Zaid,8.35,75.927
+F0447,Maharashtra,Cotton,Fiber,3262,7624,A,Kharif,12.031,90.029
+F0448,Maharashtra,Sugarcane,Commercial,3044,3299,B,Zaid,10.406,76.411
+F0449,Odisha,Maize,Cereal,2381,1670,B,Zaid,28.549,83.656
+F0450,Uttar Pradesh,Wheat,Cereal,903,2153,A,Rabi,28.891,82.285
+F0451,Haryana,Rice,Cereal,1576,2185,A,Kharif,11.854,96.515
+F0452,Haryana,Wheat,Cereal,4650,1828,B,Zaid,21.831,85.365
+F0453,West Bengal,Rice,Cereal,921,1958,A,Zaid,12.732,91.184
+F0454,Uttar Pradesh,Sugarcane,Commercial,1565,3336,B,Rabi,9.03,93.48
+F0455,Uttar Pradesh,Sugarcane,Commercial,3376,3551,A,Zaid,29.212,68.25
+F0456,Tamil Nadu,Banana,Fruit,1462,2188,A,Zaid,15.069,90.09
+F0457,Odisha,Maize,Cereal,1814,1953,B,Rabi,21.221,75.321
+F0458,Tamil Nadu,Groundnut,Oilseed,4588,4367,C,Kharif,11.45,93.48
+F0459,Karnataka,Tur,Pulse,3064,4341,C,Zaid,26.806,71.683
+F0460,Uttar Pradesh,Rice,Cereal,583,2310,A,Rabi,27.095,68.297
+F0461,Uttar Pradesh,Sugarcane,Commercial,789,4135,A,Zaid,33.115,76.965
+F0462,Odisha,Maize,Cereal,2120,1337,C,Rabi,32.217,76.187
+F0463,Karnataka,Ragi,Millet,4018,2012,C,Zaid,20.181,82.769
+F0464,Madhya Pradesh,Soybean,Oilseed,3754,4401,C,Zaid,34.075,88.944
+F0465,Haryana,Barley,Cereal,4499,1743,B,Rabi,17.992,80.489
+F0466,Maharashtra,Sugarcane,Commercial,4874,3558,A,Kharif,31.93,68.647
+F0467,Odisha,Rice,Cereal,952,1988,A,Kharif,28.108,95.696
+F0468,Punjab,Rice,Cereal,4104,2054,A,Kharif,10.649,90.943
+F0469,Maharashtra,Cotton,Fiber,2726,4634,C,Zaid,22.868,79.138
+F0470,Tamil Nadu,Groundnut,Oilseed,2383,4778,C,Rabi,22.609,92.079
+F0471,Karnataka,Tur,Pulse,3774,5085,B,Kharif,8.971,74.638
+F0472,West Bengal,Jute,Fiber,1917,5923,B,Rabi,19.163,84.39
+F0473,Maharashtra,Sugarcane,Commercial,1919,2778,C,Zaid,20.38,71.83
+F0474,Punjab,Rice,Cereal,794,1352,C,Rabi,8.912,81.781
+F0475,Tamil Nadu,Groundnut,Oilseed,595,5855,B,Rabi,10.015,95.415
+F0476,Karnataka,Sugarcane,Commercial,3317,3287,B,Rabi,23.096,91.017
+F0477,Madhya Pradesh,Maize,Cereal,3607,1832,B,Zaid,24.75,83.926
+F0478,Tamil Nadu,Paddy,Cereal,2559,1801,B,Rabi,20.441,92.669
+F0479,West Bengal,Rice,Cereal,1391,1423,C,Kharif,21.658,75.117
+F0480,Odisha,Groundnut,Oilseed,3277,5983,B,Zaid,28.069,72.854
+F0481,Tamil Nadu,Groundnut,Oilseed,1958,4379,C,Rabi,17.116,77.608
+F0482,Karnataka,Ragi,Millet,2766,2813,A,Rabi,29.362,82.128
+F0483,Haryana,Barley,Cereal,2129,1843,B,Kharif,18.147,78.901
+F0484,Madhya Pradesh,Maize,Cereal,4514,1485,C,Kharif,23.15,80.176
+F0485,Punjab,Rice,Cereal,4350,2077,A,Kharif,35.633,71.056
+F0486,Uttar Pradesh,Wheat,Cereal,1536,1878,B,Zaid,29.688,74.428
+F0487,Tamil Nadu,Paddy,Cereal,4066,1646,B,Rabi,24.242,82.722
+F0488,Tamil Nadu,Paddy,Cereal,903,2316,A,Rabi,16.594,71.023
+F0489,Karnataka,Ragi,Millet,1281,1858,C,Kharif,30.556,76.131
+F0490,Punjab,Rice,Cereal,1441,2266,A,Zaid,27.319,85.6
+F0491,West Bengal,Jute,Fiber,2927,7047,A,Zaid,20.064,68.543
+F0492,Karnataka,Tur,Pulse,670,4788,B,Rabi,27.453,88.235
+F0493,Gujarat,Bajra,Millet,2540,2080,C,Kharif,9.923,82.552
+F0494,Haryana,Rice,Cereal,3303,1798,B,Rabi,32.386,90.35
+F0495,Odisha,Groundnut,Oilseed,3079,6356,A,Zaid,29.974,91.873
+F0496,Haryana,Barley,Cereal,2618,1335,C,Kharif,12.599,93.39
+F0497,Punjab,Rice,Cereal,2712,1635,B,Rabi,24.918,78.914
+F0498,Maharashtra,Sugarcane,Commercial,4660,3215,B,Kharif,36.612,92.551
+F0499,Punjab,Maize,Cereal,4154,2247,A,Zaid,30.284,89.656
+F0500,Gujarat,Bajra,Millet,4163,2624,B,Zaid,22.012,80.545
+F0501,Tamil Nadu,Banana,Fruit,4391,2519,A,Kharif,14.994,78.991
+F0502,Odisha,Maize,Cereal,2614,2173,A,Zaid,17.112,78.75
+F0503,Tamil Nadu,Groundnut,Oilseed,3221,6433,A,Zaid,21.016,96.701
+F0504,Karnataka,Sugarcane,Commercial,3010,2671,C,Zaid,17.249,81.945
+F0505,Tamil Nadu,Banana,Fruit,1893,1703,C,Kharif,23.659,88.781
+F0506,Maharashtra,Sugarcane,Commercial,3640,2620,C,Zaid,27.617,72.876
+F0507,Tamil Nadu,Groundnut,Oilseed,3773,5605,B,Rabi,9.486,91.497
+F0508,Haryana,Rice,Cereal,4422,2094,A,Rabi,8.941,70.038
+F0509,West Bengal,Jute,Fiber,2965,4422,C,Rabi,35.749,79.894
+F0510,Maharashtra,Cotton,Fiber,3369,4541,C,Kharif,20.803,95.063
+F0511,Punjab,Maize,Cereal,597,2021,A,Kharif,35.334,83.626
+F0512,Maharashtra,Soybean,Oilseed,2240,6096,A,Kharif,31.806,85.78
+F0513,Gujarat,Cotton,Fiber,4877,6068,B,Zaid,18.312,86.246
+F0514,West Bengal,Potato,Vegetable,4077,1651,A,Kharif,8.857,80.313
+F0515,Madhya Pradesh,Maize,Cereal,1192,1846,B,Zaid,33.076,86.507
+F0516,West Bengal,Jute,Fiber,1816,6413,B,Kharif,31.144,79.751
+F0517,Maharashtra,Cotton,Fiber,2516,7282,A,Rabi,33.154,81.265
+F0518,Punjab,Maize,Cereal,3358,1915,B,Rabi,23.955,83.037
+F0519,Haryana,Wheat,Cereal,1870,1421,C,Rabi,16.027,82.634
+F0520,Karnataka,Sugarcane,Commercial,3750,3504,B,Kharif,31.833,74.648
+F0521,Odisha,Groundnut,Oilseed,1658,7053,A,Zaid,28.704,85.723
+F0522,Karnataka,Ragi,Millet,4260,3009,A,Rabi,30.43,81.946
+F0523,Maharashtra,Soybean,Oilseed,2129,4149,C,Zaid,25.278,69.282
+F0524,Tamil Nadu,Groundnut,Oilseed,2570,5298,B,Zaid,31.987,76.768
+F0525,Madhya Pradesh,Maize,Cereal,4893,1892,B,Zaid,15.341,73.446
+F0526,West Bengal,Jute,Fiber,4334,5131,C,Zaid,26.92,93.624
+F0527,Haryana,Wheat,Cereal,2146,1494,C,Kharif,33.446,95.134
+F0528,Uttar Pradesh,Wheat,Cereal,2508,1831,B,Zaid,15.208,84.286
+F0529,Madhya Pradesh,Soybean,Oilseed,1484,6461,A,Rabi,12.863,91.783
+F0530,Tamil Nadu,Banana,Fruit,4321,2137,B,Rabi,17.547,71.01
+F0531,Maharashtra,Sugarcane,Commercial,1150,2790,C,Rabi,27.74,70.823
+F0532,Madhya Pradesh,Wheat,Cereal,4140,2121,A,Rabi,23.664,90.749
+F0533,Uttar Pradesh,Wheat,Cereal,1338,1685,B,Rabi,28.324,72.796
+F0534,Tamil Nadu,Banana,Fruit,2586,2178,A,Rabi,22.982,86.377
+F0535,Maharashtra,Cotton,Fiber,1706,6589,A,Rabi,18.648,92.871
+F0536,Punjab,Maize,Cereal,2430,1904,B,Rabi,25.157,82.369
+F0537,Tamil Nadu,Groundnut,Oilseed,3065,4145,C,Rabi,20.895,73.514
+F0538,Punjab,Rice,Cereal,817,2323,A,Kharif,33.124,80.041
+F0539,West Bengal,Jute,Fiber,656,4843,C,Zaid,19.232,73.888
+F0540,Gujarat,Groundnut,Oilseed,4719,5907,B,Rabi,21.936,96.742
+F0541,Haryana,Wheat,Cereal,4767,1359,C,Kharif,29.089,79.669
+F0542,Odisha,Rice,Cereal,4059,1402,C,Zaid,14.622,90.434
+F0543,Odisha,Groundnut,Oilseed,3038,4596,C,Rabi,9.896,86.744
+F0544,Haryana,Rice,Cereal,3770,2352,A,Kharif,20.797,69.552
+F0545,Odisha,Rice,Cereal,4328,2302,A,Zaid,23.024,70.178
+F0546,Gujarat,Cotton,Fiber,2260,7205,A,Zaid,25.296,89.123
+F0547,Gujarat,Bajra,Millet,872,2072,C,Rabi,22.772,69.45
+F0548,Madhya Pradesh,Wheat,Cereal,3995,1496,C,Zaid,18.976,71.717
+F0549,West Bengal,Potato,Vegetable,2597,1207,C,Zaid,14.79,90.53
+F0550,Punjab,Rice,Cereal,2443,1996,A,Rabi,35.25,74.848
+F0551,Madhya Pradesh,Soybean,Oilseed,1300,7185,A,Kharif,23.448,89.389
+F0552,Tamil Nadu,Groundnut,Oilseed,1562,4731,C,Rabi,33.65,86.48
+F0553,Gujarat,Cotton,Fiber,4689,4413,C,Rabi,12.385,87.09
+F0554,Uttar Pradesh,Rice,Cereal,4600,1516,C,Kharif,19.126,87.385
+F0555,Karnataka,Sugarcane,Commercial,1449,3329,B,Zaid,25.243,89.331
+F0556,Tamil Nadu,Paddy,Cereal,2001,1431,C,Kharif,30.226,85.401
+F0557,Punjab,Maize,Cereal,1192,1665,B,Kharif,17.673,88.42
+F0558,Gujarat,Groundnut,Oilseed,3090,6454,A,Kharif,31.771,78.766
+F0559,Haryana,Wheat,Cereal,1641,2192,A,Zaid,29.205,83.598
+F0560,Tamil Nadu,Groundnut,Oilseed,1527,6399,A,Zaid,14.128,79.957
+F0561,Madhya Pradesh,Soybean,Oilseed,1510,4665,C,Zaid,25.24,82.487
+F0562,Haryana,Rice,Cereal,1498,2316,A,Kharif,29.245,94.927
+F0563,West Bengal,Rice,Cereal,4273,1750,B,Rabi,12.834,79.798
+F0564,Madhya Pradesh,Maize,Cereal,3516,1624,B,Kharif,16.832,95.596
+F0565,Gujarat,Groundnut,Oilseed,4597,6076,A,Rabi,11.59,74.961
+F0566,Haryana,Barley,Cereal,4249,1495,C,Rabi,9.771,85.877
+F0567,Punjab,Maize,Cereal,1143,2249,A,Zaid,13.421,93.853
+F0568,Madhya Pradesh,Maize,Cereal,4692,2065,A,Rabi,36.702,74.213
+F0569,Maharashtra,Cotton,Fiber,1731,5713,B,Kharif,20.32,71.534
+F0570,West Bengal,Jute,Fiber,3786,6793,A,Zaid,28.115,78.712
+F0571,Gujarat,Groundnut,Oilseed,3934,6523,A,Kharif,27.14,81.953
+F0572,Haryana,Wheat,Cereal,3848,1926,B,Zaid,24.504,70.419
+F0573,Uttar Pradesh,Wheat,Cereal,636,2028,A,Kharif,10.358,84.635
+F0574,Gujarat,Groundnut,Oilseed,4027,4425,C,Zaid,15.703,90.319
+F0575,Odisha,Rice,Cereal,1569,2006,A,Kharif,8.242,79.721
+F0576,Gujarat,Groundnut,Oilseed,4125,6852,A,Kharif,34.121,86.4
+F0577,West Bengal,Potato,Vegetable,3424,1163,C,Rabi,32.783,76.106
+F0578,Uttar Pradesh,Wheat,Cereal,3396,1951,B,Rabi,14.929,87.364
+F0579,Punjab,Wheat,Cereal,3094,1790,B,Kharif,14.99,75.555
+F0580,Karnataka,Tur,Pulse,2788,4529,B,Kharif,18.837,88.101
+F0581,Haryana,Rice,Cereal,2262,1361,C,Rabi,29.107,85.71
+F0582,Punjab,Rice,Cereal,4208,1669,B,Kharif,35.271,72.46
+F0583,Maharashtra,Sugarcane,Commercial,3480,2890,B,Kharif,20.298,95.009
+F0584,Haryana,Barley,Cereal,2109,1818,B,Rabi,15.045,95.588
+F0585,West Bengal,Potato,Vegetable,548,1560,B,Kharif,20.204,78.741
+F0586,Tamil Nadu,Banana,Fruit,1117,1568,C,Rabi,16.062,88.974
+F0587,Punjab,Rice,Cereal,3781,1519,C,Kharif,8.588,73.142
+F0588,Karnataka,Sugarcane,Commercial,4710,3405,B,Zaid,14.713,75.441
+F0589,Karnataka,Tur,Pulse,4763,5507,A,Zaid,32.475,71.899
+F0590,Karnataka,Ragi,Millet,4878,1899,C,Rabi,34.937,78.728
+F0591,Maharashtra,Sugarcane,Commercial,3812,2809,C,Kharif,10.819,95.122
+F0592,Gujarat,Cotton,Fiber,4351,7539,A,Zaid,28.891,77.3
+F0593,Tamil Nadu,Groundnut,Oilseed,3336,7065,A,Zaid,15.317,80.05
+F0594,Gujarat,Bajra,Millet,2705,1838,C,Kharif,11.666,91.096
+F0595,West Bengal,Rice,Cereal,4218,1515,C,Zaid,35.199,93.913
+F0596,Maharashtra,Cotton,Fiber,4134,4562,C,Kharif,8.292,82.365
+F0597,Odisha,Maize,Cereal,1796,2179,A,Rabi,14.317,82.262
+F0598,Tamil Nadu,Banana,Fruit,3755,1499,C,Kharif,21.967,93.049
+F0599,Odisha,Rice,Cereal,2149,1383,C,Rabi,35.145,84.154
+F0600,Karnataka,Ragi,Millet,4678,1980,C,Rabi,12.946,72.015
+F0601,Karnataka,Sugarcane,Commercial,1973,2376,C,Kharif,16.104,80.54
+F0602,West Bengal,Jute,Fiber,4294,5758,B,Kharif,32.178,75.949
+F0603,West Bengal,Jute,Fiber,1175,6427,B,Zaid,19.382,85.818
+F0604,Haryana,Rice,Cereal,588,2074,A,Rabi,30.516,76.389
+F0605,West Bengal,Rice,Cereal,3738,1911,B,Rabi,21.715,81.941
+F0606,Odisha,Rice,Cereal,3391,1977,B,Rabi,10.58,70.691
+F0607,Karnataka,Tur,Pulse,725,4763,B,Zaid,34.438,95.971
+F0608,Haryana,Wheat,Cereal,887,1952,A,Rabi,23.275,69.493
+F0609,Maharashtra,Soybean,Oilseed,2939,5264,B,Rabi,24.822,82.43
+F0610,Punjab,Maize,Cereal,3550,2236,A,Kharif,12.496,91.488
+F0611,Punjab,Wheat,Cereal,1807,1352,C,Rabi,8.992,80.108
+F0612,Maharashtra,Cotton,Fiber,878,4868,C,Kharif,11.024,71.131
+F0613,Uttar Pradesh,Wheat,Cereal,4273,1992,A,Zaid,35.091,75.89
+F0614,Maharashtra,Cotton,Fiber,2870,7192,A,Zaid,22.158,68.622
+F0615,Tamil Nadu,Paddy,Cereal,2962,1649,B,Zaid,30.118,92.37
+F0616,West Bengal,Jute,Fiber,1719,7567,A,Zaid,26.73,75.837
+F0617,Haryana,Barley,Cereal,744,2269,A,Kharif,15.767,89.831
+F0618,Odisha,Rice,Cereal,1039,1694,B,Zaid,29.545,74.722
+F0619,West Bengal,Potato,Vegetable,2085,1155,C,Rabi,13.656,74.952
+F0620,Madhya Pradesh,Wheat,Cereal,3245,2173,A,Zaid,9.167,70.811
+F0621,Tamil Nadu,Paddy,Cereal,1969,2289,A,Zaid,34.492,79.423
+F0622,Odisha,Maize,Cereal,3062,1881,B,Kharif,25.943,70.895
+F0623,Maharashtra,Sugarcane,Commercial,1749,3444,B,Zaid,28.606,73.423
+F0624,West Bengal,Rice,Cereal,3522,2250,A,Rabi,9.956,78.518
+F0625,Madhya Pradesh,Wheat,Cereal,3652,2096,A,Zaid,11.369,96.087
+F0626,Punjab,Rice,Cereal,1180,1519,C,Rabi,26.461,70.771
+F0627,Odisha,Rice,Cereal,2710,1630,B,Kharif,10.1,87.951
+F0628,Tamil Nadu,Groundnut,Oilseed,3099,6573,A,Rabi,11.097,75.462
+F0629,Uttar Pradesh,Wheat,Cereal,1683,2251,A,Rabi,23.224,86.569
+F0630,Gujarat,Bajra,Millet,1372,1852,C,Zaid,9.209,93.28
+F0631,Gujarat,Cotton,Fiber,551,5485,B,Zaid,8.48,79.053
+F0632,Odisha,Rice,Cereal,3250,1950,B,Zaid,16.043,95.722
+F0633,West Bengal,Jute,Fiber,1028,4687,C,Zaid,34.212,69.018
+F0634,Haryana,Wheat,Cereal,4874,1475,C,Zaid,12.567,69.345
+F0635,Odisha,Maize,Cereal,4807,1816,B,Zaid,21.017,96.986
+F0636,Punjab,Wheat,Cereal,2690,1411,C,Kharif,9.879,84.801
+F0637,Odisha,Groundnut,Oilseed,3333,5909,B,Kharif,32.812,87.74
+F0638,Gujarat,Groundnut,Oilseed,640,4706,C,Rabi,22.217,79.392
+F0639,Uttar Pradesh,Sugarcane,Commercial,810,2807,C,Rabi,9.591,95.778
+F0640,Tamil Nadu,Paddy,Cereal,2033,1704,B,Rabi,29.742,96.315
+F0641,Odisha,Rice,Cereal,2546,2239,A,Rabi,33.707,91.184
+F0642,Gujarat,Bajra,Millet,2015,2305,B,Zaid,21.943,83.534
+F0643,Haryana,Rice,Cereal,3674,2134,A,Kharif,31.006,73.713
+F0644,Haryana,Rice,Cereal,2559,1746,B,Kharif,25.718,73.098
+F0645,Haryana,Barley,Cereal,1834,2078,A,Rabi,10.632,83.577
+F0646,Uttar Pradesh,Sugarcane,Commercial,2813,2759,C,Rabi,25.44,74.635
+F0647,Odisha,Rice,Cereal,3840,1647,B,Kharif,15.792,96.645
+F0648,Odisha,Maize,Cereal,4131,2008,A,Kharif,15.958,76.474
+F0649,Gujarat,Cotton,Fiber,3710,7100,A,Kharif,12.61,91.192
+F0650,Gujarat,Cotton,Fiber,4236,4707,C,Zaid,16.223,88.56
+F0651,Tamil Nadu,Banana,Fruit,3267,1494,C,Zaid,28.613,84.579
+F0652,Uttar Pradesh,Sugarcane,Commercial,988,4223,A,Kharif,27.863,74.328
+F0653,Gujarat,Bajra,Millet,3630,2134,C,Rabi,33.081,88.008
+F0654,Punjab,Rice,Cereal,3145,2294,A,Rabi,36.809,88.919
+F0655,Punjab,Wheat,Cereal,915,1380,C,Zaid,27.402,79.012
+F0656,Maharashtra,Soybean,Oilseed,4909,7216,A,Rabi,18.778,89.684
+F0657,Madhya Pradesh,Maize,Cereal,1616,2168,A,Kharif,23.068,71.956
+F0658,Uttar Pradesh,Rice,Cereal,3394,1405,C,Rabi,31.99,90.645
+F0659,Uttar Pradesh,Rice,Cereal,3614,2307,A,Rabi,10.692,73.072
+F0660,Madhya Pradesh,Wheat,Cereal,3509,2371,A,Kharif,19.546,82.675
+F0661,Karnataka,Tur,Pulse,1350,4756,B,Kharif,31.189,78.59
+F0662,Haryana,Barley,Cereal,3484,1479,C,Kharif,18.7,97.0
+F0663,Uttar Pradesh,Wheat,Cereal,2964,1969,B,Kharif,28.12,71.837
+F0664,Uttar Pradesh,Rice,Cereal,4416,1765,B,Zaid,26.285,70.645
+F0665,Punjab,Wheat,Cereal,4440,2167,A,Kharif,15.861,81.567
+F0666,West Bengal,Jute,Fiber,891,7171,A,Rabi,20.052,87.622
+F0667,Maharashtra,Sugarcane,Commercial,4298,2581,C,Rabi,28.52,76.429
+F0668,Madhya Pradesh,Wheat,Cereal,3198,1366,C,Zaid,14.406,88.337
+F0669,Haryana,Wheat,Cereal,1247,1724,B,Zaid,30.849,89.809
+F0670,Madhya Pradesh,Wheat,Cereal,1847,2141,A,Rabi,23.207,85.684
+F0671,Haryana,Barley,Cereal,2171,2011,A,Kharif,9.236,76.928
+F0672,Uttar Pradesh,Rice,Cereal,896,1632,B,Zaid,15.478,74.325
+F0673,Punjab,Maize,Cereal,3566,1546,C,Kharif,12.307,95.454
+F0674,Uttar Pradesh,Rice,Cereal,3885,1830,B,Zaid,31.713,83.45
+F0675,Tamil Nadu,Paddy,Cereal,4076,1466,C,Kharif,30.774,91.372
+F0676,Uttar Pradesh,Rice,Cereal,2333,2049,A,Rabi,35.021,91.599
+F0677,Madhya Pradesh,Wheat,Cereal,2886,2181,A,Kharif,23.539,91.333
+F0678,Odisha,Groundnut,Oilseed,3537,6467,A,Zaid,14.51,83.331
+F0679,Tamil Nadu,Banana,Fruit,1022,1579,C,Rabi,20.031,88.224
+F0680,Haryana,Rice,Cereal,2849,2283,A,Kharif,13.714,74.92
+F0681,Karnataka,Ragi,Millet,2373,3180,A,Zaid,16.412,79.61
+F0682,Madhya Pradesh,Maize,Cereal,2658,2070,A,Zaid,20.94,70.387
+F0683,Tamil Nadu,Groundnut,Oilseed,1104,5598,B,Zaid,12.231,84.723
+F0684,Punjab,Wheat,Cereal,3874,1418,C,Kharif,29.355,78.571
+F0685,Haryana,Rice,Cereal,4804,1497,C,Rabi,10.762,73.704
+F0686,Maharashtra,Soybean,Oilseed,3376,5793,B,Kharif,26.508,90.758
+F0687,Maharashtra,Cotton,Fiber,3694,5117,C,Kharif,28.325,94.325
+F0688,Odisha,Rice,Cereal,2616,1928,B,Zaid,19.656,85.391
+F0689,Madhya Pradesh,Maize,Cereal,911,2276,A,Kharif,21.342,83.088
+F0690,Odisha,Groundnut,Oilseed,3368,5349,B,Kharif,18.632,69.333
+F0691,Uttar Pradesh,Wheat,Cereal,2569,1514,C,Kharif,19.211,85.949
+F0692,Haryana,Rice,Cereal,4058,1494,C,Zaid,27.587,74.967
+F0693,West Bengal,Potato,Vegetable,1361,1239,C,Rabi,28.744,84.858
+F0694,Tamil Nadu,Paddy,Cereal,4733,1437,C,Zaid,19.592,75.587
+F0695,Maharashtra,Sugarcane,Commercial,3018,2815,C,Rabi,31.009,72.617
+F0696,Madhya Pradesh,Wheat,Cereal,3228,1761,B,Rabi,24.254,77.623
+F0697,Gujarat,Bajra,Millet,1493,2008,C,Zaid,36.129,74.524
+F0698,Tamil Nadu,Banana,Fruit,568,2149,B,Zaid,32.856,68.545
+F0699,Tamil Nadu,Paddy,Cereal,1566,1642,B,Zaid,21.69,82.348
+F0700,Haryana,Rice,Cereal,1401,1677,B,Rabi,11.89,83.658
+F0701,Karnataka,Tur,Pulse,2351,6449,A,Kharif,10.064,95.767
+F0702,Karnataka,Tur,Pulse,2984,5247,B,Rabi,10.068,93.819
+F0703,Maharashtra,Soybean,Oilseed,1205,5093,B,Zaid,36.006,91.28
+F0704,Madhya Pradesh,Wheat,Cereal,1762,1652,B,Kharif,16.058,78.665
+F0705,Madhya Pradesh,Soybean,Oilseed,4783,7196,A,Zaid,9.615,72.646
+F0706,Maharashtra,Cotton,Fiber,4113,4782,C,Zaid,13.774,89.906
+F0707,Odisha,Groundnut,Oilseed,756,4322,C,Zaid,8.359,77.861
+F0708,West Bengal,Rice,Cereal,3946,1859,B,Rabi,20.668,81.568
+F0709,Tamil Nadu,Paddy,Cereal,4843,1780,B,Kharif,16.174,78.407
+F0710,Odisha,Groundnut,Oilseed,3054,5785,B,Rabi,22.61,81.733
+F0711,Haryana,Wheat,Cereal,1151,1841,B,Rabi,12.555,83.933
+F0712,Karnataka,Sugarcane,Commercial,4145,3836,A,Zaid,14.331,83.137
+F0713,West Bengal,Jute,Fiber,2018,4442,C,Rabi,10.565,72.828
+F0714,Odisha,Rice,Cereal,838,2024,A,Rabi,33.123,72.552
+F0715,Tamil Nadu,Groundnut,Oilseed,1430,6807,A,Zaid,12.819,74.903
+F0716,Tamil Nadu,Groundnut,Oilseed,4031,5377,B,Rabi,17.309,82.699
+F0717,Uttar Pradesh,Rice,Cereal,975,1959,B,Rabi,31.559,90.042
+F0718,Madhya Pradesh,Soybean,Oilseed,1375,5265,B,Rabi,12.442,71.266
+F0719,Madhya Pradesh,Maize,Cereal,2361,2251,A,Kharif,27.182,92.114
+F0720,Gujarat,Groundnut,Oilseed,842,4457,C,Kharif,30.548,73.797
+F0721,Maharashtra,Soybean,Oilseed,800,6623,A,Zaid,28.298,70.638
+F0722,Haryana,Wheat,Cereal,605,1796,B,Zaid,32.942,94.16
+F0723,Maharashtra,Soybean,Oilseed,1440,5924,B,Kharif,22.806,70.933
+F0724,Haryana,Barley,Cereal,3306,2159,A,Kharif,16.294,95.412
+F0725,Punjab,Wheat,Cereal,2917,1708,B,Zaid,17.697,87.377
+F0726,West Bengal,Jute,Fiber,4813,7633,A,Kharif,20.295,70.462
+F0727,Gujarat,Bajra,Millet,3994,3107,A,Kharif,23.54,74.266
+F0728,Haryana,Barley,Cereal,1537,2114,A,Kharif,26.482,96.308
+F0729,Uttar Pradesh,Sugarcane,Commercial,2498,3170,B,Zaid,13.886,88.888
+F0730,Maharashtra,Soybean,Oilseed,2010,5360,B,Kharif,12.251,73.625
+F0731,Punjab,Wheat,Cereal,1850,1693,B,Kharif,17.513,95.301
+F0732,West Bengal,Potato,Vegetable,4456,1757,A,Kharif,15.753,76.894
+F0733,Odisha,Maize,Cereal,1985,1689,B,Rabi,12.288,71.772
+F0734,Tamil Nadu,Groundnut,Oilseed,2467,6292,A,Rabi,10.795,73.114
+F0735,Gujarat,Bajra,Millet,4452,2651,B,Kharif,36.954,94.979
+F0736,Karnataka,Sugarcane,Commercial,4266,3363,B,Rabi,12.153,85.936
+F0737,Punjab,Rice,Cereal,1600,2352,A,Zaid,30.163,69.871
+F0738,Gujarat,Groundnut,Oilseed,4789,4237,C,Rabi,36.417,71.453
+F0739,Tamil Nadu,Paddy,Cereal,3067,1865,B,Rabi,10.444,71.229
+F0740,Tamil Nadu,Banana,Fruit,3503,1697,C,Rabi,32.425,72.287
+F0741,Punjab,Wheat,Cereal,4624,1507,C,Zaid,23.258,92.654
+F0742,Madhya Pradesh,Maize,Cereal,4650,1755,B,Kharif,9.949,89.573
+F0743,Gujarat,Bajra,Millet,3507,2330,B,Rabi,25.786,86.54
+F0744,Tamil Nadu,Banana,Fruit,763,1658,C,Kharif,14.182,88.293
+F0745,Uttar Pradesh,Rice,Cereal,4259,1672,B,Rabi,25.253,93.693
+F0746,Odisha,Maize,Cereal,626,1547,C,Rabi,14.602,77.615
+F0747,Haryana,Barley,Cereal,4482,1768,B,Kharif,16.741,92.859
+F0748,Odisha,Maize,Cereal,1942,1453,C,Rabi,21.272,85.321
+F0749,West Bengal,Potato,Vegetable,2415,1152,C,Kharif,27.171,71.286
+F0750,Odisha,Groundnut,Oilseed,3950,4651,C,Rabi,23.136,81.174
+F0751,West Bengal,Jute,Fiber,1706,7857,A,Zaid,27.87,85.924
+F0752,Madhya Pradesh,Soybean,Oilseed,4663,6026,A,Kharif,10.658,83.612
+F0753,Uttar Pradesh,Rice,Cereal,1441,1528,C,Kharif,36.728,87.394
+F0754,Uttar Pradesh,Rice,Cereal,2801,1491,C,Zaid,15.397,94.042
+F0755,Punjab,Wheat,Cereal,1881,2143,A,Kharif,11.226,80.302
+F0756,Madhya Pradesh,Wheat,Cereal,2820,1897,B,Zaid,9.362,96.977
+F0757,Punjab,Maize,Cereal,3611,1857,B,Zaid,27.092,79.25
+F0758,Madhya Pradesh,Maize,Cereal,4774,1449,C,Rabi,35.744,75.149
+F0759,Madhya Pradesh,Wheat,Cereal,3594,1491,C,Kharif,31.524,83.616
+F0760,West Bengal,Jute,Fiber,3402,7347,A,Rabi,28.725,80.456
+F0761,Gujarat,Bajra,Millet,2487,2118,C,Rabi,35.774,75.898
+F0762,Odisha,Groundnut,Oilseed,3006,6710,A,Zaid,28.788,84.504
+F0763,Tamil Nadu,Banana,Fruit,3214,1452,C,Zaid,13.515,75.354
+F0764,Maharashtra,Cotton,Fiber,1798,5012,C,Kharif,34.205,96.15
+F0765,Karnataka,Tur,Pulse,2377,5063,B,Kharif,27.422,80.372
+F0766,West Bengal,Jute,Fiber,3748,5874,B,Kharif,28.147,86.873
+F0767,Uttar Pradesh,Sugarcane,Commercial,2191,3083,B,Kharif,19.372,79.536
+F0768,Maharashtra,Soybean,Oilseed,2671,5655,B,Kharif,28.155,94.828
+F0769,West Bengal,Potato,Vegetable,2384,1890,A,Rabi,26.159,80.32
+F0770,Odisha,Rice,Cereal,3853,1531,C,Kharif,20.088,94.572
+F0771,Haryana,Rice,Cereal,2888,1486,C,Rabi,18.279,81.723
+F0772,Uttar Pradesh,Rice,Cereal,2361,2100,A,Zaid,34.028,93.171
+F0773,Maharashtra,Soybean,Oilseed,1077,4169,C,Kharif,8.352,77.416
+F0774,Gujarat,Groundnut,Oilseed,4226,6841,A,Rabi,14.294,77.153
+F0775,Gujarat,Groundnut,Oilseed,2008,7213,A,Kharif,35.83,85.842
+F0776,Gujarat,Bajra,Millet,3299,1873,C,Rabi,26.605,93.702
+F0777,Tamil Nadu,Paddy,Cereal,1885,1757,B,Rabi,16.041,91.471
+F0778,Madhya Pradesh,Wheat,Cereal,2308,1793,B,Kharif,28.994,87.358
+F0779,Punjab,Wheat,Cereal,1518,2036,A,Zaid,22.354,84.104
+F0780,Punjab,Wheat,Cereal,3464,1357,C,Rabi,10.345,95.809
+F0781,Tamil Nadu,Paddy,Cereal,1054,2165,A,Rabi,8.451,70.871
+F0782,West Bengal,Rice,Cereal,1864,1410,C,Rabi,8.156,74.428
+F0783,Haryana,Rice,Cereal,2599,1630,B,Rabi,33.08,70.739
+F0784,Punjab,Wheat,Cereal,875,1346,C,Zaid,34.416,70.05
+F0785,Maharashtra,Soybean,Oilseed,2142,7098,A,Rabi,26.144,82.738
+F0786,Madhya Pradesh,Wheat,Cereal,4208,1544,C,Rabi,36.02,84.093
+F0787,Punjab,Wheat,Cereal,2507,1868,B,Kharif,13.386,72.688
+F0788,Madhya Pradesh,Soybean,Oilseed,546,4657,C,Rabi,14.02,71.685
+F0789,West Bengal,Rice,Cereal,3394,1646,B,Kharif,9.482,82.033
+F0790,Uttar Pradesh,Wheat,Cereal,4255,1860,B,Kharif,23.167,72.56
+F0791,Haryana,Wheat,Cereal,4486,1632,B,Rabi,27.188,87.165
+F0792,West Bengal,Rice,Cereal,3222,1477,C,Rabi,8.152,85.553
+F0793,Tamil Nadu,Groundnut,Oilseed,602,5643,B,Zaid,28.471,85.289
+F0794,West Bengal,Jute,Fiber,1322,6158,B,Zaid,24.878,73.401
+F0795,Uttar Pradesh,Rice,Cereal,3084,1945,B,Zaid,32.316,83.408
+F0796,Karnataka,Sugarcane,Commercial,2776,4103,A,Rabi,26.286,95.664
+F0797,Odisha,Groundnut,Oilseed,722,5628,B,Kharif,16.882,77.892
+F0798,Maharashtra,Soybean,Oilseed,2943,6406,A,Rabi,27.102,69.194
+F0799,Karnataka,Sugarcane,Commercial,1455,2947,B,Rabi,10.57,87.308
+F0800,Gujarat,Bajra,Millet,1808,2450,B,Rabi,8.368,94.899
+F0801,Maharashtra,Cotton,Fiber,3872,6023,B,Zaid,27.932,85.304
+F0802,Karnataka,Sugarcane,Commercial,2863,2949,B,Kharif,17.967,82.402
+F0803,Maharashtra,Sugarcane,Commercial,525,3472,A,Zaid,22.591,78.964
+F0804,West Bengal,Jute,Fiber,4621,5936,B,Rabi,21.059,69.458
+F0805,Gujarat,Cotton,Fiber,529,6364,B,Zaid,10.325,77.224
+F0806,Punjab,Rice,Cereal,603,1299,C,Rabi,24.912,92.653
+F0807,West Bengal,Jute,Fiber,3941,6577,A,Zaid,22.463,82.352
+F0808,Tamil Nadu,Banana,Fruit,1500,1732,C,Zaid,13.036,95.106
+F0809,Karnataka,Sugarcane,Commercial,1856,4219,A,Zaid,17.397,87.174
+F0810,Uttar Pradesh,Sugarcane,Commercial,3576,3423,B,Zaid,18.987,78.224
+F0811,Odisha,Rice,Cereal,3312,1762,B,Rabi,14.17,83.177
+F0812,Uttar Pradesh,Rice,Cereal,1904,1521,C,Rabi,10.211,74.461
+F0813,Punjab,Wheat,Cereal,1879,2048,A,Zaid,13.687,72.385
+F0814,Madhya Pradesh,Maize,Cereal,987,1391,C,Zaid,25.272,76.12
+F0815,Haryana,Barley,Cereal,1949,1744,B,Kharif,16.12,81.976
+F0816,Tamil Nadu,Banana,Fruit,2930,2487,A,Kharif,14.028,91.481
+F0817,Gujarat,Groundnut,Oilseed,653,6038,B,Kharif,22.296,85.022
+F0818,Uttar Pradesh,Rice,Cereal,578,1448,C,Kharif,23.268,88.86
+F0819,Gujarat,Bajra,Millet,2930,2738,B,Zaid,16.14,88.474
+F0820,Odisha,Groundnut,Oilseed,4721,5883,B,Zaid,19.541,91.539
+F0821,Karnataka,Ragi,Millet,4065,2725,B,Kharif,35.344,72.325
+F0822,Gujarat,Groundnut,Oilseed,4266,6702,A,Kharif,29.784,72.195
+F0823,Maharashtra,Cotton,Fiber,2692,4509,C,Zaid,13.012,94.713
+F0824,Gujarat,Bajra,Millet,4552,2094,C,Rabi,27.783,87.446
+F0825,Maharashtra,Sugarcane,Commercial,1240,2809,C,Kharif,10.052,73.919
+F0826,Odisha,Maize,Cereal,2279,1801,B,Kharif,8.633,87.715
+F0827,Odisha,Groundnut,Oilseed,3500,5252,B,Rabi,34.85,71.716
+F0828,Punjab,Maize,Cereal,1929,1501,C,Rabi,25.869,81.254
+F0829,Madhya Pradesh,Soybean,Oilseed,1396,6172,A,Zaid,23.789,96.78
+F0830,Karnataka,Sugarcane,Commercial,3480,2780,C,Rabi,21.816,76.969
+F0831,West Bengal,Jute,Fiber,3889,5965,B,Kharif,16.525,75.273
+F0832,Madhya Pradesh,Maize,Cereal,2016,1881,B,Kharif,20.08,75.176
+F0833,Tamil Nadu,Banana,Fruit,3450,1605,C,Rabi,20.182,79.417
+F0834,Gujarat,Groundnut,Oilseed,3133,5171,B,Kharif,22.997,92.378
+F0835,Uttar Pradesh,Sugarcane,Commercial,883,2564,C,Rabi,25.915,78.805
+F0836,Maharashtra,Sugarcane,Commercial,2223,3424,B,Zaid,35.817,88.204
+F0837,Uttar Pradesh,Wheat,Cereal,3025,1487,C,Zaid,30.04,68.949
+F0838,West Bengal,Potato,Vegetable,1434,1540,B,Zaid,20.799,87.155
+F0839,Tamil Nadu,Paddy,Cereal,1191,1889,B,Kharif,22.98,93.867
+F0840,Uttar Pradesh,Wheat,Cereal,3509,1928,B,Rabi,28.204,93.51
+F0841,Gujarat,Cotton,Fiber,1666,5523,B,Kharif,35.784,95.112
+F0842,Tamil Nadu,Groundnut,Oilseed,1584,6206,A,Zaid,10.686,69.855
+F0843,West Bengal,Jute,Fiber,1048,7272,A,Rabi,30.135,70.889
+F0844,Tamil Nadu,Paddy,Cereal,1866,1460,C,Zaid,12.141,76.288
+F0845,West Bengal,Potato,Vegetable,2792,1409,B,Kharif,29.587,90.904
+F0846,Odisha,Maize,Cereal,2243,1348,C,Kharif,17.53,82.773
+F0847,Odisha,Rice,Cereal,3229,1756,B,Zaid,12.138,88.5
+F0848,Madhya Pradesh,Wheat,Cereal,1279,1339,C,Kharif,11.647,71.365
+F0849,Uttar Pradesh,Sugarcane,Commercial,2802,3042,B,Kharif,36.254,86.294
+F0850,Punjab,Wheat,Cereal,2745,1486,C,Rabi,11.236,73.495
+F0851,Odisha,Rice,Cereal,1550,1738,B,Rabi,29.462,91.937
+F0852,Haryana,Rice,Cereal,2373,1714,B,Zaid,16.628,91.447
+F0853,Punjab,Wheat,Cereal,2367,1661,B,Rabi,9.169,75.478
+F0854,Maharashtra,Soybean,Oilseed,2369,5297,B,Rabi,21.242,84.526
+F0855,Madhya Pradesh,Wheat,Cereal,3239,1560,C,Rabi,27.86,81.963
+F0856,Uttar Pradesh,Wheat,Cereal,4293,1825,B,Kharif,36.59,88.506
+F0857,Gujarat,Cotton,Fiber,2824,4748,C,Zaid,31.903,72.17
+F0858,Uttar Pradesh,Sugarcane,Commercial,916,3634,A,Kharif,12.445,82.556
+F0859,Maharashtra,Soybean,Oilseed,3234,5087,B,Zaid,10.29,91.907
+F0860,Gujarat,Cotton,Fiber,2477,4336,C,Zaid,20.003,88.673
+F0861,Tamil Nadu,Groundnut,Oilseed,1186,4684,C,Kharif,27.705,96.46
+F0862,Odisha,Rice,Cereal,4442,1302,C,Zaid,36.395,70.276
+F0863,Karnataka,Sugarcane,Commercial,4737,3607,A,Zaid,25.496,76.026
+F0864,Tamil Nadu,Banana,Fruit,2669,1927,B,Rabi,8.965,68.562
+F0865,Madhya Pradesh,Wheat,Cereal,2704,2165,A,Zaid,8.526,91.085
+F0866,Odisha,Groundnut,Oilseed,3643,6320,A,Kharif,21.897,68.61
+F0867,Punjab,Wheat,Cereal,3907,1705,B,Zaid,24.485,88.025
+F0868,Punjab,Wheat,Cereal,4843,2340,A,Rabi,18.124,86.278
+F0869,Odisha,Rice,Cereal,2246,1776,B,Kharif,21.749,77.494
+F0870,Uttar Pradesh,Sugarcane,Commercial,2920,4078,A,Rabi,22.812,76.586
+F0871,Uttar Pradesh,Wheat,Cereal,2213,1519,C,Kharif,35.561,92.977
+F0872,Haryana,Wheat,Cereal,2820,2366,A,Kharif,21.08,88.38
+F0873,Karnataka,Tur,Pulse,2163,5539,A,Kharif,26.096,86.246
+F0874,Tamil Nadu,Paddy,Cereal,3238,1516,C,Kharif,8.44,71.515
+F0875,Punjab,Rice,Cereal,1205,1675,B,Zaid,32.259,85.389
+F0876,Punjab,Rice,Cereal,2910,1352,C,Rabi,15.362,96.079
+F0877,West Bengal,Rice,Cereal,1384,1552,C,Zaid,14.264,88.947
+F0878,Tamil Nadu,Groundnut,Oilseed,2100,5551,B,Rabi,24.577,95.005
+F0879,Haryana,Barley,Cereal,3225,1955,B,Rabi,36.204,69.396
+F0880,Maharashtra,Soybean,Oilseed,1399,4666,C,Zaid,32.768,82.187
+F0881,Madhya Pradesh,Maize,Cereal,4194,1407,C,Kharif,19.016,86.21
+F0882,West Bengal,Rice,Cereal,4416,1969,A,Zaid,13.372,78.219
+F0883,Gujarat,Groundnut,Oilseed,4070,4690,C,Rabi,33.748,69.801
+F0884,Gujarat,Cotton,Fiber,4992,6522,B,Zaid,29.102,88.106
+F0885,West Bengal,Jute,Fiber,4562,4847,C,Rabi,26.869,78.493
+F0886,Tamil Nadu,Paddy,Cereal,1786,1538,C,Zaid,23.805,88.898
+F0887,Tamil Nadu,Paddy,Cereal,1438,1410,C,Zaid,24.714,78.264
+F0888,Tamil Nadu,Paddy,Cereal,1386,1329,C,Kharif,19.289,82.641
+F0889,Maharashtra,Soybean,Oilseed,1354,5494,B,Kharif,20.347,76.254
+F0890,Punjab,Wheat,Cereal,1108,1881,B,Rabi,11.711,91.275
+F0891,Gujarat,Bajra,Millet,2505,2560,B,Kharif,30.403,93.607
+F0892,Haryana,Wheat,Cereal,3110,1517,C,Kharif,11.246,87.256
+F0893,Maharashtra,Sugarcane,Commercial,1641,4108,A,Zaid,12.79,90.633
+F0894,Tamil Nadu,Banana,Fruit,2109,1698,C,Zaid,10.618,80.096
+F0895,Uttar Pradesh,Rice,Cereal,4235,2131,A,Zaid,18.28,89.915
+F0896,Maharashtra,Sugarcane,Commercial,4358,3586,A,Zaid,23.206,74.019
+F0897,Punjab,Rice,Cereal,2562,1481,C,Kharif,14.08,79.203
+F0898,Odisha,Groundnut,Oilseed,4432,4176,C,Kharif,20.959,76.514
+F0899,Madhya Pradesh,Wheat,Cereal,4398,1757,B,Kharif,19.196,87.484
+F0900,West Bengal,Rice,Cereal,3053,2077,A,Kharif,28.052,79.493
+F0901,Gujarat,Bajra,Millet,4143,2184,C,Rabi,15.954,68.926
+F0902,West Bengal,Jute,Fiber,2633,4954,C,Kharif,15.501,77.388
+F0903,Karnataka,Sugarcane,Commercial,1978,3774,A,Zaid,15.745,68.737
+F0904,West Bengal,Potato,Vegetable,4205,1545,B,Zaid,36.032,92.025
+F0905,Haryana,Rice,Cereal,4202,2249,A,Rabi,19.373,81.806
+F0906,Tamil Nadu,Groundnut,Oilseed,1280,5966,B,Zaid,23.621,74.827
+F0907,Gujarat,Groundnut,Oilseed,3867,5225,B,Kharif,26.778,89.545
+F0908,Haryana,Rice,Cereal,3786,1495,C,Kharif,30.741,91.055
+F0909,Haryana,Barley,Cereal,4025,1957,B,Rabi,12.26,68.078
+F0910,Punjab,Rice,Cereal,775,1790,B,Zaid,10.393,91.208
+F0911,Madhya Pradesh,Soybean,Oilseed,1580,4000,C,Kharif,16.556,72.677
+F0912,Odisha,Maize,Cereal,2894,2114,A,Rabi,33.614,71.049
+F0913,Karnataka,Ragi,Millet,1991,2254,B,Rabi,23.987,85.592
+F0914,Odisha,Maize,Cereal,3567,1432,C,Kharif,11.087,78.115
+F0915,Karnataka,Ragi,Millet,4683,1804,C,Kharif,8.069,77.629
+F0916,Uttar Pradesh,Wheat,Cereal,3691,1733,B,Rabi,12.555,95.543
+F0917,West Bengal,Potato,Vegetable,3225,1425,B,Zaid,31.863,69.929
+F0918,Karnataka,Ragi,Millet,1968,3193,A,Kharif,9.249,86.742
+F0919,Gujarat,Groundnut,Oilseed,3764,5825,B,Kharif,20.18,95.963
+F0920,Madhya Pradesh,Soybean,Oilseed,3986,3999,C,Rabi,8.111,81.826
+F0921,Odisha,Maize,Cereal,1086,1816,B,Kharif,30.788,74.107
+F0922,Punjab,Maize,Cereal,4677,1437,C,Rabi,34.006,85.223
+F0923,Karnataka,Sugarcane,Commercial,3982,4156,A,Kharif,17.181,85.991
+F0924,Karnataka,Ragi,Millet,2831,1921,C,Kharif,26.862,85.605
+F0925,Punjab,Maize,Cereal,1842,1822,B,Kharif,34.512,78.355
+F0926,Maharashtra,Cotton,Fiber,1716,5068,C,Kharif,12.505,90.44
+F0927,Madhya Pradesh,Soybean,Oilseed,4895,4206,C,Rabi,25.233,82.245
+F0928,Uttar Pradesh,Wheat,Cereal,4358,1727,B,Kharif,12.703,74.814
+F0929,Haryana,Rice,Cereal,3795,2161,A,Zaid,10.054,90.627
+F0930,Odisha,Maize,Cereal,1010,1413,C,Kharif,28.511,86.247
+F0931,Haryana,Wheat,Cereal,926,2106,A,Zaid,29.343,74.428
+F0932,Madhya Pradesh,Wheat,Cereal,2182,1905,B,Kharif,12.218,87.673
+F0933,Haryana,Wheat,Cereal,2497,1400,C,Zaid,24.819,93.229
+F0934,Uttar Pradesh,Sugarcane,Commercial,4970,3700,A,Zaid,35.357,71.146
+F0935,Punjab,Maize,Cereal,4913,1897,B,Zaid,25.773,70.602
+F0936,Tamil Nadu,Paddy,Cereal,3795,1522,C,Rabi,29.793,78.465
+F0937,Maharashtra,Soybean,Oilseed,1289,4954,B,Kharif,12.759,91.861
+F0938,Odisha,Groundnut,Oilseed,4917,4975,B,Rabi,14.203,74.373
+F0939,Karnataka,Tur,Pulse,2596,6128,A,Zaid,31.191,96.18
+F0940,Uttar Pradesh,Sugarcane,Commercial,4007,4146,A,Kharif,36.002,85.086
+F0941,Tamil Nadu,Groundnut,Oilseed,4362,5318,B,Kharif,33.633,69.34
+F0942,Madhya Pradesh,Wheat,Cereal,3516,1689,B,Rabi,16.498,86.826
+F0943,Haryana,Wheat,Cereal,1904,1521,C,Kharif,23.705,82.728
+F0944,Uttar Pradesh,Rice,Cereal,3471,1641,B,Rabi,32.197,80.541
+F0945,Haryana,Rice,Cereal,1392,2345,A,Kharif,19.017,74.673
+F0946,Haryana,Rice,Cereal,1288,2022,A,Rabi,13.761,84.657
+F0947,Gujarat,Cotton,Fiber,1863,7652,A,Zaid,10.254,82.075
+F0948,Haryana,Barley,Cereal,1096,1705,B,Kharif,19.099,75.506
+F0949,Punjab,Rice,Cereal,2051,1702,B,Rabi,31.954,82.058
+F0950,Odisha,Groundnut,Oilseed,4084,4587,C,Rabi,24.5,93.244
+F0951,Haryana,Rice,Cereal,3310,1792,B,Zaid,11.376,69.238
+F0952,Madhya Pradesh,Soybean,Oilseed,1386,6604,A,Rabi,9.845,73.8
+F0953,Punjab,Rice,Cereal,3335,2023,A,Zaid,36.071,88.915
+F0954,Karnataka,Sugarcane,Commercial,4401,4098,A,Kharif,15.0,96.679
+F0955,Maharashtra,Sugarcane,Commercial,730,3696,A,Zaid,30.977,79.377
+F0956,Uttar Pradesh,Wheat,Cereal,1691,2296,A,Kharif,10.958,87.015
+F0957,West Bengal,Potato,Vegetable,4883,1823,A,Kharif,36.365,95.126
+F0958,Karnataka,Sugarcane,Commercial,4265,3665,A,Zaid,17.896,94.521
+F0959,Madhya Pradesh,Maize,Cereal,2556,1526,C,Rabi,31.41,77.188
+F0960,Odisha,Rice,Cereal,3901,1367,C,Kharif,12.847,76.124
+F0961,Karnataka,Ragi,Millet,1214,2703,B,Kharif,29.41,81.505
+F0962,Karnataka,Ragi,Millet,3127,2974,A,Kharif,16.752,74.373
+F0963,Karnataka,Sugarcane,Commercial,814,3817,A,Kharif,11.203,80.709
+F0964,Gujarat,Bajra,Millet,1042,3039,A,Zaid,11.768,78.322
+F0965,Haryana,Barley,Cereal,3647,2047,A,Zaid,19.764,81.208
+F0966,Maharashtra,Soybean,Oilseed,915,5176,B,Kharif,26.474,94.243
+F0967,Tamil Nadu,Paddy,Cereal,2606,1407,C,Zaid,35.774,89.756
+F0968,Madhya Pradesh,Maize,Cereal,3694,2374,A,Kharif,15.236,91.202
+F0969,Haryana,Barley,Cereal,1664,1455,C,Zaid,12.039,68.013
+F0970,West Bengal,Rice,Cereal,939,1786,B,Rabi,27.444,73.892
+F0971,West Bengal,Potato,Vegetable,3929,1442,B,Kharif,13.888,88.325
+F0972,Haryana,Wheat,Cereal,1811,2120,A,Kharif,22.337,96.763
+F0973,West Bengal,Rice,Cereal,4193,1534,C,Rabi,19.087,96.706
+F0974,Punjab,Wheat,Cereal,4656,1528,C,Kharif,9.813,93.799
+F0975,Tamil Nadu,Banana,Fruit,4815,2374,A,Kharif,17.325,70.619
+F0976,Karnataka,Tur,Pulse,4840,4621,B,Kharif,18.019,91.062
+F0977,Odisha,Rice,Cereal,3014,1381,C,Kharif,24.614,69.781
+F0978,Gujarat,Groundnut,Oilseed,1978,5152,B,Rabi,11.467,85.709
+F0979,West Bengal,Jute,Fiber,1168,6631,A,Zaid,10.134,94.365
+F0980,Haryana,Wheat,Cereal,4364,1438,C,Kharif,11.008,76.756
+F0981,Haryana,Rice,Cereal,1474,1780,B,Zaid,31.078,71.676
+F0982,Tamil Nadu,Banana,Fruit,2631,2141,B,Rabi,34.642,84.56
+F0983,Maharashtra,Soybean,Oilseed,2598,5494,B,Kharif,20.891,78.81
+F0984,Punjab,Maize,Cereal,781,2264,A,Zaid,23.656,71.366
+F0985,Uttar Pradesh,Sugarcane,Commercial,1914,3928,A,Rabi,10.225,78.113
+F0986,Tamil Nadu,Paddy,Cereal,3102,1842,B,Rabi,8.735,77.459
+F0987,Uttar Pradesh,Rice,Cereal,1170,2185,A,Rabi,31.76,69.223
+F0988,Uttar Pradesh,Sugarcane,Commercial,4082,3412,B,Zaid,14.806,72.583
+F0989,Haryana,Barley,Cereal,2200,2279,A,Zaid,8.953,84.034
+F0990,Madhya Pradesh,Wheat,Cereal,3112,1877,B,Zaid,13.964,78.522
+F0991,Haryana,Barley,Cereal,3099,1721,B,Kharif,9.326,82.612
+F0992,Karnataka,Tur,Pulse,1557,3934,C,Kharif,30.952,77.626
+F0993,Punjab,Wheat,Cereal,4121,1972,A,Zaid,28.779,68.912
+F0994,West Bengal,Rice,Cereal,4974,1972,B,Rabi,14.477,95.646
+F0995,Tamil Nadu,Banana,Fruit,1183,1839,B,Kharif,31.463,84.215
+F0996,Madhya Pradesh,Maize,Cereal,675,2039,A,Zaid,29.15,71.873
+F0997,Gujarat,Groundnut,Oilseed,1032,4566,C,Rabi,9.28,77.932
+F0998,Haryana,Wheat,Cereal,699,1647,B,Rabi,21.876,77.23
+F0999,Uttar Pradesh,Wheat,Cereal,3425,2109,A,Zaid,12.989,89.334
+F1000,Maharashtra,Cotton,Fiber,4587,7105,A,Zaid,31.6,91.049

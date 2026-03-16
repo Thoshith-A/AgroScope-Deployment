@@ -1,0 +1,67 @@
+# Dependencies
+node_modules/
+server/node_modules/
+
+# Python virtualenv (server ML)
+.venv/
+**/.venv/
+server/ml/.venv/
+
+# Environment variables — NEVER PUSH THESE
+.env
+.env.local
+.env.development
+.env.production
+server/.env
+server/.env.local
+*.env
+
+# Build output
+dist/
+build/
+.vite/
+
+# Runtime uploads (created by server; do not commit)
+server/uploads/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+logs/
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+
+# Editor folders
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage and testing
+coverage/
+.nyc_output/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Cache
+.cache/
+.parcel-cache/
+.eslintcache
+
+# Large archives (keep repo under GitHub limits)
+*.zip
+
+# Bun lockfile — use npm (package-lock.json) for Railway/build consistency
+bun.lockb

@@ -1,0 +1,852 @@
+{
+  "f1@gmail.com_farmer": {
+    "userId": "f1@gmail.com",
+    "userEmail": "f1@gmail.com",
+    "role": "farmer",
+    "agroCredits": 57098,
+    "agroCoins": 0,
+    "pendingCredits": 98,
+    "totalEarned": 57098,
+    "transferredInCoins": 6,
+    "transferredOutCoins": 28,
+    "transactions": [
+      {
+        "id": "1773699834557_coin_dbrns",
+        "type": "COIN_CONVERT",
+        "amount": 1,
+        "description": "🪙 1 Agro Coin earned! (1000 credits converted)",
+        "source": "auto_conversion",
+        "agroCreditsAfter": 57098,
+        "agroCoinsAfter": 35,
+        "timestamp": "2026-03-16T22:23:54.557Z"
+      },
+      {
+        "id": "1773699834557_pjbno",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 57098,
+        "agroCoinsAfter": 35,
+        "timestamp": "2026-03-16T22:23:54.557Z"
+      },
+      {
+        "id": "1773699819796_e21o1",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 56673,
+        "agroCoinsAfter": 34,
+        "timestamp": "2026-03-16T22:23:39.796Z"
+      },
+      {
+        "id": "1773699175031_pdcqd",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 56623,
+        "agroCoinsAfter": 34,
+        "timestamp": "2026-03-16T22:12:55.032Z"
+      },
+      {
+        "id": "1773698762064_2u9dy",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 56598,
+        "agroCoinsAfter": 34,
+        "timestamp": "2026-03-16T22:06:02.064Z"
+      },
+      {
+        "id": "1773695168312_nyxd9",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 56573,
+        "agroCoinsAfter": 34,
+        "timestamp": "2026-03-16T21:06:08.312Z"
+      },
+      {
+        "id": "1773682644815_bu19n",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 56548,
+        "agroCoinsAfter": 34,
+        "timestamp": "2026-03-16T17:37:24.815Z"
+      },
+      {
+        "id": "1773682565207_1qwen",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 56123,
+        "agroCoinsAfter": 34,
+        "timestamp": "2026-03-16T17:36:05.207Z"
+      },
+      {
+        "id": "1773681406993_coin_6g634",
+        "type": "COIN_CONVERT",
+        "amount": 1,
+        "description": "🪙 1 Agro Coin earned! (1000 credits converted)",
+        "source": "auto_conversion",
+        "agroCreditsAfter": 56073,
+        "agroCoinsAfter": 34,
+        "timestamp": "2026-03-16T17:16:46.993Z"
+      },
+      {
+        "id": "1773681406993_ou94r",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 56073,
+        "agroCoinsAfter": 34,
+        "timestamp": "2026-03-16T17:16:46.993Z"
+      },
+      {
+        "id": "1773681332365_5avtf",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 55648,
+        "agroCoinsAfter": 33,
+        "timestamp": "2026-03-16T17:15:32.365Z"
+      },
+      {
+        "id": "1773680719747_fhr2j",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 55598,
+        "agroCoinsAfter": 33,
+        "timestamp": "2026-03-16T17:05:19.747Z"
+      },
+      {
+        "id": "1773680364647_anp7q",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Supply forecast viewed",
+        "source": "FORECAST_VIEW",
+        "agroCreditsAfter": 55548,
+        "agroCoinsAfter": 33,
+        "timestamp": "2026-03-16T16:59:24.647Z"
+      },
+      {
+        "id": "1773606823035_3c5hb",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 55498,
+        "agroCoinsAfter": 33,
+        "timestamp": "2026-03-15T20:33:43.035Z"
+      },
+      {
+        "id": "1773606753940_c57l7",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 55073,
+        "agroCoinsAfter": 33,
+        "timestamp": "2026-03-15T20:32:33.940Z"
+      },
+      {
+        "id": "1773605706396_coin_nd84l",
+        "type": "COIN_CONVERT",
+        "amount": 1,
+        "description": "🪙 1 Agro Coin earned! (1000 credits converted)",
+        "source": "auto_conversion",
+        "agroCreditsAfter": 55023,
+        "agroCoinsAfter": 33,
+        "timestamp": "2026-03-15T20:15:06.397Z"
+      },
+      {
+        "id": "1773605706396_womvl",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 55023,
+        "agroCoinsAfter": 33,
+        "timestamp": "2026-03-15T20:15:06.396Z"
+      },
+      {
+        "id": "1773605694616_y8ck6",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 54598,
+        "agroCoinsAfter": 32,
+        "timestamp": "2026-03-15T20:14:54.616Z"
+      },
+      {
+        "id": "1773605347135_cyjj4",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 54548,
+        "agroCoinsAfter": 32,
+        "timestamp": "2026-03-15T20:09:07.135Z"
+      },
+      {
+        "id": "1773604501403_coin_3000z",
+        "type": "COIN_CONVERT",
+        "amount": 1,
+        "description": "🪙 1 Agro Coin earned! (1000 credits converted)",
+        "source": "auto_conversion",
+        "agroCreditsAfter": 54498,
+        "agroCoinsAfter": 32,
+        "timestamp": "2026-03-15T19:55:01.403Z"
+      },
+      {
+        "id": "1773604501403_ig27t",
+        "type": "CREDIT_EARN",
+        "amount": 595,
+        "description": "Listed Paddy Husk — 7 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 54498,
+        "agroCoinsAfter": 32,
+        "timestamp": "2026-03-15T19:55:01.403Z"
+      },
+      {
+        "id": "1773604489044_0skih",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 53903,
+        "agroCoinsAfter": 31,
+        "timestamp": "2026-03-15T19:54:49.044Z"
+      },
+      {
+        "id": "1773604426554_9u3q6",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 53853,
+        "agroCoinsAfter": 31,
+        "timestamp": "2026-03-15T19:53:46.554Z"
+      },
+      {
+        "id": "1773604408832_v1gtd",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 53428,
+        "agroCoinsAfter": 31,
+        "timestamp": "2026-03-15T19:53:28.832Z"
+      },
+      {
+        "id": "1773577596705_nsjmm",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Supply forecast viewed",
+        "source": "FORECAST_VIEW",
+        "agroCreditsAfter": 53378,
+        "agroCoinsAfter": 31,
+        "timestamp": "2026-03-15T12:26:36.705Z"
+      },
+      {
+        "id": "1773500388604_fwngl",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 53328,
+        "agroCoinsAfter": 31,
+        "timestamp": "2026-03-14T14:59:48.604Z"
+      },
+      {
+        "id": "1773494382551_jjixj",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Supply forecast viewed",
+        "source": "FORECAST_VIEW",
+        "agroCreditsAfter": 53303,
+        "agroCoinsAfter": 31,
+        "timestamp": "2026-03-14T13:19:42.551Z"
+      },
+      {
+        "id": "1773493554337_oyksm",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 53253,
+        "agroCoinsAfter": 31,
+        "timestamp": "2026-03-14T13:05:54.337Z"
+      },
+      {
+        "id": "1773492732512_havrv",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 53228,
+        "agroCoinsAfter": 31,
+        "timestamp": "2026-03-14T12:52:12.512Z"
+      },
+      {
+        "id": "1772931710752_coin_ccd3x",
+        "type": "COIN_CONVERT",
+        "amount": 1,
+        "description": "🪙 1 Agro Coin earned! (1000 credits converted)",
+        "source": "auto_conversion",
+        "agroCreditsAfter": 53203,
+        "agroCoinsAfter": 31,
+        "timestamp": "2026-03-08T01:01:50.752Z"
+      },
+      {
+        "id": "1772931710752_hmeob",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 53203,
+        "agroCoinsAfter": 31,
+        "timestamp": "2026-03-08T01:01:50.752Z"
+      },
+      {
+        "id": "1772931640303_uyf95",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 52778,
+        "agroCoinsAfter": 30,
+        "timestamp": "2026-03-08T01:00:40.303Z"
+      },
+      {
+        "id": "1772931520843_coin_mjavw",
+        "type": "COIN_CONVERT",
+        "amount": 1,
+        "description": "🪙 1 Agro Coin earned! (1000 credits converted)",
+        "source": "auto_conversion",
+        "agroCreditsAfter": 52353,
+        "agroCoinsAfter": 30,
+        "timestamp": "2026-03-08T00:58:40.843Z"
+      },
+      {
+        "id": "1772931520843_o46da",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 52353,
+        "agroCoinsAfter": 30,
+        "timestamp": "2026-03-08T00:58:40.843Z"
+      },
+      {
+        "id": "1772929977012_11yug",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 51928,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-08T00:32:57.012Z"
+      },
+      {
+        "id": "1772916546635_jv3em",
+        "type": "CREDIT_EARN",
+        "amount": 43,
+        "description": "Listed Paddy Husk — 0.5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 51903,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-07T20:49:06.635Z"
+      },
+      {
+        "id": "1772916244877_ofql3",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "AI weight estimation used",
+        "source": "WEIGHT_ESTIMATE",
+        "agroCreditsAfter": 51860,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-07T20:44:04.877Z"
+      },
+      {
+        "id": "1772916205059_wiuh1",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 51810,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-07T20:43:25.059Z"
+      },
+      {
+        "id": "1772913147052_8x1oz",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 51785,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-07T19:52:27.052Z"
+      },
+      {
+        "id": "1772911732547_r81b6",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 51760,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-07T19:28:52.547Z"
+      },
+      {
+        "id": "1772911709964_hw825",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 51335,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-07T19:28:29.964Z"
+      },
+      {
+        "id": "1772911672110_n3dx7",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "AI weight estimation used",
+        "source": "WEIGHT_ESTIMATE",
+        "agroCreditsAfter": 51285,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-07T19:27:52.110Z"
+      },
+      {
+        "id": "1772910737339_p4qet",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Supply forecast viewed",
+        "source": "FORECAST_VIEW",
+        "agroCreditsAfter": 51235,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-07T19:12:17.339Z"
+      },
+      {
+        "id": "1772908801089_s965j",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 51185,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-07T18:40:01.089Z"
+      },
+      {
+        "id": "1772906291141_tx_u0yas",
+        "type": "TRANSFER_OUT",
+        "amount": 12,
+        "description": "Sent 12 🪙 Agro Coins to ea***@argo",
+        "source": "transfer",
+        "agroCreditsAfter": 51160,
+        "agroCoinsAfter": 29,
+        "timestamp": "2026-03-07T17:58:11.141Z",
+        "metadata": {
+          "to": "east@argo",
+          "role": "startup"
+        }
+      },
+      {
+        "id": "1772906190509_iypn6",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 51160,
+        "agroCoinsAfter": 41,
+        "timestamp": "2026-03-07T17:56:30.509Z"
+      },
+      {
+        "id": "1772906081637_coin_sr6q6",
+        "type": "COIN_CONVERT",
+        "amount": 1,
+        "description": "🪙 1 Agro Coin earned! (1000 credits converted)",
+        "source": "auto_conversion",
+        "agroCreditsAfter": 51135,
+        "agroCoinsAfter": 41,
+        "timestamp": "2026-03-07T17:54:41.637Z"
+      },
+      {
+        "id": "1772906081637_gb08l",
+        "type": "CREDIT_EARN",
+        "amount": 425,
+        "description": "Listed Paddy Husk — 5 tons",
+        "source": "LIST_WASTE",
+        "agroCreditsAfter": 51135,
+        "agroCoinsAfter": 41,
+        "timestamp": "2026-03-07T17:54:41.637Z"
+      },
+      {
+        "id": "1772906050244_ocsw1",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 50710,
+        "agroCoinsAfter": 40,
+        "timestamp": "2026-03-07T17:54:10.244Z"
+      },
+      {
+        "id": "1772905713724_4hlky",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 50660,
+        "agroCoinsAfter": 40,
+        "timestamp": "2026-03-07T17:48:33.724Z"
+      }
+    ],
+    "lastUpdated": "2026-03-16T22:23:54.557Z"
+  },
+  "east@argo_startup": {
+    "userId": "east@argo",
+    "userEmail": "east@argo",
+    "role": "startup",
+    "agroCredits": 275,
+    "agroCoins": 0,
+    "pendingCredits": 275,
+    "totalEarned": 275,
+    "transferredInCoins": 28,
+    "transferredOutCoins": 6,
+    "transactions": [
+      {
+        "id": "1773695068511_axm79",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 275,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-16T21:04:28.511Z"
+      },
+      {
+        "id": "1773695068352_dp5wp",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 250,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-16T21:04:28.353Z"
+      },
+      {
+        "id": "1773678383007_j1iz3",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 225,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-16T16:26:23.007Z"
+      },
+      {
+        "id": "1773604361411_a7qik",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 200,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-15T19:52:41.411Z"
+      },
+      {
+        "id": "1773563501265_x6tam",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 175,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-15T08:31:41.265Z"
+      },
+      {
+        "id": "1773546218308_bowb1",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 150,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-15T03:43:38.308Z"
+      },
+      {
+        "id": "1773513887037_ghs3y",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 125,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-14T18:44:47.037Z"
+      },
+      {
+        "id": "1773511539620_6ju2i",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 100,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-14T18:05:39.620Z"
+      },
+      {
+        "id": "1773489933608_akiq8",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 75,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-14T12:05:33.608Z"
+      },
+      {
+        "id": "1773486012082_5nz1y",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 50,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-14T11:00:12.082Z"
+      },
+      {
+        "id": "1772906291141_tx_u0yas_recv",
+        "type": "TRANSFER_IN",
+        "amount": 12,
+        "description": "Received 12 🪙 Agro Coins from f1***@gmail.com",
+        "source": "transfer",
+        "agroCreditsAfter": 0,
+        "agroCoinsAfter": 22,
+        "timestamp": "2026-03-07T17:58:11.141Z",
+        "metadata": {
+          "from": "f1@gmail.com",
+          "role": "farmer"
+        }
+      },
+      {
+        "id": "1772904191750_tx_6b34y",
+        "type": "TRANSFER_OUT",
+        "amount": 1,
+        "description": "Sent 1 🪙 Agro Coin to f1***@gmail.com",
+        "source": "transfer",
+        "agroCreditsAfter": 0,
+        "agroCoinsAfter": 10,
+        "timestamp": "2026-03-07T17:23:11.750Z",
+        "metadata": {
+          "to": "f1@gmail.com",
+          "role": "farmer"
+        }
+      },
+      {
+        "id": "1772904012621_tx_h3y9c_recv",
+        "type": "TRANSFER_IN",
+        "amount": 1,
+        "description": "Received 1 🪙 Agro Coin from f1***@gmail.com",
+        "source": "transfer",
+        "agroCreditsAfter": 0,
+        "agroCoinsAfter": 11,
+        "timestamp": "2026-03-07T17:20:12.621Z",
+        "metadata": {
+          "from": "f1@gmail.com",
+          "role": "farmer"
+        }
+      },
+      {
+        "id": "1772900501580_tx_eoz52",
+        "type": "TRANSFER_OUT",
+        "amount": 1,
+        "description": "Sent 1 🪙 Agro Coin to f1***@gmail.com",
+        "source": "transfer",
+        "agroCreditsAfter": 0,
+        "agroCoinsAfter": 10,
+        "timestamp": "2026-03-07T16:21:41.580Z",
+        "metadata": {
+          "to": "f1@gmail.com",
+          "role": "farmer"
+        }
+      },
+      {
+        "id": "1772900458202_tx_evetn_recv",
+        "type": "TRANSFER_IN",
+        "amount": 1,
+        "description": "Received 1 🪙 Agro Coin from f1***@gmail.com",
+        "source": "transfer",
+        "agroCreditsAfter": 0,
+        "agroCoinsAfter": 11,
+        "timestamp": "2026-03-07T16:20:58.202Z",
+        "metadata": {
+          "from": "f1@gmail.com",
+          "role": "farmer"
+        }
+      },
+      {
+        "id": "1772900409631_tx_6x6v4",
+        "type": "TRANSFER_OUT",
+        "amount": 2,
+        "description": "Sent 2 🪙 Agro Coins to f1***@gmail.com",
+        "source": "transfer",
+        "agroCreditsAfter": 0,
+        "agroCoinsAfter": 10,
+        "timestamp": "2026-03-07T16:20:09.631Z",
+        "metadata": {
+          "to": "f1@gmail.com",
+          "role": "farmer"
+        }
+      },
+      {
+        "id": "1772900385719_tx_hst35_recv",
+        "type": "TRANSFER_IN",
+        "amount": 10,
+        "description": "Received 10 🪙 Agro Coins from f1***@gmail.com",
+        "source": "transfer",
+        "agroCreditsAfter": 0,
+        "agroCoinsAfter": 12,
+        "timestamp": "2026-03-07T16:19:45.719Z",
+        "metadata": {
+          "from": "f1@gmail.com",
+          "role": "farmer"
+        }
+      },
+      {
+        "id": "1772900357897_tx_4c7kb",
+        "type": "TRANSFER_OUT",
+        "amount": 2,
+        "description": "Sent 2 🪙 Agro Coins to f1***@gmail.com",
+        "source": "transfer",
+        "agroCreditsAfter": 0,
+        "agroCoinsAfter": 2,
+        "timestamp": "2026-03-07T16:19:17.897Z",
+        "metadata": {
+          "to": "f1@gmail.com",
+          "role": "farmer"
+        }
+      },
+      {
+        "id": "1772899885722_tx_6gr57_recv",
+        "type": "TRANSFER_IN",
+        "amount": 2,
+        "description": "Received 2 🪙 Agro Coins from f1***@gmail.com",
+        "source": "transfer",
+        "agroCreditsAfter": 0,
+        "agroCoinsAfter": 4,
+        "timestamp": "2026-03-07T16:11:25.722Z",
+        "metadata": {
+          "from": "f1@gmail.com",
+          "role": "farmer"
+        }
+      },
+      {
+        "id": "1772899872624_tx_rnigp_recv",
+        "type": "TRANSFER_IN",
+        "amount": 2,
+        "description": "Received 2 🪙 Agro Coins from f1***@gmail.com",
+        "source": "transfer",
+        "agroCreditsAfter": 0,
+        "agroCoinsAfter": 2,
+        "timestamp": "2026-03-07T16:11:12.624Z",
+        "metadata": {
+          "from": "f1@gmail.com",
+          "role": "farmer"
+        }
+      }
+    ],
+    "lastUpdated": "2026-03-16T21:04:28.511Z"
+  },
+  "admin@gmail.com_farmer": {
+    "userId": "admin@gmail.com",
+    "userEmail": "admin@gmail.com",
+    "role": "farmer",
+    "agroCredits": 75,
+    "agroCoins": 0,
+    "pendingCredits": 75,
+    "totalEarned": 75,
+    "transferredInCoins": 0,
+    "transferredOutCoins": 0,
+    "transactions": [
+      {
+        "id": "1773609335159_v6yhp",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 75,
+        "agroCoinsAfter": 0,
+        "timestamp": "2026-03-15T21:15:35.159Z"
+      },
+      {
+        "id": "1773496580465_p7u32",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 50,
+        "agroCoinsAfter": 0,
+        "timestamp": "2026-03-14T13:56:20.465Z"
+      },
+      {
+        "id": "1773490521234_or1yi",
+        "type": "CREDIT_EARN",
+        "amount": 25,
+        "description": "Daily login bonus",
+        "source": "DAILY_LOGIN",
+        "agroCreditsAfter": 25,
+        "agroCoinsAfter": 0,
+        "timestamp": "2026-03-14T12:15:21.234Z"
+      }
+    ],
+    "lastUpdated": "2026-03-15T21:15:35.159Z"
+  },
+  "f2@gmail.com_farmer": {
+    "userId": "f2@gmail.com",
+    "userEmail": "f2@gmail.com",
+    "role": "farmer",
+    "agroCredits": 100,
+    "agroCoins": 0,
+    "pendingCredits": 100,
+    "totalEarned": 100,
+    "transferredInCoins": 0,
+    "transferredOutCoins": 0,
+    "transactions": [
+      {
+        "id": "1773570196679_0x8f7",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 100,
+        "agroCoinsAfter": 0,
+        "timestamp": "2026-03-15T10:23:16.680Z"
+      },
+      {
+        "id": "1773569655612_m2572",
+        "type": "CREDIT_EARN",
+        "amount": 50,
+        "description": "Satellite crop scan completed",
+        "source": "SATELLITE_SCAN",
+        "agroCreditsAfter": 50,
+        "agroCoinsAfter": 0,
+        "timestamp": "2026-03-15T10:14:15.612Z"
+      }
+    ],
+    "lastUpdated": "2026-03-15T10:23:16.679Z"
+  }
+}

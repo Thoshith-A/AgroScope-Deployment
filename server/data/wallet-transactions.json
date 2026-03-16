@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "tx_1773606174087_4itlgunfn",
+    "walletId": "wallet_1773606174078_tnyhzjp",
+    "type": "listing_credit",
+    "amount": 10,
+    "description": "Payment received for Paddy Husk",
+    "referenceId": "1773605696360",
+    "status": "completed",
+    "createdAt": "2026-03-15T20:22:54.087Z"
+  },
+  {
+    "_id": "tx_1773606879407_6aa2ufhdh",
+    "walletId": "wallet_1773606174078_tnyhzjp",
+    "type": "listing_credit",
+    "amount": 50000,
+    "description": "Payment received for Paddy Husk",
+    "referenceId": "1773606813001",
+    "status": "completed",
+    "createdAt": "2026-03-15T20:34:39.407Z"
+  },
+  {
+    "_id": "tx_1773607023040_w10rocet4",
+    "walletId": "wallet_1773606174078_tnyhzjp",
+    "type": "withdrawal_requested",
+    "amount": -50000,
+    "description": "Withdrawal requested",
+    "referenceId": "wd_1773607023038_kom7cx25q",
+    "status": "completed",
+    "createdAt": "2026-03-15T20:37:03.040Z"
+  },
+  {
+    "_id": "tx_1773607127514_2uoss59uv",
+    "walletId": "wallet_1773606174078_tnyhzjp",
+    "type": "withdrawal_completed",
+    "amount": -50000,
+    "description": "Withdrawal completed",
+    "referenceId": "wd_1773607023038_kom7cx25q",
+    "status": "completed",
+    "createdAt": "2026-03-15T20:38:47.514Z"
+  },
+  {
+    "_id": "tx_1773678847887_eu0p3ux9y",
+    "walletId": "wallet_1773606174078_tnyhzjp",
+    "type": "listing_credit",
+    "amount": 50000,
+    "description": "Payment received for Paddy Husk",
+    "referenceId": "1773606813001",
+    "status": "completed",
+    "createdAt": "2026-03-16T16:34:07.887Z"
+  }
+]
