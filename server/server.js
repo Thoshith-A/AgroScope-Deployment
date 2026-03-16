@@ -50,6 +50,15 @@ import { fileURLToPath } from 'url';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const require = createRequire(import.meta.url);
+
+// Log unhandled errors so Render deploy logs show the cause (avoid silent exit)
+process.on('uncaughtException', (err) => {
+  console.error('[uncaughtException]', err?.stack || err);
+});
+process.on('unhandledRejection', (reason, p) => {
+  console.error('[unhandledRejection]', reason);
+});
+
 // Load .env: cwd (when run from project root), then project root, then server/.env overrides
 dotenv.config({ path: path.join(process.cwd(), '.env') });
 dotenv.config({ path: path.join(__dirname, '..', '.env') });
@@ -207,26 +216,26 @@ if (process.env.NODE_ENV === 'production') {
   }
 }
 
-httpServer.listen(PORT, HOST, async () => {
+httpServer.listen(PORT, HOST, () => {
   const hostLabel = HOST || 'localhost';
   console.log(`🚀 Server listening on http://${hostLabel}:${PORT} (NODE_ENV=${process.env.NODE_ENV || 'undefined'})`);
   if (process.env.NODE_ENV !== 'production') {
     console.log(`📊 Health: http://localhost:${PORT}/api/health`);
     console.log(`💳 Payments: POST /api/payments/submit, GET /api/payments`);
   }
-  // Load persisted data so farmer provisions, startup dashboard, payments and wallets survive restarts
-  try {
-    await initProvisionsFromStore();
-    await initPaymentsFromStore();
-    seedProvisionsFromList(getDemoProvisions());
-    console.log('✅ Loaded persisted provisions and payments from file store');
-  } catch (e) {
-    console.warn('⚠️ Could not load persisted data:', e?.message || e);
-  }
-  const geminiKey = (process.env.GEMINI_API_KEY || process.env.GOOGLE_VISION_API_KEY || '').trim();
-  const geminiModel = (process.env.GEMINI_MODEL || 'gemini-2.5-flash').trim();
-  if (geminiKey) {
-    (async () => {
+  // Run async init after listen so /api/health can succeed immediately (e.g. Render health check)
+  setImmediate(async () => {
+    try {
+      await initProvisionsFromStore();
+      await initPaymentsFromStore();
+      seedProvisionsFromList(getDemoProvisions());
+      console.log('✅ Loaded persisted provisions and payments from file store');
+    } catch (e) {
+      console.warn('⚠️ Could not load persisted data:', e?.message || e);
+    }
+    const geminiKey = (process.env.GEMINI_API_KEY || process.env.GOOGLE_VISION_API_KEY || '').trim();
+    const geminiModel = (process.env.GEMINI_MODEL || 'gemini-2.5-flash').trim();
+    if (geminiKey) {
       try {
         const url = `https://generativelanguage.googleapis.com/v1beta/models/${geminiModel}:generateContent?key=${encodeURIComponent(geminiKey)}`;
         const res = await fetch(url, {
@@ -243,9 +252,9 @@ httpServer.listen(PORT, HOST, async () => {
       } catch (e) {
         console.warn('⚠️ Gemini API check failed:', e.message);
       }
-    })();
-  } else {
-    console.warn('⚠️ GEMINI_API_KEY not set — AI weight estimates will use fallback only');
-  }
+    } else {
+      console.warn('⚠️ GEMINI_API_KEY not set — AI weight estimates will use fallback only');
+    }
+  });
 });
 

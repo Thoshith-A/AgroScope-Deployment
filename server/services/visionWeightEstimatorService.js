@@ -36,11 +36,16 @@ const ANCHOR_WIDTH_CM = {
 const HANDHELD_WEIGHT_CAP_KG = 2.0;
 const HANDHELD_SANITY_CAP_KG = 0.5;
 
-let sharp;
-try {
-  sharp = (await import('sharp')).default;
-} catch {
-  sharp = null;
+// Lazy-load sharp so server starts even if optional sharp is missing (e.g. on Render)
+let _sharp; // undefined = not loaded, null = failed, object = loaded
+async function getSharp() {
+  if (_sharp !== undefined) return _sharp;
+  try {
+    _sharp = (await import('sharp')).default;
+  } catch {
+    _sharp = null;
+  }
+  return _sharp;
 }
 
 function imageHash(buffer) {
@@ -177,6 +182,7 @@ const GEMINI_MAX_IMAGE_BYTES = 1.5 * 1024 * 1024;
 const GEMINI_IMAGE_TYPES = ['image/jpeg', 'image/jpg', 'image/png', 'image/webp', 'image/gif'];
 
 async function resizeForGemini(buffer, mimeType) {
+  const sharp = await getSharp();
   const mt = (mimeType || 'image/jpeg').toLowerCase();
   const needsConvert = !GEMINI_IMAGE_TYPES.includes(mt);
   const needsResize = sharp && buffer.length > GEMINI_MAX_IMAGE_BYTES;
@@ -194,6 +200,7 @@ async function resizeForGemini(buffer, mimeType) {
 }
 
 async function sharpAnalysis(buffer) {
+  const sharp = await getSharp();
   if (!sharp) {
     return { width: 0, height: 0, channels: 0, aspectRatio: 1, imageAngle: 'unknown' };
   }
