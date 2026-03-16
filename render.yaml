@@ -1,5 +1,5 @@
-# AgroScope Backend — deploy on Render (https://render.com)
-# Use "New" → "Blueprint" in Render and connect this repo to create the backend service.
+# AgroScope Backend - deploy on Render
+# Add MONGODB_URI, JWT_SECRET, DEEPSEEK_API_KEY, etc. in Render Dashboard after creation
 services:
   - type: web
     name: agroscope-backend
@@ -10,4 +10,3 @@ services:
     envVars:
       - key: NODE_ENV
         value: production
-    # PORT is set by Render. Add in Dashboard: MONGODB_URI, JWT_SECRET, DEEPSEEK_API_KEY, TAVILY_API_KEY, etc. (see server/.env.example).
