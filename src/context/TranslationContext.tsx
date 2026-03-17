@@ -105,8 +105,6 @@ export function TranslationProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const setLanguage = useCallback(async (lang: Language) => {
-    if (lang.code === currentLanguage.code) return;
-
     localStorage.setItem(LANG_STORAGE_KEY, JSON.stringify({ code: lang.code, name: lang.name, native: lang.native }));
     setCurrentLanguageState(lang);
 
@@ -114,7 +112,6 @@ export function TranslationProvider({ children }: { children: ReactNode }) {
   }, [currentLanguage.code]);
 
   const reapplyTranslation = useCallback(() => {
-    if (currentLanguage.code === "en") return;
     whenGoogleTranslateReady(() => {
       setTimeout(() => triggerGoogleTranslate(currentLanguage.code), 150);
     });

@@ -161,7 +161,9 @@ export default function SatelliteDetectModal({
   useEffect(() => {
     if (!mapDivRef.current || leafletRef.current) return
 
-    const map = L.map(mapDivRef.current).setView(
+    const map = L.map(mapDivRef.current, {
+      zoomControl: true,
+    }).setView(
       [20.5937, 78.9629], 5
     )
 
@@ -202,7 +204,19 @@ export default function SatelliteDetectModal({
     })
 
     leafletRef.current = map
+
+    // Ensure Leaflet recalculates size after modal animation / mobile layout
+    setTimeout(() => {
+      map.invalidateSize()
+    }, 0)
+
+    const handleResize = () => {
+      map.invalidateSize()
+    }
+    window.addEventListener('resize', handleResize)
+
     return () => {
+      window.removeEventListener('resize', handleResize)
       map.remove()
       leafletRef.current = null
     }
@@ -375,13 +389,13 @@ export default function SatelliteDetectModal({
   return (
     // Backdrop
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/70 backdrop-blur-sm"
+      className="fixed inset-0 z-50 flex items-center justify-center p-2 sm:p-4 bg-black/70 backdrop-blur-sm"
       onClick={(e) => {
         if (e.target === e.currentTarget) onClose()
       }}
     >
       {/* Modal box */}
-      <div className="bg-gray-950 border border-gray-700 rounded-2xl shadow-2xl w-full max-w-4xl max-h-[90vh] flex flex-col overflow-hidden">
+      <div className="bg-gray-950 border border-gray-700 rounded-2xl shadow-2xl w-full h-full max-w-4xl max-h-[100vh] sm:max-h-[90vh] flex flex-col overflow-hidden">
         {/* Header */}
         <div className="flex items-center justify-between px-5 py-3 border-b border-gray-800 shrink-0">
           <div className="flex items-center gap-2">
@@ -404,13 +418,12 @@ export default function SatelliteDetectModal({
         </div>
 
         {/* Body */}
-        <div className="flex flex-1 overflow-hidden min-h-0">
+        <div className="flex flex-1 flex-col md:flex-row overflow-hidden min-h-0">
           {/* Map */}
-          <div className="flex-1 relative min-h-0">
+          <div className="flex-1 relative min-h-[220px] md:min-h-0">
             <div
               ref={mapDivRef}
-              className="w-full h-full"
-              style={{ minHeight: '400px' }}
+              className="w-full h-64 md:h-full"
             />
             {!coords && (
               <div className="absolute bottom-4 left-0 right-0 flex justify-center pointer-events-none">
@@ -422,7 +435,7 @@ export default function SatelliteDetectModal({
           </div>
 
           {/* Sidebar */}
-          <div className="w-72 bg-gray-900 border-l border-gray-800 flex flex-col overflow-y-auto shrink-0">
+          <div className="w-full md:w-72 bg-gray-900 border-t md:border-t-0 md:border-l border-gray-800 flex flex-col overflow-y-auto shrink-0">
             {/* Coords */}
             <div className="p-4 border-b border-gray-800">
               <p className="text-xs text-gray-500 uppercase tracking-wider mb-2">
