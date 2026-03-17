@@ -55,8 +55,9 @@ const Home = () => {
   });
   const [authModalOpen, setAuthModalOpen] = useState(false);
   const [theme, setTheme] = useState<"light" | "dark">(() => {
-    if (typeof window === "undefined") return "light";
-    return (localStorage.getItem(THEME_KEY) as "light" | "dark") || "light";
+    if (typeof window === "undefined") return "dark";
+    const stored = localStorage.getItem(THEME_KEY) as "light" | "dark" | null;
+    return stored === "light" || stored === "dark" ? stored : "dark";
   });
 
   const handleAnimationComplete = () => {

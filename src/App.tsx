@@ -39,7 +39,12 @@ const THEME_KEY = "agro-theme";
 
 const App = () => {
   useEffect(() => {
-    const theme = localStorage.getItem(THEME_KEY) || "light";
+    // Default to dark theme on first visit; respect saved preference if present
+    const stored = localStorage.getItem(THEME_KEY);
+    const theme = stored === "light" || stored === "dark" ? stored : "dark";
+    if (!stored) {
+      localStorage.setItem(THEME_KEY, theme);
+    }
     document.documentElement.classList.toggle("dark", theme === "dark");
   }, []);
 
