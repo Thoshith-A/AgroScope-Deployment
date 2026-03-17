@@ -48,10 +48,29 @@ function getStoredLanguage(): Language {
   return found ?? SUPPORTED_LANGUAGES.find((l) => l.code === "en")!;
 }
 
-/** Reset Google Translate to show original (English). Set cookie then reload. */
+/** Reset Google Translate to show original (English). Clears/sets cookies and nudges the hidden select. */
 function resetGoogleTranslateToEnglish(): void {
   if (typeof document === "undefined") return;
-  document.cookie = "googtrans=/en/en; path=/; max-age=86400";
+
+  const host = window.location.hostname.replace(/^www\./, "");
+  const cookieVariants = [
+    "googtrans=/auto/en",
+    "googtrans=/en/en",
+  ];
+
+  cookieVariants.forEach((value) => {
+    // Generic path
+    document.cookie = `${value}; path=/; max-age=86400`;
+    // Explicit root domain (helps on production like agro-scope.online)
+    document.cookie = `${value}; path=/; domain=.${host}; max-age=86400`;
+  });
+
+  // Also try to directly flip the Google widget to English if it's mounted
+  const select = document.querySelector(".goog-te-combo") as HTMLSelectElement | null;
+  if (select) {
+    select.value = "en";
+    select.dispatchEvent(new Event("change", { bubbles: true }));
+  }
 }
 
 /** Trigger Google Translate widget by setting the hidden select and firing change. */
@@ -60,6 +79,7 @@ function triggerGoogleTranslate(langCode: string): boolean {
 
   if (langCode === "en") {
     resetGoogleTranslateToEnglish();
+    // Full reload keeps our own React state aligned with the now-reset Google overlay
     window.location.reload();
     return true;
   }
