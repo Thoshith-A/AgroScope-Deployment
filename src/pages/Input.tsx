@@ -508,20 +508,20 @@ const Input = () => {
   return (
     <div className="min-h-screen bg-gradient-to-b from-background to-muted/30">
       {/* Header */}
-      <header className="border-b bg-card/50 backdrop-blur-sm sticky top-0 z-50">
-        <div className="container mx-auto px-4 py-4 flex items-center justify-between gap-4">
-          <div className="flex items-center gap-4">
-            <Button variant="ghost" size="icon" onClick={() => navigate("/home")}>
+      <header className="border-b bg-card/50 backdrop-blur-sm sticky top-0 z-50 safe-area-inset-top">
+        <div className="container mx-auto px-3 sm:px-4 py-3 sm:py-4 flex items-center justify-between gap-2 flex-wrap">
+          <div className="flex items-center gap-2 sm:gap-4 min-w-0">
+            <Button variant="ghost" size="icon" className="shrink-0 min-h-[44px] min-w-[44px] touch-manipulation" onClick={() => navigate("/home")}>
               <ArrowLeft className="h-5 w-5" />
             </Button>
-            <button onClick={() => navigate("/home")} className="flex items-center gap-2 hover:opacity-80 transition-opacity">
+            <button onClick={() => navigate("/home")} className="flex items-center gap-2 hover:opacity-80 transition-opacity min-h-[44px] touch-manipulation shrink-0">
               <div className="bg-primary rounded-full p-2">
                 <Leaf className="w-5 h-5 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold">AgroScope</span>
+              <span className="text-lg sm:text-xl font-bold truncate">AgroScope</span>
             </button>
           </div>
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-2 shrink-0">
             <FarmerNotifications />
             <GlobalLanguageSelector />
           </div>
@@ -529,18 +529,18 @@ const Input = () => {
       </header>
 
       {/* Form Section */}
-      <div className="container mx-auto px-4 py-8 md:py-12">
-        <div className="max-w-2xl mx-auto">
-          <div className="text-center mb-8">
-            <h1 className="text-3xl md:text-4xl font-bold mb-2">
+      <div className="container mx-auto px-3 sm:px-4 py-6 sm:py-8 md:py-12">
+        <div className="max-w-2xl mx-auto w-full min-w-0">
+          <div className="text-center mb-6 sm:mb-8">
+            <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold mb-2 px-1">
               {t("input_page_title")}
             </h1>
-            <p className="text-muted-foreground">
+            <p className="text-sm sm:text-base text-muted-foreground px-1">
               {t("input_waste_type_placeholder")}
             </p>
           </div>
 
-          <Card className="p-6 md:p-8 shadow-lg">
+          <Card className="p-4 sm:p-6 md:p-8 shadow-lg overflow-hidden">
             <form onSubmit={handleSubmit} className="space-y-6">
               <SectionHeader
                 icon={<Package2 size={18} color="#16a34a" />}

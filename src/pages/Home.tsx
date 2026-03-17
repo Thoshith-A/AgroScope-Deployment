@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { Leaf, Sparkles, TrendingUp, Shield, Upload, BarChart3, Flame, Package, Newspaper, ChevronDown, CloudRain, Phone, Sun, Moon, FolderPlus, DollarSign } from "lucide-react";
+import { Leaf, Sparkles, TrendingUp, Shield, Upload, BarChart3, Flame, Package, Newspaper, ChevronDown, CloudRain, Phone, Sun, Moon, FolderPlus, DollarSign, Menu } from "lucide-react";
 
 /** WhatsApp Support hotline — same as whatsapp sandbox: opens customer care chat with pre-filled message. */
 const SUPPORT_WHATSAPP_URL = "https://wa.me/918617888597?text=" + encodeURIComponent("Hi, I need support from customer care.");
@@ -15,6 +15,7 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { useToast } from "@/hooks/use-toast";
 
 const THEME_KEY = "agro-theme";
@@ -202,19 +203,20 @@ const Home = () => {
           className="min-h-screen w-full overflow-x-hidden bg-background"
           style={{ minHeight: "100vh" }}
         >
-      {/* Header */}
-      <header className="site-nav border-b border-border bg-card/50 backdrop-blur-sm sticky top-0 z-50 dark:bg-black/95 dark:border-neutral-800">
-        <div className="container mx-auto px-4 py-4 flex items-center justify-between">
+      {/* Header — responsive: mobile menu (Sheet) + desktop nav */}
+      <header className="site-nav border-b border-border bg-card/50 backdrop-blur-sm sticky top-0 z-50 dark:bg-black/95 dark:border-neutral-800 safe-area-inset-top">
+        <div className="container mx-auto px-3 sm:px-4 py-3 sm:py-4 flex items-center justify-between gap-2 flex-wrap">
           <button 
             onClick={() => navigate('/home')}
-            className="flex items-center gap-2 hover:opacity-80 transition-opacity"
+            className="flex items-center gap-2 hover:opacity-80 transition-opacity min-h-[44px] min-w-[44px] touch-manipulation"
           >
             <div className="bg-primary rounded-full p-2">
-              <Leaf className="w-6 h-6 text-primary-foreground" />
+              <Leaf className="w-5 h-5 sm:w-6 sm:h-6 text-primary-foreground" />
             </div>
-            <span className="text-2xl font-bold text-foreground">AgroScope</span>
+            <span className="text-lg sm:text-2xl font-bold text-foreground truncate max-w-[140px] sm:max-w-none">AgroScope</span>
           </button>
-          <div className="site-nav-actions flex items-center gap-3">
+          {/* Desktop nav — hidden on small screens */}
+          <div className="site-nav-actions hidden md:flex items-center gap-2 lg:gap-3">
             <Button
               variant="outline"
               className="border-2 gap-2"
@@ -294,7 +296,7 @@ const Home = () => {
             <Button
               variant="outline"
               onClick={toggleTheme}
-              className="border-2 px-3"
+              className="border-2 px-3 min-h-[44px] min-w-[44px] touch-manipulation"
               title="Theme"
               aria-label="Toggle theme"
             >
@@ -305,6 +307,53 @@ const Home = () => {
               )}
             </Button>
           </div>
+          {/* Mobile menu — hamburger + sheet */}
+          <Sheet>
+            <SheetTrigger asChild>
+              <Button
+                variant="outline"
+                size="icon"
+                className="md:hidden border-2 min-h-[44px] min-w-[44px] touch-manipulation"
+                aria-label="Open menu"
+              >
+                <Menu className="h-5 w-5" />
+              </Button>
+            </SheetTrigger>
+            <SheetContent side="right" className="w-[min(100vw-2rem,320px)] flex flex-col gap-4 pt-8 safe-area-inset-top">
+              <Button variant="outline" className="justify-start gap-2 border-2 min-h-[48px]" onClick={() => { window.open(SUPPORT_WHATSAPP_URL, "_blank"); }}>
+                <Phone className="h-4 w-4" /> Support
+              </Button>
+              <DropdownMenu>
+                <DropdownMenuTrigger asChild>
+                  <Button variant="outline" className="w-full justify-start gap-2 border-2 min-h-[48px]">
+                    <Newspaper className="h-4 w-4" /> Live Data <ChevronDown className="h-4 w-4 ml-auto" />
+                  </Button>
+                </DropdownMenuTrigger>
+                <DropdownMenuContent align="start" className="min-w-[200px]">
+                  <DropdownMenuItem onClick={() => navigate("/agro-news-live")} className="gap-2 cursor-pointer"><Newspaper className="h-4 w-4" /> Agro News Live</DropdownMenuItem>
+                  <DropdownMenuItem onClick={() => navigate("/weather-forecast")} className="gap-2 cursor-pointer"><CloudRain className="h-4 w-4" /> Weather Forecast</DropdownMenuItem>
+                  <DropdownMenuItem onClick={() => navigate("/live-prices")} className="gap-2 cursor-pointer"><DollarSign className="h-4 w-4" /> Live Crop Price</DropdownMenuItem>
+                  <DropdownMenuItem onClick={() => navigate("/verification")} className="gap-2 cursor-pointer"><FolderPlus className="h-4 w-4" /> Add to Collection</DropdownMenuItem>
+                </DropdownMenuContent>
+              </DropdownMenu>
+              <GlobalLanguageSelector />
+              {!isLoggedIn ? (
+                <Button variant="outline" className="w-full justify-start border-2 min-h-[48px]" onClick={() => setAuthModalOpen(true)}>{t("nav_login")} / Sign Up</Button>
+              ) : (
+                <>
+                  {userRole === "admin" && (
+                    <Button variant="outline" className="w-full justify-start border-2 border-violet-500/50 min-h-[48px]" onClick={() => navigate("/payments")}>Verify payments</Button>
+                  )}
+                  <Button variant="outline" className="w-full justify-start border-2 min-h-[48px]" onClick={() => navigate("/notifications")}>{t("nav_notifications")}</Button>
+                  <div className="min-h-[48px]"><WalletDropdown role={userRole} /></div>
+                  <Button variant="outline" className="w-full justify-start border-2 min-h-[48px]" onClick={handleProfileClick}>{t("nav_profile")} ({userFirstName})</Button>
+                </>
+              )}
+              <Button variant="outline" className="w-full justify-start gap-2 border-2 min-h-[48px]" onClick={toggleTheme}>
+                {theme === "light" ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />} Theme
+              </Button>
+            </SheetContent>
+          </Sheet>
         </div>
       </header>
 
@@ -405,7 +454,7 @@ const Home = () => {
 
         {/* ── CONTENT (z-index: 5) ── */}
         <div
-          className="hero-content"
+          className="hero-content px-4 sm:px-6 md:px-8"
           style={{
             position: "relative",
             zIndex: 5,
@@ -506,20 +555,20 @@ const Home = () => {
 
       {/* Features Section */}
       <section
-        className="py-20 bg-white mt-10"
+        className="py-10 sm:py-16 md:py-20 bg-white dark:bg-card mt-6 sm:mt-10"
       >
-        <div className="container mx-auto px-4">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-4">
+        <div className="container mx-auto px-4 sm:px-6">
+          <div className="text-center mb-10 sm:mb-16">
+            <h2 className="text-2xl sm:text-3xl md:text-5xl font-bold text-foreground mb-3 sm:mb-4 px-2">
               Why Choose AgroScope?
             </h2>
-            <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
+            <p className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-2xl mx-auto px-1">
               AgroScope bridges the gap between agricultural waste and industrial demand, helping farmers monetize crop residue while providing companies with sustainable biomass resources.
             </p>
           </div>
 
-          <div className="agro-carousel overflow-hidden">
-            <div className="agro-carousel-track gap-6 py-4">
+          <div className="agro-carousel overflow-x-auto overflow-y-hidden overscroll-x-contain touch-pan-x">
+            <div className="agro-carousel-track gap-4 sm:gap-6 py-4">
               {[
                 { icon: <Sparkles className="w-7 h-7 text-primary" />, title: "AI Price Negotiation", desc: "Real-time AI negotiation for crop residue." },
                 { icon: <TrendingUp className="w-7 h-7 text-secondary" />, title: "30-Day Forecast", desc: "Supply and demand prediction over 30 days." },
@@ -541,7 +590,7 @@ const Home = () => {
                     duration: 0.55,
                     ease: [0.16, 1, 0.3, 1],
                   }}
-                  className="w-72 shrink-0 px-2"
+                  className="w-[280px] sm:w-72 shrink-0 px-2"
                 >
                   <Card className="border-2 hover:shadow-card transition-all duration-300 hover:scale-[1.02] h-full">
                     <CardHeader>
@@ -561,8 +610,8 @@ const Home = () => {
 
           {/* Tools: Forecast, Carbon, Recommendations */}
           <div className="mt-12 pt-12 border-t border-border">
-            <h3 className="text-xl font-semibold mb-4 text-center text-foreground">Tools & Insights</h3>
-            <div className="grid sm:grid-cols-3 gap-4">
+            <h3 className="text-lg sm:text-xl font-semibold mb-4 text-center text-foreground">Tools & Insights</h3>
+            <div className="grid grid-cols-2 sm:grid-cols-3 gap-3 sm:gap-4">
               <Button
                 variant="outline"
                 className="h-auto py-4 flex flex-col items-center gap-2"
@@ -596,8 +645,8 @@ const Home = () => {
       </section>
 
       {/* Footer */}
-      <footer className="border-t border-border py-8 bg-white dark:bg-white dark:border-neutral-200">
-        <div className="container mx-auto px-4 text-center text-muted-foreground">
+      <footer className="border-t border-border py-6 sm:py-8 bg-white dark:bg-card dark:border-neutral-200 safe-area-inset-bottom">
+        <div className="container mx-auto px-4 sm:px-6 text-center text-muted-foreground text-sm sm:text-base">
           <p>&copy; 2025 AgroScope. Transforming Waste into Value.</p>
         </div>
       </footer>

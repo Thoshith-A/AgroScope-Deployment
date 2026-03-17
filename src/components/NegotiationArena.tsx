@@ -121,9 +121,9 @@ export default function NegotiationArena({
         </button>
       </header>
 
-      <div className="flex-1 flex min-h-0">
+      <div className="flex-1 flex flex-col sm:flex-row min-h-0 overflow-auto">
         <motion.aside
-          className="w-full sm:w-[40%] min-w-0 flex flex-col border-r border-white/10 bg-[var(--field)]"
+          className="w-full sm:w-[40%] min-w-0 flex flex-col border-r border-white/10 bg-[var(--field)] shrink-0 sm:shrink"
           initial={{ x: -40, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
           transition={{ duration: 0.6, ease: 'easeOut' }}

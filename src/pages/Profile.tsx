@@ -102,25 +102,23 @@ const Profile = () => {
 
   return (
     <div className="min-h-screen bg-background">
-      <header className="border-b bg-card/50 backdrop-blur-sm sticky top-0 z-50">
-        <div className="container mx-auto px-4 py-4 flex items-center justify-between">
-          <button onClick={() => navigate('/home')} className="flex items-center gap-2 hover:opacity-80 transition-opacity">
+      <header className="border-b bg-card/50 backdrop-blur-sm sticky top-0 z-50 safe-area-inset-top">
+        <div className="container mx-auto px-3 sm:px-4 py-3 sm:py-4 flex items-center justify-between gap-2">
+          <button onClick={() => navigate('/home')} className="flex items-center gap-2 hover:opacity-80 transition-opacity min-h-[44px] touch-manipulation">
             <div className="bg-primary rounded-full p-2">
-              <Leaf className="w-6 h-6 text-primary-foreground" />
+              <Leaf className="w-5 h-5 sm:w-6 sm:h-6 text-primary-foreground" />
             </div>
-            <span className="text-2xl font-bold text-foreground">AgroScope</span>
+            <span className="text-lg sm:text-2xl font-bold text-foreground truncate">AgroScope</span>
           </button>
-          <div className="flex items-center gap-3">
-            <Button variant="outline" size="sm" onClick={() => navigate('/home')}>
-              <Home className="w-4 h-4 mr-2" />
-              Home
-            </Button>
-          </div>
+          <Button variant="outline" size="sm" className="min-h-[44px] touch-manipulation" onClick={() => navigate('/home')}>
+            <Home className="w-4 h-4 mr-2" />
+            Home
+          </Button>
         </div>
       </header>
 
-      <div className="container mx-auto px-4 py-12 max-w-xl space-y-6">
-        <Card className="border-2">
+      <div className="container mx-auto px-3 sm:px-4 py-8 sm:py-12 max-w-xl space-y-6 w-full min-w-0">
+        <Card className="border-2 overflow-hidden">
           <CardHeader>
             <div className="flex items-center justify-between flex-wrap gap-2">
               <CardTitle>Edit Profile</CardTitle>
@@ -150,10 +148,10 @@ const Profile = () => {
               </div>
             )}
             <div className="pt-2 grid grid-cols-1 gap-3">
-              <Button onClick={save} disabled={saving} className="w-full">
+              <Button onClick={save} disabled={saving} className="w-full min-h-[48px] touch-manipulation">
                 {saving ? 'Saving...' : 'Save Changes'}
               </Button>
-              <Button variant="outline" onClick={handleLogout} className="w-full">
+              <Button variant="outline" onClick={handleLogout} className="w-full min-h-[48px] touch-manipulation">
                 <LogOut className="w-4 h-4 mr-2" /> Logout
               </Button>
             </div>
